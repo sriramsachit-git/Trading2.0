@@ -1,0 +1,1833 @@
+2025-07-30 14:00:08,594 - INFO - Starting conversion of HS_3650_Minute_All.csv to Parquet
+2025-07-30 14:00:08,682 - INFO - Processing chunk 1
+2025-07-30 14:00:08,743 - INFO - Saved partition ticker=NVDA, part 0 to parquet_data/ticker=NVDA/part-0.parquet
+2025-07-30 14:00:08,820 - INFO - Processing chunk 2
+2025-07-30 14:00:08,868 - INFO - Saved partition ticker=NVDA, part 1 to parquet_data/ticker=NVDA/part-1.parquet
+2025-07-30 14:00:08,949 - INFO - Processing chunk 3
+2025-07-30 14:00:08,996 - INFO - Saved partition ticker=NVDA, part 2 to parquet_data/ticker=NVDA/part-2.parquet
+2025-07-30 14:00:09,070 - INFO - Processing chunk 4
+2025-07-30 14:00:09,115 - INFO - Saved partition ticker=NVDA, part 3 to parquet_data/ticker=NVDA/part-3.parquet
+2025-07-30 14:00:09,186 - INFO - Processing chunk 5
+2025-07-30 14:00:09,229 - INFO - Saved partition ticker=NVDA, part 4 to parquet_data/ticker=NVDA/part-4.parquet
+2025-07-30 14:00:09,309 - INFO - Processing chunk 6
+2025-07-30 14:00:09,353 - INFO - Saved partition ticker=NVDA, part 5 to parquet_data/ticker=NVDA/part-5.parquet
+2025-07-30 14:00:09,426 - INFO - Processing chunk 7
+2025-07-30 14:00:09,473 - INFO - Saved partition ticker=NVDA, part 6 to parquet_data/ticker=NVDA/part-6.parquet
+2025-07-30 14:00:09,552 - INFO - Processing chunk 8
+2025-07-30 14:00:09,596 - INFO - Saved partition ticker=NVDA, part 7 to parquet_data/ticker=NVDA/part-7.parquet
+2025-07-30 14:00:09,674 - INFO - Processing chunk 9
+2025-07-30 14:00:09,717 - INFO - Saved partition ticker=NVDA, part 8 to parquet_data/ticker=NVDA/part-8.parquet
+2025-07-30 14:00:09,792 - INFO - Processing chunk 10
+2025-07-30 14:00:09,838 - INFO - Saved partition ticker=NVDA, part 9 to parquet_data/ticker=NVDA/part-9.parquet
+2025-07-30 14:00:09,914 - INFO - Processing chunk 11
+2025-07-30 14:00:09,963 - INFO - Saved partition ticker=NVDA, part 10 to parquet_data/ticker=NVDA/part-10.parquet
+2025-07-30 14:00:10,036 - INFO - Processing chunk 12
+2025-07-30 14:00:10,081 - INFO - Saved partition ticker=NVDA, part 11 to parquet_data/ticker=NVDA/part-11.parquet
+2025-07-30 14:00:10,161 - INFO - Processing chunk 13
+2025-07-30 14:00:10,206 - INFO - Saved partition ticker=NVDA, part 12 to parquet_data/ticker=NVDA/part-12.parquet
+2025-07-30 14:00:10,282 - INFO - Processing chunk 14
+2025-07-30 14:00:10,324 - INFO - Saved partition ticker=NVDA, part 13 to parquet_data/ticker=NVDA/part-13.parquet
+2025-07-30 14:00:10,399 - INFO - Processing chunk 15
+2025-07-30 14:00:10,441 - INFO - Saved partition ticker=NVDA, part 14 to parquet_data/ticker=NVDA/part-14.parquet
+2025-07-30 14:00:10,520 - INFO - Processing chunk 16
+2025-07-30 14:00:10,538 - INFO - Saved partition ticker=MSFT, part 15 to parquet_data/ticker=MSFT/part-15.parquet
+2025-07-30 14:00:10,570 - INFO - Saved partition ticker=NVDA, part 15 to parquet_data/ticker=NVDA/part-15.parquet
+2025-07-30 14:00:10,640 - INFO - Processing chunk 17
+2025-07-30 14:00:10,682 - INFO - Saved partition ticker=MSFT, part 16 to parquet_data/ticker=MSFT/part-16.parquet
+2025-07-30 14:00:10,757 - INFO - Processing chunk 18
+2025-07-30 14:00:10,804 - INFO - Saved partition ticker=MSFT, part 17 to parquet_data/ticker=MSFT/part-17.parquet
+2025-07-30 14:00:10,880 - INFO - Processing chunk 19
+2025-07-30 14:00:10,924 - INFO - Saved partition ticker=MSFT, part 18 to parquet_data/ticker=MSFT/part-18.parquet
+2025-07-30 14:00:10,992 - INFO - Processing chunk 20
+2025-07-30 14:00:11,033 - INFO - Saved partition ticker=MSFT, part 19 to parquet_data/ticker=MSFT/part-19.parquet
+2025-07-30 14:00:11,105 - INFO - Processing chunk 21
+2025-07-30 14:00:11,146 - INFO - Saved partition ticker=MSFT, part 20 to parquet_data/ticker=MSFT/part-20.parquet
+2025-07-30 14:00:11,216 - INFO - Processing chunk 22
+2025-07-30 14:00:11,265 - INFO - Saved partition ticker=MSFT, part 21 to parquet_data/ticker=MSFT/part-21.parquet
+2025-07-30 14:00:11,347 - INFO - Processing chunk 23
+2025-07-30 14:00:11,388 - INFO - Saved partition ticker=MSFT, part 22 to parquet_data/ticker=MSFT/part-22.parquet
+2025-07-30 14:00:11,454 - INFO - Processing chunk 24
+2025-07-30 14:00:11,497 - INFO - Saved partition ticker=MSFT, part 23 to parquet_data/ticker=MSFT/part-23.parquet
+2025-07-30 14:00:11,564 - INFO - Processing chunk 25
+2025-07-30 14:00:11,604 - INFO - Saved partition ticker=MSFT, part 24 to parquet_data/ticker=MSFT/part-24.parquet
+2025-07-30 14:00:11,675 - INFO - Processing chunk 26
+2025-07-30 14:00:11,716 - INFO - Saved partition ticker=MSFT, part 25 to parquet_data/ticker=MSFT/part-25.parquet
+2025-07-30 14:00:11,785 - INFO - Processing chunk 27
+2025-07-30 14:00:11,829 - INFO - Saved partition ticker=MSFT, part 26 to parquet_data/ticker=MSFT/part-26.parquet
+2025-07-30 14:00:11,894 - INFO - Processing chunk 28
+2025-07-30 14:00:11,937 - INFO - Saved partition ticker=MSFT, part 27 to parquet_data/ticker=MSFT/part-27.parquet
+2025-07-30 14:00:12,005 - INFO - Processing chunk 29
+2025-07-30 14:00:12,053 - INFO - Saved partition ticker=MSFT, part 28 to parquet_data/ticker=MSFT/part-28.parquet
+2025-07-30 14:00:12,120 - INFO - Processing chunk 30
+2025-07-30 14:00:12,147 - INFO - Saved partition ticker=AAPL, part 29 to parquet_data/ticker=AAPL/part-29.parquet
+2025-07-30 14:00:12,169 - INFO - Saved partition ticker=MSFT, part 29 to parquet_data/ticker=MSFT/part-29.parquet
+2025-07-30 14:00:12,236 - INFO - Processing chunk 31
+2025-07-30 14:00:12,276 - INFO - Saved partition ticker=AAPL, part 30 to parquet_data/ticker=AAPL/part-30.parquet
+2025-07-30 14:00:12,342 - INFO - Processing chunk 32
+2025-07-30 14:00:12,387 - INFO - Saved partition ticker=AAPL, part 31 to parquet_data/ticker=AAPL/part-31.parquet
+2025-07-30 14:00:12,459 - INFO - Processing chunk 33
+2025-07-30 14:00:12,500 - INFO - Saved partition ticker=AAPL, part 32 to parquet_data/ticker=AAPL/part-32.parquet
+2025-07-30 14:00:12,567 - INFO - Processing chunk 34
+2025-07-30 14:00:12,608 - INFO - Saved partition ticker=AAPL, part 33 to parquet_data/ticker=AAPL/part-33.parquet
+2025-07-30 14:00:12,674 - INFO - Processing chunk 35
+2025-07-30 14:00:12,715 - INFO - Saved partition ticker=AAPL, part 34 to parquet_data/ticker=AAPL/part-34.parquet
+2025-07-30 14:00:12,780 - INFO - Processing chunk 36
+2025-07-30 14:00:12,847 - INFO - Saved partition ticker=AAPL, part 35 to parquet_data/ticker=AAPL/part-35.parquet
+2025-07-30 14:00:12,924 - INFO - Processing chunk 37
+2025-07-30 14:00:12,965 - INFO - Saved partition ticker=AAPL, part 36 to parquet_data/ticker=AAPL/part-36.parquet
+2025-07-30 14:00:13,033 - INFO - Processing chunk 38
+2025-07-30 14:00:13,072 - INFO - Saved partition ticker=AAPL, part 37 to parquet_data/ticker=AAPL/part-37.parquet
+2025-07-30 14:00:13,144 - INFO - Processing chunk 39
+2025-07-30 14:00:13,186 - INFO - Saved partition ticker=AAPL, part 38 to parquet_data/ticker=AAPL/part-38.parquet
+2025-07-30 14:00:13,257 - INFO - Processing chunk 40
+2025-07-30 14:00:13,313 - INFO - Saved partition ticker=AAPL, part 39 to parquet_data/ticker=AAPL/part-39.parquet
+2025-07-30 14:00:13,382 - INFO - Processing chunk 41
+2025-07-30 14:00:13,424 - INFO - Saved partition ticker=AAPL, part 40 to parquet_data/ticker=AAPL/part-40.parquet
+2025-07-30 14:00:13,491 - INFO - Processing chunk 42
+2025-07-30 14:00:13,531 - INFO - Saved partition ticker=AAPL, part 41 to parquet_data/ticker=AAPL/part-41.parquet
+2025-07-30 14:00:13,601 - INFO - Processing chunk 43
+2025-07-30 14:00:13,641 - INFO - Saved partition ticker=AAPL, part 42 to parquet_data/ticker=AAPL/part-42.parquet
+2025-07-30 14:00:13,715 - INFO - Processing chunk 44
+2025-07-30 14:00:13,754 - INFO - Saved partition ticker=AAPL, part 43 to parquet_data/ticker=AAPL/part-43.parquet
+2025-07-30 14:00:13,824 - INFO - Processing chunk 45
+2025-07-30 14:00:13,866 - INFO - Saved partition ticker=AAPL, part 44 to parquet_data/ticker=AAPL/part-44.parquet
+2025-07-30 14:00:13,932 - INFO - Processing chunk 46
+2025-07-30 14:00:13,973 - INFO - Saved partition ticker=AAPL, part 45 to parquet_data/ticker=AAPL/part-45.parquet
+2025-07-30 14:00:14,047 - INFO - Processing chunk 47
+2025-07-30 14:00:14,079 - INFO - Saved partition ticker=AAPL, part 46 to parquet_data/ticker=AAPL/part-46.parquet
+2025-07-30 14:00:14,095 - INFO - Saved partition ticker=AVGO, part 46 to parquet_data/ticker=AVGO/part-46.parquet
+2025-07-30 14:00:14,162 - INFO - Processing chunk 48
+2025-07-30 14:00:14,200 - INFO - Saved partition ticker=AVGO, part 47 to parquet_data/ticker=AVGO/part-47.parquet
+2025-07-30 14:00:14,269 - INFO - Processing chunk 49
+2025-07-30 14:00:14,310 - INFO - Saved partition ticker=AVGO, part 48 to parquet_data/ticker=AVGO/part-48.parquet
+2025-07-30 14:00:14,378 - INFO - Processing chunk 50
+2025-07-30 14:00:14,424 - INFO - Saved partition ticker=AVGO, part 49 to parquet_data/ticker=AVGO/part-49.parquet
+2025-07-30 14:00:14,495 - INFO - Processing chunk 51
+2025-07-30 14:00:14,538 - INFO - Saved partition ticker=AVGO, part 50 to parquet_data/ticker=AVGO/part-50.parquet
+2025-07-30 14:00:14,607 - INFO - Processing chunk 52
+2025-07-30 14:00:14,650 - INFO - Saved partition ticker=AVGO, part 51 to parquet_data/ticker=AVGO/part-51.parquet
+2025-07-30 14:00:14,718 - INFO - Processing chunk 53
+2025-07-30 14:00:14,762 - INFO - Saved partition ticker=AVGO, part 52 to parquet_data/ticker=AVGO/part-52.parquet
+2025-07-30 14:00:14,829 - INFO - Processing chunk 54
+2025-07-30 14:00:14,868 - INFO - Saved partition ticker=AVGO, part 53 to parquet_data/ticker=AVGO/part-53.parquet
+2025-07-30 14:00:14,935 - INFO - Processing chunk 55
+2025-07-30 14:00:14,978 - INFO - Saved partition ticker=AVGO, part 54 to parquet_data/ticker=AVGO/part-54.parquet
+2025-07-30 14:00:15,051 - INFO - Processing chunk 56
+2025-07-30 14:00:15,094 - INFO - Saved partition ticker=AVGO, part 55 to parquet_data/ticker=AVGO/part-55.parquet
+2025-07-30 14:00:15,165 - INFO - Processing chunk 57
+2025-07-30 14:00:15,212 - INFO - Saved partition ticker=AVGO, part 56 to parquet_data/ticker=AVGO/part-56.parquet
+2025-07-30 14:00:15,285 - INFO - Processing chunk 58
+2025-07-30 14:00:15,298 - INFO - Saved partition ticker=AVGO, part 57 to parquet_data/ticker=AVGO/part-57.parquet
+2025-07-30 14:00:15,331 - INFO - Saved partition ticker=TSM, part 57 to parquet_data/ticker=TSM/part-57.parquet
+2025-07-30 14:00:15,400 - INFO - Processing chunk 59
+2025-07-30 14:00:15,445 - INFO - Saved partition ticker=TSM, part 58 to parquet_data/ticker=TSM/part-58.parquet
+2025-07-30 14:00:15,514 - INFO - Processing chunk 60
+2025-07-30 14:00:15,556 - INFO - Saved partition ticker=TSM, part 59 to parquet_data/ticker=TSM/part-59.parquet
+2025-07-30 14:00:15,623 - INFO - Processing chunk 61
+2025-07-30 14:00:15,665 - INFO - Saved partition ticker=TSM, part 60 to parquet_data/ticker=TSM/part-60.parquet
+2025-07-30 14:00:15,733 - INFO - Processing chunk 62
+2025-07-30 14:00:15,778 - INFO - Saved partition ticker=TSM, part 61 to parquet_data/ticker=TSM/part-61.parquet
+2025-07-30 14:00:15,849 - INFO - Processing chunk 63
+2025-07-30 14:00:15,890 - INFO - Saved partition ticker=TSM, part 62 to parquet_data/ticker=TSM/part-62.parquet
+2025-07-30 14:00:15,964 - INFO - Processing chunk 64
+2025-07-30 14:00:16,003 - INFO - Saved partition ticker=TSM, part 63 to parquet_data/ticker=TSM/part-63.parquet
+2025-07-30 14:00:16,075 - INFO - Processing chunk 65
+2025-07-30 14:00:16,116 - INFO - Saved partition ticker=TSM, part 64 to parquet_data/ticker=TSM/part-64.parquet
+2025-07-30 14:00:16,181 - INFO - Processing chunk 66
+2025-07-30 14:00:16,222 - INFO - Saved partition ticker=TSM, part 65 to parquet_data/ticker=TSM/part-65.parquet
+2025-07-30 14:00:16,292 - INFO - Processing chunk 67
+2025-07-30 14:00:16,336 - INFO - Saved partition ticker=TSM, part 66 to parquet_data/ticker=TSM/part-66.parquet
+2025-07-30 14:00:16,411 - INFO - Processing chunk 68
+2025-07-30 14:00:16,452 - INFO - Saved partition ticker=TSM, part 67 to parquet_data/ticker=TSM/part-67.parquet
+2025-07-30 14:00:16,519 - INFO - Processing chunk 69
+2025-07-30 14:00:16,540 - INFO - Saved partition ticker=ORCL, part 68 to parquet_data/ticker=ORCL/part-68.parquet
+2025-07-30 14:00:16,568 - INFO - Saved partition ticker=TSM, part 68 to parquet_data/ticker=TSM/part-68.parquet
+2025-07-30 14:00:16,634 - INFO - Processing chunk 70
+2025-07-30 14:00:16,676 - INFO - Saved partition ticker=ORCL, part 69 to parquet_data/ticker=ORCL/part-69.parquet
+2025-07-30 14:00:16,742 - INFO - Processing chunk 71
+2025-07-30 14:00:16,790 - INFO - Saved partition ticker=ORCL, part 70 to parquet_data/ticker=ORCL/part-70.parquet
+2025-07-30 14:00:16,854 - INFO - Processing chunk 72
+2025-07-30 14:00:16,894 - INFO - Saved partition ticker=ORCL, part 71 to parquet_data/ticker=ORCL/part-71.parquet
+2025-07-30 14:00:16,963 - INFO - Processing chunk 73
+2025-07-30 14:00:17,006 - INFO - Saved partition ticker=ORCL, part 72 to parquet_data/ticker=ORCL/part-72.parquet
+2025-07-30 14:00:17,072 - INFO - Processing chunk 74
+2025-07-30 14:00:17,113 - INFO - Saved partition ticker=ORCL, part 73 to parquet_data/ticker=ORCL/part-73.parquet
+2025-07-30 14:00:17,186 - INFO - Processing chunk 75
+2025-07-30 14:00:17,231 - INFO - Saved partition ticker=ORCL, part 74 to parquet_data/ticker=ORCL/part-74.parquet
+2025-07-30 14:00:17,296 - INFO - Processing chunk 76
+2025-07-30 14:00:17,335 - INFO - Saved partition ticker=ORCL, part 75 to parquet_data/ticker=ORCL/part-75.parquet
+2025-07-30 14:00:17,406 - INFO - Processing chunk 77
+2025-07-30 14:00:17,449 - INFO - Saved partition ticker=ORCL, part 76 to parquet_data/ticker=ORCL/part-76.parquet
+2025-07-30 14:00:17,520 - INFO - Processing chunk 78
+2025-07-30 14:00:17,565 - INFO - Saved partition ticker=ORCL, part 77 to parquet_data/ticker=ORCL/part-77.parquet
+2025-07-30 14:00:17,638 - INFO - Processing chunk 79
+2025-07-30 14:00:17,680 - INFO - Saved partition ticker=ORCL, part 78 to parquet_data/ticker=ORCL/part-78.parquet
+2025-07-30 14:00:17,686 - INFO - Saved partition ticker=PLTR, part 78 to parquet_data/ticker=PLTR/part-78.parquet
+2025-07-30 14:00:17,754 - INFO - Processing chunk 80
+2025-07-30 14:00:17,799 - INFO - Saved partition ticker=PLTR, part 79 to parquet_data/ticker=PLTR/part-79.parquet
+2025-07-30 14:00:17,870 - INFO - Processing chunk 81
+2025-07-30 14:00:17,913 - INFO - Saved partition ticker=PLTR, part 80 to parquet_data/ticker=PLTR/part-80.parquet
+2025-07-30 14:00:17,990 - INFO - Processing chunk 82
+2025-07-30 14:00:18,035 - INFO - Saved partition ticker=PLTR, part 81 to parquet_data/ticker=PLTR/part-81.parquet
+2025-07-30 14:00:18,107 - INFO - Processing chunk 83
+2025-07-30 14:00:18,153 - INFO - Saved partition ticker=PLTR, part 82 to parquet_data/ticker=PLTR/part-82.parquet
+2025-07-30 14:00:18,226 - INFO - Processing chunk 84
+2025-07-30 14:00:18,272 - INFO - Saved partition ticker=PLTR, part 83 to parquet_data/ticker=PLTR/part-83.parquet
+2025-07-30 14:00:18,350 - INFO - Processing chunk 85
+2025-07-30 14:00:18,397 - INFO - Saved partition ticker=PLTR, part 84 to parquet_data/ticker=PLTR/part-84.parquet
+2025-07-30 14:00:18,469 - INFO - Processing chunk 86
+2025-07-30 14:00:18,516 - INFO - Saved partition ticker=PLTR, part 85 to parquet_data/ticker=PLTR/part-85.parquet
+2025-07-30 14:00:18,586 - INFO - Processing chunk 87
+2025-07-30 14:00:18,638 - INFO - Saved partition ticker=PLTR, part 86 to parquet_data/ticker=PLTR/part-86.parquet
+2025-07-30 14:00:18,712 - INFO - Processing chunk 88
+2025-07-30 14:00:18,760 - INFO - Saved partition ticker=PLTR, part 87 to parquet_data/ticker=PLTR/part-87.parquet
+2025-07-30 14:00:18,835 - INFO - Processing chunk 89
+2025-07-30 14:00:18,863 - INFO - Saved partition ticker=PLTR, part 88 to parquet_data/ticker=PLTR/part-88.parquet
+2025-07-30 14:00:18,883 - INFO - Saved partition ticker=SAP, part 88 to parquet_data/ticker=SAP/part-88.parquet
+2025-07-30 14:00:18,951 - INFO - Processing chunk 90
+2025-07-30 14:00:18,992 - INFO - Saved partition ticker=SAP, part 89 to parquet_data/ticker=SAP/part-89.parquet
+2025-07-30 14:00:19,062 - INFO - Processing chunk 91
+2025-07-30 14:00:19,103 - INFO - Saved partition ticker=SAP, part 90 to parquet_data/ticker=SAP/part-90.parquet
+2025-07-30 14:00:19,172 - INFO - Processing chunk 92
+2025-07-30 14:00:19,212 - INFO - Saved partition ticker=SAP, part 91 to parquet_data/ticker=SAP/part-91.parquet
+2025-07-30 14:00:19,283 - INFO - Processing chunk 93
+2025-07-30 14:00:19,324 - INFO - Saved partition ticker=SAP, part 92 to parquet_data/ticker=SAP/part-92.parquet
+2025-07-30 14:00:19,396 - INFO - Processing chunk 94
+2025-07-30 14:00:19,437 - INFO - Saved partition ticker=SAP, part 93 to parquet_data/ticker=SAP/part-93.parquet
+2025-07-30 14:00:19,507 - INFO - Processing chunk 95
+2025-07-30 14:00:19,548 - INFO - Saved partition ticker=SAP, part 94 to parquet_data/ticker=SAP/part-94.parquet
+2025-07-30 14:00:19,619 - INFO - Processing chunk 96
+2025-07-30 14:00:19,657 - INFO - Saved partition ticker=SAP, part 95 to parquet_data/ticker=SAP/part-95.parquet
+2025-07-30 14:00:19,724 - INFO - Processing chunk 97
+2025-07-30 14:00:19,767 - INFO - Saved partition ticker=SAP, part 96 to parquet_data/ticker=SAP/part-96.parquet
+2025-07-30 14:00:19,840 - INFO - Processing chunk 98
+2025-07-30 14:00:19,887 - INFO - Saved partition ticker=AMD, part 97 to parquet_data/ticker=AMD/part-97.parquet
+2025-07-30 14:00:19,894 - INFO - Saved partition ticker=SAP, part 97 to parquet_data/ticker=SAP/part-97.parquet
+2025-07-30 14:00:19,966 - INFO - Processing chunk 99
+2025-07-30 14:00:20,014 - INFO - Saved partition ticker=AMD, part 98 to parquet_data/ticker=AMD/part-98.parquet
+2025-07-30 14:00:20,090 - INFO - Processing chunk 100
+2025-07-30 14:00:20,135 - INFO - Saved partition ticker=AMD, part 99 to parquet_data/ticker=AMD/part-99.parquet
+2025-07-30 14:00:20,205 - INFO - Processing chunk 101
+2025-07-30 14:00:20,252 - INFO - Saved partition ticker=AMD, part 100 to parquet_data/ticker=AMD/part-100.parquet
+2025-07-30 14:00:20,324 - INFO - Processing chunk 102
+2025-07-30 14:00:20,369 - INFO - Saved partition ticker=AMD, part 101 to parquet_data/ticker=AMD/part-101.parquet
+2025-07-30 14:00:20,440 - INFO - Processing chunk 103
+2025-07-30 14:00:20,488 - INFO - Saved partition ticker=AMD, part 102 to parquet_data/ticker=AMD/part-102.parquet
+2025-07-30 14:00:20,558 - INFO - Processing chunk 104
+2025-07-30 14:00:20,604 - INFO - Saved partition ticker=AMD, part 103 to parquet_data/ticker=AMD/part-103.parquet
+2025-07-30 14:00:20,675 - INFO - Processing chunk 105
+2025-07-30 14:00:20,725 - INFO - Saved partition ticker=AMD, part 104 to parquet_data/ticker=AMD/part-104.parquet
+2025-07-30 14:00:20,803 - INFO - Processing chunk 106
+2025-07-30 14:00:20,849 - INFO - Saved partition ticker=AMD, part 105 to parquet_data/ticker=AMD/part-105.parquet
+2025-07-30 14:00:20,923 - INFO - Processing chunk 107
+2025-07-30 14:00:20,971 - INFO - Saved partition ticker=AMD, part 106 to parquet_data/ticker=AMD/part-106.parquet
+2025-07-30 14:00:21,048 - INFO - Processing chunk 108
+2025-07-30 14:00:21,099 - INFO - Saved partition ticker=AMD, part 107 to parquet_data/ticker=AMD/part-107.parquet
+2025-07-30 14:00:21,168 - INFO - Processing chunk 109
+2025-07-30 14:00:21,213 - INFO - Saved partition ticker=AMD, part 108 to parquet_data/ticker=AMD/part-108.parquet
+2025-07-30 14:00:21,287 - INFO - Processing chunk 110
+2025-07-30 14:00:21,334 - INFO - Saved partition ticker=AMD, part 109 to parquet_data/ticker=AMD/part-109.parquet
+2025-07-30 14:00:21,408 - INFO - Processing chunk 111
+2025-07-30 14:00:21,460 - INFO - Saved partition ticker=AMD, part 110 to parquet_data/ticker=AMD/part-110.parquet
+2025-07-30 14:00:21,536 - INFO - Processing chunk 112
+2025-07-30 14:00:21,582 - INFO - Saved partition ticker=AMD, part 111 to parquet_data/ticker=AMD/part-111.parquet
+2025-07-30 14:00:21,657 - INFO - Processing chunk 113
+2025-07-30 14:00:21,707 - INFO - Saved partition ticker=AMD, part 112 to parquet_data/ticker=AMD/part-112.parquet
+2025-07-30 14:00:21,781 - INFO - Processing chunk 114
+2025-07-30 14:00:21,820 - INFO - Saved partition ticker=AMD, part 113 to parquet_data/ticker=AMD/part-113.parquet
+2025-07-30 14:00:21,835 - INFO - Saved partition ticker=ASML, part 113 to parquet_data/ticker=ASML/part-113.parquet
+2025-07-30 14:00:21,909 - INFO - Processing chunk 115
+2025-07-30 14:00:21,951 - INFO - Saved partition ticker=ASML, part 114 to parquet_data/ticker=ASML/part-114.parquet
+2025-07-30 14:00:22,025 - INFO - Processing chunk 116
+2025-07-30 14:00:22,065 - INFO - Saved partition ticker=ASML, part 115 to parquet_data/ticker=ASML/part-115.parquet
+2025-07-30 14:00:22,135 - INFO - Processing chunk 117
+2025-07-30 14:00:22,181 - INFO - Saved partition ticker=ASML, part 116 to parquet_data/ticker=ASML/part-116.parquet
+2025-07-30 14:00:22,250 - INFO - Processing chunk 118
+2025-07-30 14:00:22,293 - INFO - Saved partition ticker=ASML, part 117 to parquet_data/ticker=ASML/part-117.parquet
+2025-07-30 14:00:22,361 - INFO - Processing chunk 119
+2025-07-30 14:00:22,411 - INFO - Saved partition ticker=ASML, part 118 to parquet_data/ticker=ASML/part-118.parquet
+2025-07-30 14:00:22,482 - INFO - Processing chunk 120
+2025-07-30 14:00:22,526 - INFO - Saved partition ticker=ASML, part 119 to parquet_data/ticker=ASML/part-119.parquet
+2025-07-30 14:00:22,595 - INFO - Processing chunk 121
+2025-07-30 14:00:22,641 - INFO - Saved partition ticker=ASML, part 120 to parquet_data/ticker=ASML/part-120.parquet
+2025-07-30 14:00:22,707 - INFO - Processing chunk 122
+2025-07-30 14:00:22,755 - INFO - Saved partition ticker=ASML, part 121 to parquet_data/ticker=ASML/part-121.parquet
+2025-07-30 14:00:22,823 - INFO - Processing chunk 123
+2025-07-30 14:00:22,854 - INFO - Saved partition ticker=ASML, part 122 to parquet_data/ticker=ASML/part-122.parquet
+2025-07-30 14:00:22,876 - INFO - Saved partition ticker=CSCO, part 122 to parquet_data/ticker=CSCO/part-122.parquet
+2025-07-30 14:00:22,945 - INFO - Processing chunk 124
+2025-07-30 14:00:22,988 - INFO - Saved partition ticker=CSCO, part 123 to parquet_data/ticker=CSCO/part-123.parquet
+2025-07-30 14:00:23,057 - INFO - Processing chunk 125
+2025-07-30 14:00:23,105 - INFO - Saved partition ticker=CSCO, part 124 to parquet_data/ticker=CSCO/part-124.parquet
+2025-07-30 14:00:23,170 - INFO - Processing chunk 126
+2025-07-30 14:00:23,210 - INFO - Saved partition ticker=CSCO, part 125 to parquet_data/ticker=CSCO/part-125.parquet
+2025-07-30 14:00:23,277 - INFO - Processing chunk 127
+2025-07-30 14:00:23,317 - INFO - Saved partition ticker=CSCO, part 126 to parquet_data/ticker=CSCO/part-126.parquet
+2025-07-30 14:00:23,387 - INFO - Processing chunk 128
+2025-07-30 14:00:23,436 - INFO - Saved partition ticker=CSCO, part 127 to parquet_data/ticker=CSCO/part-127.parquet
+2025-07-30 14:00:23,508 - INFO - Processing chunk 129
+2025-07-30 14:00:23,553 - INFO - Saved partition ticker=CSCO, part 128 to parquet_data/ticker=CSCO/part-128.parquet
+2025-07-30 14:00:23,618 - INFO - Processing chunk 130
+2025-07-30 14:00:23,660 - INFO - Saved partition ticker=CSCO, part 129 to parquet_data/ticker=CSCO/part-129.parquet
+2025-07-30 14:00:23,732 - INFO - Processing chunk 131
+2025-07-30 14:00:23,774 - INFO - Saved partition ticker=CSCO, part 130 to parquet_data/ticker=CSCO/part-130.parquet
+2025-07-30 14:00:23,842 - INFO - Processing chunk 132
+2025-07-30 14:00:23,881 - INFO - Saved partition ticker=CSCO, part 131 to parquet_data/ticker=CSCO/part-131.parquet
+2025-07-30 14:00:23,953 - INFO - Processing chunk 133
+2025-07-30 14:00:23,995 - INFO - Saved partition ticker=CSCO, part 132 to parquet_data/ticker=CSCO/part-132.parquet
+2025-07-30 14:00:24,064 - INFO - Processing chunk 134
+2025-07-30 14:00:24,091 - INFO - Saved partition ticker=CRM, part 133 to parquet_data/ticker=CRM/part-133.parquet
+2025-07-30 14:00:24,110 - INFO - Saved partition ticker=CSCO, part 133 to parquet_data/ticker=CSCO/part-133.parquet
+2025-07-30 14:00:24,181 - INFO - Processing chunk 135
+2025-07-30 14:00:24,224 - INFO - Saved partition ticker=CRM, part 134 to parquet_data/ticker=CRM/part-134.parquet
+2025-07-30 14:00:24,290 - INFO - Processing chunk 136
+2025-07-30 14:00:24,330 - INFO - Saved partition ticker=CRM, part 135 to parquet_data/ticker=CRM/part-135.parquet
+2025-07-30 14:00:24,403 - INFO - Processing chunk 137
+2025-07-30 14:00:24,444 - INFO - Saved partition ticker=CRM, part 136 to parquet_data/ticker=CRM/part-136.parquet
+2025-07-30 14:00:24,512 - INFO - Processing chunk 138
+2025-07-30 14:00:24,552 - INFO - Saved partition ticker=CRM, part 137 to parquet_data/ticker=CRM/part-137.parquet
+2025-07-30 14:00:24,625 - INFO - Processing chunk 139
+2025-07-30 14:00:24,667 - INFO - Saved partition ticker=CRM, part 138 to parquet_data/ticker=CRM/part-138.parquet
+2025-07-30 14:00:24,735 - INFO - Processing chunk 140
+2025-07-30 14:00:24,778 - INFO - Saved partition ticker=CRM, part 139 to parquet_data/ticker=CRM/part-139.parquet
+2025-07-30 14:00:24,849 - INFO - Processing chunk 141
+2025-07-30 14:00:24,893 - INFO - Saved partition ticker=CRM, part 140 to parquet_data/ticker=CRM/part-140.parquet
+2025-07-30 14:00:24,963 - INFO - Processing chunk 142
+2025-07-30 14:00:25,005 - INFO - Saved partition ticker=CRM, part 141 to parquet_data/ticker=CRM/part-141.parquet
+2025-07-30 14:00:25,079 - INFO - Processing chunk 143
+2025-07-30 14:00:25,120 - INFO - Saved partition ticker=CRM, part 142 to parquet_data/ticker=CRM/part-142.parquet
+2025-07-30 14:00:25,191 - INFO - Processing chunk 144
+2025-07-30 14:00:25,236 - INFO - Saved partition ticker=CRM, part 143 to parquet_data/ticker=CRM/part-143.parquet
+2025-07-30 14:00:25,242 - INFO - Saved partition ticker=IBM, part 143 to parquet_data/ticker=IBM/part-143.parquet
+2025-07-30 14:00:25,311 - INFO - Processing chunk 145
+2025-07-30 14:00:25,351 - INFO - Saved partition ticker=IBM, part 144 to parquet_data/ticker=IBM/part-144.parquet
+2025-07-30 14:00:25,419 - INFO - Processing chunk 146
+2025-07-30 14:00:25,458 - INFO - Saved partition ticker=IBM, part 145 to parquet_data/ticker=IBM/part-145.parquet
+2025-07-30 14:00:25,528 - INFO - Processing chunk 147
+2025-07-30 14:00:25,571 - INFO - Saved partition ticker=IBM, part 146 to parquet_data/ticker=IBM/part-146.parquet
+2025-07-30 14:00:25,644 - INFO - Processing chunk 148
+2025-07-30 14:00:25,683 - INFO - Saved partition ticker=IBM, part 147 to parquet_data/ticker=IBM/part-147.parquet
+2025-07-30 14:00:25,750 - INFO - Processing chunk 149
+2025-07-30 14:00:25,789 - INFO - Saved partition ticker=IBM, part 148 to parquet_data/ticker=IBM/part-148.parquet
+2025-07-30 14:00:25,855 - INFO - Processing chunk 150
+2025-07-30 14:00:25,899 - INFO - Saved partition ticker=IBM, part 149 to parquet_data/ticker=IBM/part-149.parquet
+2025-07-30 14:00:25,972 - INFO - Processing chunk 151
+2025-07-30 14:00:26,010 - INFO - Saved partition ticker=IBM, part 150 to parquet_data/ticker=IBM/part-150.parquet
+2025-07-30 14:00:26,081 - INFO - Processing chunk 152
+2025-07-30 14:00:26,121 - INFO - Saved partition ticker=IBM, part 151 to parquet_data/ticker=IBM/part-151.parquet
+2025-07-30 14:00:26,190 - INFO - Processing chunk 153
+2025-07-30 14:00:26,230 - INFO - Saved partition ticker=IBM, part 152 to parquet_data/ticker=IBM/part-152.parquet
+2025-07-30 14:00:26,298 - INFO - Processing chunk 154
+2025-07-30 14:00:26,341 - INFO - Saved partition ticker=IBM, part 153 to parquet_data/ticker=IBM/part-153.parquet
+2025-07-30 14:00:26,410 - INFO - Processing chunk 155
+2025-07-30 14:00:26,420 - INFO - Saved partition ticker=IBM, part 154 to parquet_data/ticker=IBM/part-154.parquet
+2025-07-30 14:00:26,451 - INFO - Saved partition ticker=INTU, part 154 to parquet_data/ticker=INTU/part-154.parquet
+2025-07-30 14:00:26,527 - INFO - Processing chunk 156
+2025-07-30 14:00:26,567 - INFO - Saved partition ticker=INTU, part 155 to parquet_data/ticker=INTU/part-155.parquet
+2025-07-30 14:00:26,636 - INFO - Processing chunk 157
+2025-07-30 14:00:26,676 - INFO - Saved partition ticker=INTU, part 156 to parquet_data/ticker=INTU/part-156.parquet
+2025-07-30 14:00:26,744 - INFO - Processing chunk 158
+2025-07-30 14:00:26,786 - INFO - Saved partition ticker=INTU, part 157 to parquet_data/ticker=INTU/part-157.parquet
+2025-07-30 14:00:26,856 - INFO - Processing chunk 159
+2025-07-30 14:00:26,900 - INFO - Saved partition ticker=INTU, part 158 to parquet_data/ticker=INTU/part-158.parquet
+2025-07-30 14:00:26,970 - INFO - Processing chunk 160
+2025-07-30 14:00:27,018 - INFO - Saved partition ticker=INTU, part 159 to parquet_data/ticker=INTU/part-159.parquet
+2025-07-30 14:00:27,085 - INFO - Processing chunk 161
+2025-07-30 14:00:27,126 - INFO - Saved partition ticker=INTU, part 160 to parquet_data/ticker=INTU/part-160.parquet
+2025-07-30 14:00:27,191 - INFO - Processing chunk 162
+2025-07-30 14:00:27,237 - INFO - Saved partition ticker=INTU, part 161 to parquet_data/ticker=INTU/part-161.parquet
+2025-07-30 14:00:27,306 - INFO - Processing chunk 163
+2025-07-30 14:00:27,348 - INFO - Saved partition ticker=INTU, part 162 to parquet_data/ticker=INTU/part-162.parquet
+2025-07-30 14:00:27,417 - INFO - Processing chunk 164
+2025-07-30 14:00:27,433 - INFO - Saved partition ticker=INTU, part 163 to parquet_data/ticker=INTU/part-163.parquet
+2025-07-30 14:00:27,465 - INFO - Saved partition ticker=NOW, part 163 to parquet_data/ticker=NOW/part-163.parquet
+2025-07-30 14:00:27,535 - INFO - Processing chunk 165
+2025-07-30 14:00:27,583 - INFO - Saved partition ticker=NOW, part 164 to parquet_data/ticker=NOW/part-164.parquet
+2025-07-30 14:00:27,659 - INFO - Processing chunk 166
+2025-07-30 14:00:27,707 - INFO - Saved partition ticker=NOW, part 165 to parquet_data/ticker=NOW/part-165.parquet
+2025-07-30 14:00:27,779 - INFO - Processing chunk 167
+2025-07-30 14:00:27,824 - INFO - Saved partition ticker=NOW, part 166 to parquet_data/ticker=NOW/part-166.parquet
+2025-07-30 14:00:27,898 - INFO - Processing chunk 168
+2025-07-30 14:00:27,949 - INFO - Saved partition ticker=NOW, part 167 to parquet_data/ticker=NOW/part-167.parquet
+2025-07-30 14:00:28,019 - INFO - Processing chunk 169
+2025-07-30 14:00:28,074 - INFO - Saved partition ticker=NOW, part 168 to parquet_data/ticker=NOW/part-168.parquet
+2025-07-30 14:00:28,149 - INFO - Processing chunk 170
+2025-07-30 14:00:28,205 - INFO - Saved partition ticker=NOW, part 169 to parquet_data/ticker=NOW/part-169.parquet
+2025-07-30 14:00:28,275 - INFO - Processing chunk 171
+2025-07-30 14:00:28,323 - INFO - Saved partition ticker=NOW, part 170 to parquet_data/ticker=NOW/part-170.parquet
+2025-07-30 14:00:28,396 - INFO - Processing chunk 172
+2025-07-30 14:00:28,449 - INFO - Saved partition ticker=NOW, part 171 to parquet_data/ticker=NOW/part-171.parquet
+2025-07-30 14:00:28,520 - INFO - Processing chunk 173
+2025-07-30 14:00:28,542 - INFO - Saved partition ticker=NOW, part 172 to parquet_data/ticker=NOW/part-172.parquet
+2025-07-30 14:00:28,570 - INFO - Saved partition ticker=UBER, part 172 to parquet_data/ticker=UBER/part-172.parquet
+2025-07-30 14:00:28,640 - INFO - Processing chunk 174
+2025-07-30 14:00:28,696 - INFO - Saved partition ticker=UBER, part 173 to parquet_data/ticker=UBER/part-173.parquet
+2025-07-30 14:00:28,769 - INFO - Processing chunk 175
+2025-07-30 14:00:28,815 - INFO - Saved partition ticker=UBER, part 174 to parquet_data/ticker=UBER/part-174.parquet
+2025-07-30 14:00:28,890 - INFO - Processing chunk 176
+2025-07-30 14:00:28,936 - INFO - Saved partition ticker=UBER, part 175 to parquet_data/ticker=UBER/part-175.parquet
+2025-07-30 14:00:29,012 - INFO - Processing chunk 177
+2025-07-30 14:00:29,060 - INFO - Saved partition ticker=UBER, part 176 to parquet_data/ticker=UBER/part-176.parquet
+2025-07-30 14:00:29,135 - INFO - Processing chunk 178
+2025-07-30 14:00:29,181 - INFO - Saved partition ticker=UBER, part 177 to parquet_data/ticker=UBER/part-177.parquet
+2025-07-30 14:00:29,251 - INFO - Processing chunk 179
+2025-07-30 14:00:29,297 - INFO - Saved partition ticker=UBER, part 178 to parquet_data/ticker=UBER/part-178.parquet
+2025-07-30 14:00:29,368 - INFO - Processing chunk 180
+2025-07-30 14:00:29,416 - INFO - Saved partition ticker=UBER, part 179 to parquet_data/ticker=UBER/part-179.parquet
+2025-07-30 14:00:29,490 - INFO - Processing chunk 181
+2025-07-30 14:00:29,513 - INFO - Saved partition ticker=ACN, part 180 to parquet_data/ticker=ACN/part-180.parquet
+2025-07-30 14:00:29,542 - INFO - Saved partition ticker=UBER, part 180 to parquet_data/ticker=UBER/part-180.parquet
+2025-07-30 14:00:29,617 - INFO - Processing chunk 182
+2025-07-30 14:00:29,656 - INFO - Saved partition ticker=ACN, part 181 to parquet_data/ticker=ACN/part-181.parquet
+2025-07-30 14:00:29,732 - INFO - Processing chunk 183
+2025-07-30 14:00:29,772 - INFO - Saved partition ticker=ACN, part 182 to parquet_data/ticker=ACN/part-182.parquet
+2025-07-30 14:00:29,839 - INFO - Processing chunk 184
+2025-07-30 14:00:29,880 - INFO - Saved partition ticker=ACN, part 183 to parquet_data/ticker=ACN/part-183.parquet
+2025-07-30 14:00:29,947 - INFO - Processing chunk 185
+2025-07-30 14:00:29,986 - INFO - Saved partition ticker=ACN, part 184 to parquet_data/ticker=ACN/part-184.parquet
+2025-07-30 14:00:30,057 - INFO - Processing chunk 186
+2025-07-30 14:00:30,100 - INFO - Saved partition ticker=ACN, part 185 to parquet_data/ticker=ACN/part-185.parquet
+2025-07-30 14:00:30,167 - INFO - Processing chunk 187
+2025-07-30 14:00:30,212 - INFO - Saved partition ticker=ACN, part 186 to parquet_data/ticker=ACN/part-186.parquet
+2025-07-30 14:00:30,280 - INFO - Processing chunk 188
+2025-07-30 14:00:30,320 - INFO - Saved partition ticker=ACN, part 187 to parquet_data/ticker=ACN/part-187.parquet
+2025-07-30 14:00:30,387 - INFO - Processing chunk 189
+2025-07-30 14:00:30,429 - INFO - Saved partition ticker=ACN, part 188 to parquet_data/ticker=ACN/part-188.parquet
+2025-07-30 14:00:30,497 - INFO - Processing chunk 190
+2025-07-30 14:00:30,540 - INFO - Saved partition ticker=ACN, part 189 to parquet_data/ticker=ACN/part-189.parquet
+2025-07-30 14:00:30,612 - INFO - Processing chunk 191
+2025-07-30 14:00:30,625 - INFO - Saved partition ticker=ACN, part 190 to parquet_data/ticker=ACN/part-190.parquet
+2025-07-30 14:00:30,662 - INFO - Saved partition ticker=ARM, part 190 to parquet_data/ticker=ARM/part-190.parquet
+2025-07-30 14:00:30,735 - INFO - Processing chunk 192
+2025-07-30 14:00:30,781 - INFO - Saved partition ticker=ARM, part 191 to parquet_data/ticker=ARM/part-191.parquet
+2025-07-30 14:00:30,851 - INFO - Processing chunk 193
+2025-07-30 14:00:30,890 - INFO - Saved partition ticker=ARM, part 192 to parquet_data/ticker=ARM/part-192.parquet
+2025-07-30 14:00:30,906 - INFO - Saved partition ticker=QCOM, part 192 to parquet_data/ticker=QCOM/part-192.parquet
+2025-07-30 14:00:30,977 - INFO - Processing chunk 194
+2025-07-30 14:00:31,017 - INFO - Saved partition ticker=QCOM, part 193 to parquet_data/ticker=QCOM/part-193.parquet
+2025-07-30 14:00:31,084 - INFO - Processing chunk 195
+2025-07-30 14:00:31,127 - INFO - Saved partition ticker=QCOM, part 194 to parquet_data/ticker=QCOM/part-194.parquet
+2025-07-30 14:00:31,193 - INFO - Processing chunk 196
+2025-07-30 14:00:31,232 - INFO - Saved partition ticker=QCOM, part 195 to parquet_data/ticker=QCOM/part-195.parquet
+2025-07-30 14:00:31,298 - INFO - Processing chunk 197
+2025-07-30 14:00:31,339 - INFO - Saved partition ticker=QCOM, part 196 to parquet_data/ticker=QCOM/part-196.parquet
+2025-07-30 14:00:31,415 - INFO - Processing chunk 198
+2025-07-30 14:00:31,457 - INFO - Saved partition ticker=QCOM, part 197 to parquet_data/ticker=QCOM/part-197.parquet
+2025-07-30 14:00:31,529 - INFO - Processing chunk 199
+2025-07-30 14:00:31,572 - INFO - Saved partition ticker=QCOM, part 198 to parquet_data/ticker=QCOM/part-198.parquet
+2025-07-30 14:00:31,649 - INFO - Processing chunk 200
+2025-07-30 14:00:31,690 - INFO - Saved partition ticker=QCOM, part 199 to parquet_data/ticker=QCOM/part-199.parquet
+2025-07-30 14:00:31,760 - INFO - Processing chunk 201
+2025-07-30 14:00:31,799 - INFO - Saved partition ticker=QCOM, part 200 to parquet_data/ticker=QCOM/part-200.parquet
+2025-07-30 14:00:31,869 - INFO - Processing chunk 202
+2025-07-30 14:00:31,911 - INFO - Saved partition ticker=QCOM, part 201 to parquet_data/ticker=QCOM/part-201.parquet
+2025-07-30 14:00:31,983 - INFO - Processing chunk 203
+2025-07-30 14:00:32,025 - INFO - Saved partition ticker=QCOM, part 202 to parquet_data/ticker=QCOM/part-202.parquet
+2025-07-30 14:00:32,096 - INFO - Processing chunk 204
+2025-07-30 14:00:32,126 - INFO - Saved partition ticker=QCOM, part 203 to parquet_data/ticker=QCOM/part-203.parquet
+2025-07-30 14:00:32,144 - INFO - Saved partition ticker=TXN, part 203 to parquet_data/ticker=TXN/part-203.parquet
+2025-07-30 14:00:32,213 - INFO - Processing chunk 205
+2025-07-30 14:00:32,255 - INFO - Saved partition ticker=TXN, part 204 to parquet_data/ticker=TXN/part-204.parquet
+2025-07-30 14:00:32,324 - INFO - Processing chunk 206
+2025-07-30 14:00:32,366 - INFO - Saved partition ticker=TXN, part 205 to parquet_data/ticker=TXN/part-205.parquet
+2025-07-30 14:00:32,433 - INFO - Processing chunk 207
+2025-07-30 14:00:32,476 - INFO - Saved partition ticker=TXN, part 206 to parquet_data/ticker=TXN/part-206.parquet
+2025-07-30 14:00:32,544 - INFO - Processing chunk 208
+2025-07-30 14:00:32,585 - INFO - Saved partition ticker=TXN, part 207 to parquet_data/ticker=TXN/part-207.parquet
+2025-07-30 14:00:32,654 - INFO - Processing chunk 209
+2025-07-30 14:00:32,695 - INFO - Saved partition ticker=TXN, part 208 to parquet_data/ticker=TXN/part-208.parquet
+2025-07-30 14:00:32,764 - INFO - Processing chunk 210
+2025-07-30 14:00:32,804 - INFO - Saved partition ticker=TXN, part 209 to parquet_data/ticker=TXN/part-209.parquet
+2025-07-30 14:00:32,878 - INFO - Processing chunk 211
+2025-07-30 14:00:32,917 - INFO - Saved partition ticker=TXN, part 210 to parquet_data/ticker=TXN/part-210.parquet
+2025-07-30 14:00:32,991 - INFO - Processing chunk 212
+2025-07-30 14:00:33,035 - INFO - Saved partition ticker=TXN, part 211 to parquet_data/ticker=TXN/part-211.parquet
+2025-07-30 14:00:33,108 - INFO - Processing chunk 213
+2025-07-30 14:00:33,149 - INFO - Saved partition ticker=TXN, part 212 to parquet_data/ticker=TXN/part-212.parquet
+2025-07-30 14:00:33,221 - INFO - Processing chunk 214
+2025-07-30 14:00:33,254 - INFO - Saved partition ticker=SHOP, part 213 to parquet_data/ticker=SHOP/part-213.parquet
+2025-07-30 14:00:33,272 - INFO - Saved partition ticker=TXN, part 213 to parquet_data/ticker=TXN/part-213.parquet
+2025-07-30 14:00:33,346 - INFO - Processing chunk 215
+2025-07-30 14:00:33,385 - INFO - Saved partition ticker=SHOP, part 214 to parquet_data/ticker=SHOP/part-214.parquet
+2025-07-30 14:00:33,456 - INFO - Processing chunk 216
+2025-07-30 14:00:33,498 - INFO - Saved partition ticker=SHOP, part 215 to parquet_data/ticker=SHOP/part-215.parquet
+2025-07-30 14:00:33,569 - INFO - Processing chunk 217
+2025-07-30 14:00:33,610 - INFO - Saved partition ticker=SHOP, part 216 to parquet_data/ticker=SHOP/part-216.parquet
+2025-07-30 14:00:33,676 - INFO - Processing chunk 218
+2025-07-30 14:00:33,718 - INFO - Saved partition ticker=SHOP, part 217 to parquet_data/ticker=SHOP/part-217.parquet
+2025-07-30 14:00:33,791 - INFO - Processing chunk 219
+2025-07-30 14:00:33,835 - INFO - Saved partition ticker=SHOP, part 218 to parquet_data/ticker=SHOP/part-218.parquet
+2025-07-30 14:00:33,908 - INFO - Processing chunk 220
+2025-07-30 14:00:33,950 - INFO - Saved partition ticker=SHOP, part 219 to parquet_data/ticker=SHOP/part-219.parquet
+2025-07-30 14:00:34,028 - INFO - Processing chunk 221
+2025-07-30 14:00:34,074 - INFO - Saved partition ticker=SHOP, part 220 to parquet_data/ticker=SHOP/part-220.parquet
+2025-07-30 14:00:34,143 - INFO - Processing chunk 222
+2025-07-30 14:00:34,189 - INFO - Saved partition ticker=SHOP, part 221 to parquet_data/ticker=SHOP/part-221.parquet
+2025-07-30 14:00:34,259 - INFO - Processing chunk 223
+2025-07-30 14:00:34,304 - INFO - Saved partition ticker=SHOP, part 222 to parquet_data/ticker=SHOP/part-222.parquet
+2025-07-30 14:00:34,381 - INFO - Processing chunk 224
+2025-07-30 14:00:34,395 - INFO - Saved partition ticker=ADBE, part 223 to parquet_data/ticker=ADBE/part-223.parquet
+2025-07-30 14:00:34,440 - INFO - Saved partition ticker=SHOP, part 223 to parquet_data/ticker=SHOP/part-223.parquet
+2025-07-30 14:00:34,516 - INFO - Processing chunk 225
+2025-07-30 14:00:34,564 - INFO - Saved partition ticker=ADBE, part 224 to parquet_data/ticker=ADBE/part-224.parquet
+2025-07-30 14:00:34,643 - INFO - Processing chunk 226
+2025-07-30 14:00:34,692 - INFO - Saved partition ticker=ADBE, part 225 to parquet_data/ticker=ADBE/part-225.parquet
+2025-07-30 14:00:34,772 - INFO - Processing chunk 227
+2025-07-30 14:00:34,821 - INFO - Saved partition ticker=ADBE, part 226 to parquet_data/ticker=ADBE/part-226.parquet
+2025-07-30 14:00:34,895 - INFO - Processing chunk 228
+2025-07-30 14:00:34,945 - INFO - Saved partition ticker=ADBE, part 227 to parquet_data/ticker=ADBE/part-227.parquet
+2025-07-30 14:00:35,030 - INFO - Processing chunk 229
+2025-07-30 14:00:35,090 - INFO - Saved partition ticker=ADBE, part 228 to parquet_data/ticker=ADBE/part-228.parquet
+2025-07-30 14:00:35,170 - INFO - Processing chunk 230
+2025-07-30 14:00:35,223 - INFO - Saved partition ticker=ADBE, part 229 to parquet_data/ticker=ADBE/part-229.parquet
+2025-07-30 14:00:35,295 - INFO - Processing chunk 231
+2025-07-30 14:00:35,352 - INFO - Saved partition ticker=ADBE, part 230 to parquet_data/ticker=ADBE/part-230.parquet
+2025-07-30 14:00:35,427 - INFO - Processing chunk 232
+2025-07-30 14:00:35,481 - INFO - Saved partition ticker=ADBE, part 231 to parquet_data/ticker=ADBE/part-231.parquet
+2025-07-30 14:00:35,561 - INFO - Processing chunk 233
+2025-07-30 14:00:35,611 - INFO - Saved partition ticker=ADBE, part 232 to parquet_data/ticker=ADBE/part-232.parquet
+2025-07-30 14:00:35,687 - INFO - Processing chunk 234
+2025-07-30 14:00:35,733 - INFO - Saved partition ticker=ADBE, part 233 to parquet_data/ticker=ADBE/part-233.parquet
+2025-07-30 14:00:35,745 - INFO - Saved partition ticker=ANET, part 233 to parquet_data/ticker=ANET/part-233.parquet
+2025-07-30 14:00:35,817 - INFO - Processing chunk 235
+2025-07-30 14:00:35,863 - INFO - Saved partition ticker=ANET, part 234 to parquet_data/ticker=ANET/part-234.parquet
+2025-07-30 14:00:35,938 - INFO - Processing chunk 236
+2025-07-30 14:00:35,979 - INFO - Saved partition ticker=ANET, part 235 to parquet_data/ticker=ANET/part-235.parquet
+2025-07-30 14:00:36,050 - INFO - Processing chunk 237
+2025-07-30 14:00:36,091 - INFO - Saved partition ticker=ANET, part 236 to parquet_data/ticker=ANET/part-236.parquet
+2025-07-30 14:00:36,168 - INFO - Processing chunk 238
+2025-07-30 14:00:36,207 - INFO - Saved partition ticker=ANET, part 237 to parquet_data/ticker=ANET/part-237.parquet
+2025-07-30 14:00:36,278 - INFO - Processing chunk 239
+2025-07-30 14:00:36,319 - INFO - Saved partition ticker=ANET, part 238 to parquet_data/ticker=ANET/part-238.parquet
+2025-07-30 14:00:36,396 - INFO - Processing chunk 240
+2025-07-30 14:00:36,437 - INFO - Saved partition ticker=ANET, part 239 to parquet_data/ticker=ANET/part-239.parquet
+2025-07-30 14:00:36,508 - INFO - Processing chunk 241
+2025-07-30 14:00:36,552 - INFO - Saved partition ticker=ANET, part 240 to parquet_data/ticker=ANET/part-240.parquet
+2025-07-30 14:00:36,624 - INFO - Processing chunk 242
+2025-07-30 14:00:36,665 - INFO - Saved partition ticker=ANET, part 241 to parquet_data/ticker=ANET/part-241.parquet
+2025-07-30 14:00:36,743 - INFO - Processing chunk 243
+2025-07-30 14:00:36,761 - INFO - Saved partition ticker=AMAT, part 242 to parquet_data/ticker=AMAT/part-242.parquet
+2025-07-30 14:00:36,791 - INFO - Saved partition ticker=ANET, part 242 to parquet_data/ticker=ANET/part-242.parquet
+2025-07-30 14:00:36,858 - INFO - Processing chunk 244
+2025-07-30 14:00:36,901 - INFO - Saved partition ticker=AMAT, part 243 to parquet_data/ticker=AMAT/part-243.parquet
+2025-07-30 14:00:36,967 - INFO - Processing chunk 245
+2025-07-30 14:00:37,011 - INFO - Saved partition ticker=AMAT, part 244 to parquet_data/ticker=AMAT/part-244.parquet
+2025-07-30 14:00:37,085 - INFO - Processing chunk 246
+2025-07-30 14:00:37,128 - INFO - Saved partition ticker=AMAT, part 245 to parquet_data/ticker=AMAT/part-245.parquet
+2025-07-30 14:00:37,200 - INFO - Processing chunk 247
+2025-07-30 14:00:37,242 - INFO - Saved partition ticker=AMAT, part 246 to parquet_data/ticker=AMAT/part-246.parquet
+2025-07-30 14:00:37,315 - INFO - Processing chunk 248
+2025-07-30 14:00:37,356 - INFO - Saved partition ticker=AMAT, part 247 to parquet_data/ticker=AMAT/part-247.parquet
+2025-07-30 14:00:37,429 - INFO - Processing chunk 249
+2025-07-30 14:00:37,474 - INFO - Saved partition ticker=AMAT, part 248 to parquet_data/ticker=AMAT/part-248.parquet
+2025-07-30 14:00:37,544 - INFO - Processing chunk 250
+2025-07-30 14:00:37,595 - INFO - Saved partition ticker=AMAT, part 249 to parquet_data/ticker=AMAT/part-249.parquet
+2025-07-30 14:00:37,665 - INFO - Processing chunk 251
+2025-07-30 14:00:37,712 - INFO - Saved partition ticker=AMAT, part 250 to parquet_data/ticker=AMAT/part-250.parquet
+2025-07-30 14:00:37,782 - INFO - Processing chunk 252
+2025-07-30 14:00:37,827 - INFO - Saved partition ticker=AMAT, part 251 to parquet_data/ticker=AMAT/part-251.parquet
+2025-07-30 14:00:37,897 - INFO - Processing chunk 253
+2025-07-30 14:00:37,941 - INFO - Saved partition ticker=AMAT, part 252 to parquet_data/ticker=AMAT/part-252.parquet
+2025-07-30 14:00:38,016 - INFO - Processing chunk 254
+2025-07-30 14:00:38,037 - INFO - Saved partition ticker=AMAT, part 253 to parquet_data/ticker=AMAT/part-253.parquet
+2025-07-30 14:00:38,066 - INFO - Saved partition ticker=SONY, part 253 to parquet_data/ticker=SONY/part-253.parquet
+2025-07-30 14:00:38,135 - INFO - Processing chunk 255
+2025-07-30 14:00:38,175 - INFO - Saved partition ticker=SONY, part 254 to parquet_data/ticker=SONY/part-254.parquet
+2025-07-30 14:00:38,241 - INFO - Processing chunk 256
+2025-07-30 14:00:38,282 - INFO - Saved partition ticker=SONY, part 255 to parquet_data/ticker=SONY/part-255.parquet
+2025-07-30 14:00:38,351 - INFO - Processing chunk 257
+2025-07-30 14:00:38,391 - INFO - Saved partition ticker=SONY, part 256 to parquet_data/ticker=SONY/part-256.parquet
+2025-07-30 14:00:38,460 - INFO - Processing chunk 258
+2025-07-30 14:00:38,501 - INFO - Saved partition ticker=SONY, part 257 to parquet_data/ticker=SONY/part-257.parquet
+2025-07-30 14:00:38,567 - INFO - Processing chunk 259
+2025-07-30 14:00:38,607 - INFO - Saved partition ticker=SONY, part 258 to parquet_data/ticker=SONY/part-258.parquet
+2025-07-30 14:00:38,681 - INFO - Processing chunk 260
+2025-07-30 14:00:38,721 - INFO - Saved partition ticker=SONY, part 259 to parquet_data/ticker=SONY/part-259.parquet
+2025-07-30 14:00:38,790 - INFO - Processing chunk 261
+2025-07-30 14:00:38,831 - INFO - Saved partition ticker=SONY, part 260 to parquet_data/ticker=SONY/part-260.parquet
+2025-07-30 14:00:38,899 - INFO - Processing chunk 262
+2025-07-30 14:00:38,911 - INFO - Saved partition ticker=APH, part 261 to parquet_data/ticker=APH/part-261.parquet
+2025-07-30 14:00:38,944 - INFO - Saved partition ticker=SONY, part 261 to parquet_data/ticker=SONY/part-261.parquet
+2025-07-30 14:00:39,012 - INFO - Processing chunk 263
+2025-07-30 14:00:39,053 - INFO - Saved partition ticker=APH, part 262 to parquet_data/ticker=APH/part-262.parquet
+2025-07-30 14:00:39,122 - INFO - Processing chunk 264
+2025-07-30 14:00:39,161 - INFO - Saved partition ticker=APH, part 263 to parquet_data/ticker=APH/part-263.parquet
+2025-07-30 14:00:39,229 - INFO - Processing chunk 265
+2025-07-30 14:00:39,268 - INFO - Saved partition ticker=APH, part 264 to parquet_data/ticker=APH/part-264.parquet
+2025-07-30 14:00:39,335 - INFO - Processing chunk 266
+2025-07-30 14:00:39,378 - INFO - Saved partition ticker=APH, part 265 to parquet_data/ticker=APH/part-265.parquet
+2025-07-30 14:00:39,444 - INFO - Processing chunk 267
+2025-07-30 14:00:39,485 - INFO - Saved partition ticker=APH, part 266 to parquet_data/ticker=APH/part-266.parquet
+2025-07-30 14:00:39,554 - INFO - Processing chunk 268
+2025-07-30 14:00:39,595 - INFO - Saved partition ticker=APH, part 267 to parquet_data/ticker=APH/part-267.parquet
+2025-07-30 14:00:39,660 - INFO - Processing chunk 269
+2025-07-30 14:00:39,698 - INFO - Saved partition ticker=APH, part 268 to parquet_data/ticker=APH/part-268.parquet
+2025-07-30 14:00:39,761 - INFO - Processing chunk 270
+2025-07-30 14:00:39,803 - INFO - Saved partition ticker=APH, part 269 to parquet_data/ticker=APH/part-269.parquet
+2025-07-30 14:00:39,873 - INFO - Processing chunk 271
+2025-07-30 14:00:39,923 - INFO - Saved partition ticker=APH, part 270 to parquet_data/ticker=APH/part-270.parquet
+2025-07-30 14:00:39,989 - INFO - Processing chunk 272
+2025-07-30 14:00:40,025 - INFO - Saved partition ticker=ADP, part 271 to parquet_data/ticker=ADP/part-271.parquet
+2025-07-30 14:00:40,034 - INFO - Saved partition ticker=APH, part 271 to parquet_data/ticker=APH/part-271.parquet
+2025-07-30 14:00:40,102 - INFO - Processing chunk 273
+2025-07-30 14:00:40,144 - INFO - Saved partition ticker=ADP, part 272 to parquet_data/ticker=ADP/part-272.parquet
+2025-07-30 14:00:40,211 - INFO - Processing chunk 274
+2025-07-30 14:00:40,252 - INFO - Saved partition ticker=ADP, part 273 to parquet_data/ticker=ADP/part-273.parquet
+2025-07-30 14:00:40,322 - INFO - Processing chunk 275
+2025-07-30 14:00:40,362 - INFO - Saved partition ticker=ADP, part 274 to parquet_data/ticker=ADP/part-274.parquet
+2025-07-30 14:00:40,437 - INFO - Processing chunk 276
+2025-07-30 14:00:40,484 - INFO - Saved partition ticker=ADP, part 275 to parquet_data/ticker=ADP/part-275.parquet
+2025-07-30 14:00:40,552 - INFO - Processing chunk 277
+2025-07-30 14:00:40,594 - INFO - Saved partition ticker=ADP, part 276 to parquet_data/ticker=ADP/part-276.parquet
+2025-07-30 14:00:40,664 - INFO - Processing chunk 278
+2025-07-30 14:00:40,709 - INFO - Saved partition ticker=ADP, part 277 to parquet_data/ticker=ADP/part-277.parquet
+2025-07-30 14:00:40,780 - INFO - Processing chunk 279
+2025-07-30 14:00:40,824 - INFO - Saved partition ticker=ADP, part 278 to parquet_data/ticker=ADP/part-278.parquet
+2025-07-30 14:00:40,900 - INFO - Processing chunk 280
+2025-07-30 14:00:40,945 - INFO - Saved partition ticker=ADP, part 279 to parquet_data/ticker=ADP/part-279.parquet
+2025-07-30 14:00:41,020 - INFO - Processing chunk 281
+2025-07-30 14:00:41,046 - INFO - Saved partition ticker=ADP, part 280 to parquet_data/ticker=ADP/part-280.parquet
+2025-07-30 14:00:41,070 - INFO - Saved partition ticker=LRCX, part 280 to parquet_data/ticker=LRCX/part-280.parquet
+2025-07-30 14:00:41,142 - INFO - Processing chunk 282
+2025-07-30 14:00:41,189 - INFO - Saved partition ticker=LRCX, part 281 to parquet_data/ticker=LRCX/part-281.parquet
+2025-07-30 14:00:41,268 - INFO - Processing chunk 283
+2025-07-30 14:00:41,314 - INFO - Saved partition ticker=LRCX, part 282 to parquet_data/ticker=LRCX/part-282.parquet
+2025-07-30 14:00:41,386 - INFO - Processing chunk 284
+2025-07-30 14:00:41,430 - INFO - Saved partition ticker=LRCX, part 283 to parquet_data/ticker=LRCX/part-283.parquet
+2025-07-30 14:00:41,505 - INFO - Processing chunk 285
+2025-07-30 14:00:41,545 - INFO - Saved partition ticker=LRCX, part 284 to parquet_data/ticker=LRCX/part-284.parquet
+2025-07-30 14:00:41,618 - INFO - Processing chunk 286
+2025-07-30 14:00:41,662 - INFO - Saved partition ticker=LRCX, part 285 to parquet_data/ticker=LRCX/part-285.parquet
+2025-07-30 14:00:41,737 - INFO - Processing chunk 287
+2025-07-30 14:00:41,800 - INFO - Saved partition ticker=LRCX, part 286 to parquet_data/ticker=LRCX/part-286.parquet
+2025-07-30 14:00:41,880 - INFO - Processing chunk 288
+2025-07-30 14:00:41,924 - INFO - Saved partition ticker=LRCX, part 287 to parquet_data/ticker=LRCX/part-287.parquet
+2025-07-30 14:00:41,996 - INFO - Processing chunk 289
+2025-07-30 14:00:42,044 - INFO - Saved partition ticker=LRCX, part 288 to parquet_data/ticker=LRCX/part-288.parquet
+2025-07-30 14:00:42,126 - INFO - Processing chunk 290
+2025-07-30 14:00:42,167 - INFO - Saved partition ticker=LRCX, part 289 to parquet_data/ticker=LRCX/part-289.parquet
+2025-07-30 14:00:42,175 - INFO - Saved partition ticker=MU, part 289 to parquet_data/ticker=MU/part-289.parquet
+2025-07-30 14:00:42,247 - INFO - Processing chunk 291
+2025-07-30 14:00:42,293 - INFO - Saved partition ticker=MU, part 290 to parquet_data/ticker=MU/part-290.parquet
+2025-07-30 14:00:42,365 - INFO - Processing chunk 292
+2025-07-30 14:00:42,406 - INFO - Saved partition ticker=MU, part 291 to parquet_data/ticker=MU/part-291.parquet
+2025-07-30 14:00:42,478 - INFO - Processing chunk 293
+2025-07-30 14:00:42,520 - INFO - Saved partition ticker=MU, part 292 to parquet_data/ticker=MU/part-292.parquet
+2025-07-30 14:00:42,585 - INFO - Processing chunk 294
+2025-07-30 14:00:42,632 - INFO - Saved partition ticker=MU, part 293 to parquet_data/ticker=MU/part-293.parquet
+2025-07-30 14:00:42,701 - INFO - Processing chunk 295
+2025-07-30 14:00:42,745 - INFO - Saved partition ticker=MU, part 294 to parquet_data/ticker=MU/part-294.parquet
+2025-07-30 14:00:42,816 - INFO - Processing chunk 296
+2025-07-30 14:00:42,858 - INFO - Saved partition ticker=MU, part 295 to parquet_data/ticker=MU/part-295.parquet
+2025-07-30 14:00:42,927 - INFO - Processing chunk 297
+2025-07-30 14:00:42,969 - INFO - Saved partition ticker=MU, part 296 to parquet_data/ticker=MU/part-296.parquet
+2025-07-30 14:00:43,035 - INFO - Processing chunk 298
+2025-07-30 14:00:43,078 - INFO - Saved partition ticker=MU, part 297 to parquet_data/ticker=MU/part-297.parquet
+2025-07-30 14:00:43,144 - INFO - Processing chunk 299
+2025-07-30 14:00:43,195 - INFO - Saved partition ticker=MU, part 298 to parquet_data/ticker=MU/part-298.parquet
+2025-07-30 14:00:43,267 - INFO - Processing chunk 300
+2025-07-30 14:00:43,309 - INFO - Saved partition ticker=MU, part 299 to parquet_data/ticker=MU/part-299.parquet
+2025-07-30 14:00:43,379 - INFO - Processing chunk 301
+2025-07-30 14:00:43,423 - INFO - Saved partition ticker=MU, part 300 to parquet_data/ticker=MU/part-300.parquet
+2025-07-30 14:00:43,494 - INFO - Processing chunk 302
+2025-07-30 14:00:43,537 - INFO - Saved partition ticker=MU, part 301 to parquet_data/ticker=MU/part-301.parquet
+2025-07-30 14:00:43,611 - INFO - Processing chunk 303
+2025-07-30 14:00:43,655 - INFO - Saved partition ticker=MU, part 302 to parquet_data/ticker=MU/part-302.parquet
+2025-07-30 14:00:43,728 - INFO - Processing chunk 304
+2025-07-30 14:00:43,750 - INFO - Saved partition ticker=MU, part 303 to parquet_data/ticker=MU/part-303.parquet
+2025-07-30 14:00:43,777 - INFO - Saved partition ticker=PANW, part 303 to parquet_data/ticker=PANW/part-303.parquet
+2025-07-30 14:00:43,864 - INFO - Processing chunk 305
+2025-07-30 14:00:43,906 - INFO - Saved partition ticker=PANW, part 304 to parquet_data/ticker=PANW/part-304.parquet
+2025-07-30 14:00:43,979 - INFO - Processing chunk 306
+2025-07-30 14:00:44,020 - INFO - Saved partition ticker=PANW, part 305 to parquet_data/ticker=PANW/part-305.parquet
+2025-07-30 14:00:44,091 - INFO - Processing chunk 307
+2025-07-30 14:00:44,131 - INFO - Saved partition ticker=PANW, part 306 to parquet_data/ticker=PANW/part-306.parquet
+2025-07-30 14:00:44,204 - INFO - Processing chunk 308
+2025-07-30 14:00:44,247 - INFO - Saved partition ticker=PANW, part 307 to parquet_data/ticker=PANW/part-307.parquet
+2025-07-30 14:00:44,317 - INFO - Processing chunk 309
+2025-07-30 14:00:44,359 - INFO - Saved partition ticker=PANW, part 308 to parquet_data/ticker=PANW/part-308.parquet
+2025-07-30 14:00:44,433 - INFO - Processing chunk 310
+2025-07-30 14:00:44,474 - INFO - Saved partition ticker=PANW, part 309 to parquet_data/ticker=PANW/part-309.parquet
+2025-07-30 14:00:44,548 - INFO - Processing chunk 311
+2025-07-30 14:00:44,592 - INFO - Saved partition ticker=PANW, part 310 to parquet_data/ticker=PANW/part-310.parquet
+2025-07-30 14:00:44,668 - INFO - Processing chunk 312
+2025-07-30 14:00:44,714 - INFO - Saved partition ticker=PANW, part 311 to parquet_data/ticker=PANW/part-311.parquet
+2025-07-30 14:00:44,793 - INFO - Processing chunk 313
+2025-07-30 14:00:44,810 - INFO - Saved partition ticker=KLAC, part 312 to parquet_data/ticker=KLAC/part-312.parquet
+2025-07-30 14:00:44,850 - INFO - Saved partition ticker=PANW, part 312 to parquet_data/ticker=PANW/part-312.parquet
+2025-07-30 14:00:44,922 - INFO - Processing chunk 314
+2025-07-30 14:00:44,963 - INFO - Saved partition ticker=KLAC, part 313 to parquet_data/ticker=KLAC/part-313.parquet
+2025-07-30 14:00:45,033 - INFO - Processing chunk 315
+2025-07-30 14:00:45,075 - INFO - Saved partition ticker=KLAC, part 314 to parquet_data/ticker=KLAC/part-314.parquet
+2025-07-30 14:00:45,145 - INFO - Processing chunk 316
+2025-07-30 14:00:45,186 - INFO - Saved partition ticker=KLAC, part 315 to parquet_data/ticker=KLAC/part-315.parquet
+2025-07-30 14:00:45,261 - INFO - Processing chunk 317
+2025-07-30 14:00:45,306 - INFO - Saved partition ticker=KLAC, part 316 to parquet_data/ticker=KLAC/part-316.parquet
+2025-07-30 14:00:45,375 - INFO - Processing chunk 318
+2025-07-30 14:00:45,416 - INFO - Saved partition ticker=KLAC, part 317 to parquet_data/ticker=KLAC/part-317.parquet
+2025-07-30 14:00:45,485 - INFO - Processing chunk 319
+2025-07-30 14:00:45,526 - INFO - Saved partition ticker=KLAC, part 318 to parquet_data/ticker=KLAC/part-318.parquet
+2025-07-30 14:00:45,593 - INFO - Processing chunk 320
+2025-07-30 14:00:45,635 - INFO - Saved partition ticker=KLAC, part 319 to parquet_data/ticker=KLAC/part-319.parquet
+2025-07-30 14:00:45,704 - INFO - Processing chunk 321
+2025-07-30 14:00:45,754 - INFO - Saved partition ticker=KLAC, part 320 to parquet_data/ticker=KLAC/part-320.parquet
+2025-07-30 14:00:45,825 - INFO - Processing chunk 322
+2025-07-30 14:00:45,859 - INFO - Saved partition ticker=KLAC, part 321 to parquet_data/ticker=KLAC/part-321.parquet
+2025-07-30 14:00:45,873 - INFO - Saved partition ticker=SNPS, part 321 to parquet_data/ticker=SNPS/part-321.parquet
+2025-07-30 14:00:45,942 - INFO - Processing chunk 323
+2025-07-30 14:00:45,986 - INFO - Saved partition ticker=SNPS, part 322 to parquet_data/ticker=SNPS/part-322.parquet
+2025-07-30 14:00:46,062 - INFO - Processing chunk 324
+2025-07-30 14:00:46,106 - INFO - Saved partition ticker=SNPS, part 323 to parquet_data/ticker=SNPS/part-323.parquet
+2025-07-30 14:00:46,186 - INFO - Processing chunk 325
+2025-07-30 14:00:46,233 - INFO - Saved partition ticker=SNPS, part 324 to parquet_data/ticker=SNPS/part-324.parquet
+2025-07-30 14:00:46,308 - INFO - Processing chunk 326
+2025-07-30 14:00:46,353 - INFO - Saved partition ticker=SNPS, part 325 to parquet_data/ticker=SNPS/part-325.parquet
+2025-07-30 14:00:46,424 - INFO - Processing chunk 327
+2025-07-30 14:00:46,469 - INFO - Saved partition ticker=SNPS, part 326 to parquet_data/ticker=SNPS/part-326.parquet
+2025-07-30 14:00:46,540 - INFO - Processing chunk 328
+2025-07-30 14:00:46,588 - INFO - Saved partition ticker=SNPS, part 327 to parquet_data/ticker=SNPS/part-327.parquet
+2025-07-30 14:00:46,661 - INFO - Processing chunk 329
+2025-07-30 14:00:46,708 - INFO - Saved partition ticker=SNPS, part 328 to parquet_data/ticker=SNPS/part-328.parquet
+2025-07-30 14:00:46,779 - INFO - Processing chunk 330
+2025-07-30 14:00:46,828 - INFO - Saved partition ticker=SNPS, part 329 to parquet_data/ticker=SNPS/part-329.parquet
+2025-07-30 14:00:46,899 - INFO - Processing chunk 331
+2025-07-30 14:00:46,941 - INFO - Saved partition ticker=CRWD, part 330 to parquet_data/ticker=CRWD/part-330.parquet
+2025-07-30 14:00:46,953 - INFO - Saved partition ticker=SNPS, part 330 to parquet_data/ticker=SNPS/part-330.parquet
+2025-07-30 14:00:47,033 - INFO - Processing chunk 332
+2025-07-30 14:00:47,080 - INFO - Saved partition ticker=CRWD, part 331 to parquet_data/ticker=CRWD/part-331.parquet
+2025-07-30 14:00:47,155 - INFO - Processing chunk 333
+2025-07-30 14:00:47,204 - INFO - Saved partition ticker=CRWD, part 332 to parquet_data/ticker=CRWD/part-332.parquet
+2025-07-30 14:00:47,283 - INFO - Processing chunk 334
+2025-07-30 14:00:47,331 - INFO - Saved partition ticker=CRWD, part 333 to parquet_data/ticker=CRWD/part-333.parquet
+2025-07-30 14:00:47,404 - INFO - Processing chunk 335
+2025-07-30 14:00:47,450 - INFO - Saved partition ticker=CRWD, part 334 to parquet_data/ticker=CRWD/part-334.parquet
+2025-07-30 14:00:47,525 - INFO - Processing chunk 336
+2025-07-30 14:00:47,576 - INFO - Saved partition ticker=CRWD, part 335 to parquet_data/ticker=CRWD/part-335.parquet
+2025-07-30 14:00:47,647 - INFO - Processing chunk 337
+2025-07-30 14:00:47,698 - INFO - Saved partition ticker=CRWD, part 336 to parquet_data/ticker=CRWD/part-336.parquet
+2025-07-30 14:00:47,770 - INFO - Processing chunk 338
+2025-07-30 14:00:47,805 - INFO - Saved partition ticker=ADI, part 337 to parquet_data/ticker=ADI/part-337.parquet
+2025-07-30 14:00:47,818 - INFO - Saved partition ticker=CRWD, part 337 to parquet_data/ticker=CRWD/part-337.parquet
+2025-07-30 14:00:47,886 - INFO - Processing chunk 339
+2025-07-30 14:00:47,926 - INFO - Saved partition ticker=ADI, part 338 to parquet_data/ticker=ADI/part-338.parquet
+2025-07-30 14:00:47,997 - INFO - Processing chunk 340
+2025-07-30 14:00:48,038 - INFO - Saved partition ticker=ADI, part 339 to parquet_data/ticker=ADI/part-339.parquet
+2025-07-30 14:00:48,113 - INFO - Processing chunk 341
+2025-07-30 14:00:48,159 - INFO - Saved partition ticker=ADI, part 340 to parquet_data/ticker=ADI/part-340.parquet
+2025-07-30 14:00:48,228 - INFO - Processing chunk 342
+2025-07-30 14:00:48,267 - INFO - Saved partition ticker=ADI, part 341 to parquet_data/ticker=ADI/part-341.parquet
+2025-07-30 14:00:48,339 - INFO - Processing chunk 343
+2025-07-30 14:00:48,379 - INFO - Saved partition ticker=ADI, part 342 to parquet_data/ticker=ADI/part-342.parquet
+2025-07-30 14:00:48,455 - INFO - Processing chunk 344
+2025-07-30 14:00:48,514 - INFO - Saved partition ticker=ADI, part 343 to parquet_data/ticker=ADI/part-343.parquet
+2025-07-30 14:00:48,589 - INFO - Processing chunk 345
+2025-07-30 14:00:48,631 - INFO - Saved partition ticker=ADI, part 344 to parquet_data/ticker=ADI/part-344.parquet
+2025-07-30 14:00:48,706 - INFO - Processing chunk 346
+2025-07-30 14:00:48,752 - INFO - Saved partition ticker=ADI, part 345 to parquet_data/ticker=ADI/part-345.parquet
+2025-07-30 14:00:48,828 - INFO - Processing chunk 347
+2025-07-30 14:00:48,871 - INFO - Saved partition ticker=ADI, part 346 to parquet_data/ticker=ADI/part-346.parquet
+2025-07-30 14:00:48,885 - INFO - Saved partition ticker=MSTR, part 346 to parquet_data/ticker=MSTR/part-346.parquet
+2025-07-30 14:00:48,957 - INFO - Processing chunk 348
+2025-07-30 14:00:48,997 - INFO - Saved partition ticker=MSTR, part 347 to parquet_data/ticker=MSTR/part-347.parquet
+2025-07-30 14:00:49,074 - INFO - Processing chunk 349
+2025-07-30 14:00:49,119 - INFO - Saved partition ticker=MSTR, part 348 to parquet_data/ticker=MSTR/part-348.parquet
+2025-07-30 14:00:49,191 - INFO - Processing chunk 350
+2025-07-30 14:00:49,235 - INFO - Saved partition ticker=MSTR, part 349 to parquet_data/ticker=MSTR/part-349.parquet
+2025-07-30 14:00:49,312 - INFO - Processing chunk 351
+2025-07-30 14:00:49,353 - INFO - Saved partition ticker=MSTR, part 350 to parquet_data/ticker=MSTR/part-350.parquet
+2025-07-30 14:00:49,427 - INFO - Processing chunk 352
+2025-07-30 14:00:49,472 - INFO - Saved partition ticker=MSTR, part 351 to parquet_data/ticker=MSTR/part-351.parquet
+2025-07-30 14:00:49,548 - INFO - Processing chunk 353
+2025-07-30 14:00:49,595 - INFO - Saved partition ticker=MSTR, part 352 to parquet_data/ticker=MSTR/part-352.parquet
+2025-07-30 14:00:49,670 - INFO - Processing chunk 354
+2025-07-30 14:00:49,700 - INFO - Saved partition ticker=CDNS, part 353 to parquet_data/ticker=CDNS/part-353.parquet
+2025-07-30 14:00:49,732 - INFO - Saved partition ticker=MSTR, part 353 to parquet_data/ticker=MSTR/part-353.parquet
+2025-07-30 14:00:49,818 - INFO - Processing chunk 355
+2025-07-30 14:00:49,864 - INFO - Saved partition ticker=CDNS, part 354 to parquet_data/ticker=CDNS/part-354.parquet
+2025-07-30 14:00:49,938 - INFO - Processing chunk 356
+2025-07-30 14:00:49,986 - INFO - Saved partition ticker=CDNS, part 355 to parquet_data/ticker=CDNS/part-355.parquet
+2025-07-30 14:00:50,059 - INFO - Processing chunk 357
+2025-07-30 14:00:50,104 - INFO - Saved partition ticker=CDNS, part 356 to parquet_data/ticker=CDNS/part-356.parquet
+2025-07-30 14:00:50,180 - INFO - Processing chunk 358
+2025-07-30 14:00:50,227 - INFO - Saved partition ticker=CDNS, part 357 to parquet_data/ticker=CDNS/part-357.parquet
+2025-07-30 14:00:50,306 - INFO - Processing chunk 359
+2025-07-30 14:00:50,357 - INFO - Saved partition ticker=CDNS, part 358 to parquet_data/ticker=CDNS/part-358.parquet
+2025-07-30 14:00:50,436 - INFO - Processing chunk 360
+2025-07-30 14:00:50,480 - INFO - Saved partition ticker=CDNS, part 359 to parquet_data/ticker=CDNS/part-359.parquet
+2025-07-30 14:00:50,560 - INFO - Processing chunk 361
+2025-07-30 14:00:50,608 - INFO - Saved partition ticker=CDNS, part 360 to parquet_data/ticker=CDNS/part-360.parquet
+2025-07-30 14:00:50,685 - INFO - Processing chunk 362
+2025-07-30 14:00:50,733 - INFO - Saved partition ticker=CDNS, part 361 to parquet_data/ticker=CDNS/part-361.parquet
+2025-07-30 14:00:50,811 - INFO - Processing chunk 363
+2025-07-30 14:00:50,855 - INFO - Saved partition ticker=CDNS, part 362 to parquet_data/ticker=CDNS/part-362.parquet
+2025-07-30 14:00:50,865 - INFO - Saved partition ticker=DELL, part 362 to parquet_data/ticker=DELL/part-362.parquet
+2025-07-30 14:00:50,938 - INFO - Processing chunk 364
+2025-07-30 14:00:50,978 - INFO - Saved partition ticker=DELL, part 363 to parquet_data/ticker=DELL/part-363.parquet
+2025-07-30 14:00:51,049 - INFO - Processing chunk 365
+2025-07-30 14:00:51,091 - INFO - Saved partition ticker=DELL, part 364 to parquet_data/ticker=DELL/part-364.parquet
+2025-07-30 14:00:51,158 - INFO - Processing chunk 366
+2025-07-30 14:00:51,202 - INFO - Saved partition ticker=DELL, part 365 to parquet_data/ticker=DELL/part-365.parquet
+2025-07-30 14:00:51,272 - INFO - Processing chunk 367
+2025-07-30 14:00:51,313 - INFO - Saved partition ticker=DELL, part 366 to parquet_data/ticker=DELL/part-366.parquet
+2025-07-30 14:00:51,384 - INFO - Processing chunk 368
+2025-07-30 14:00:51,427 - INFO - Saved partition ticker=DELL, part 367 to parquet_data/ticker=DELL/part-367.parquet
+2025-07-30 14:00:51,501 - INFO - Processing chunk 369
+2025-07-30 14:00:51,544 - INFO - Saved partition ticker=DELL, part 368 to parquet_data/ticker=DELL/part-368.parquet
+2025-07-30 14:00:51,616 - INFO - Processing chunk 370
+2025-07-30 14:00:51,658 - INFO - Saved partition ticker=DELL, part 369 to parquet_data/ticker=DELL/part-369.parquet
+2025-07-30 14:00:51,665 - INFO - Saved partition ticker=INTC, part 369 to parquet_data/ticker=INTC/part-369.parquet
+2025-07-30 14:00:51,739 - INFO - Processing chunk 371
+2025-07-30 14:00:51,786 - INFO - Saved partition ticker=INTC, part 370 to parquet_data/ticker=INTC/part-370.parquet
+2025-07-30 14:00:51,861 - INFO - Processing chunk 372
+2025-07-30 14:00:51,909 - INFO - Saved partition ticker=INTC, part 371 to parquet_data/ticker=INTC/part-371.parquet
+2025-07-30 14:00:51,980 - INFO - Processing chunk 373
+2025-07-30 14:00:52,024 - INFO - Saved partition ticker=INTC, part 372 to parquet_data/ticker=INTC/part-372.parquet
+2025-07-30 14:00:52,091 - INFO - Processing chunk 374
+2025-07-30 14:00:52,131 - INFO - Saved partition ticker=INTC, part 373 to parquet_data/ticker=INTC/part-373.parquet
+2025-07-30 14:00:52,198 - INFO - Processing chunk 375
+2025-07-30 14:00:52,241 - INFO - Saved partition ticker=INTC, part 374 to parquet_data/ticker=INTC/part-374.parquet
+2025-07-30 14:00:52,309 - INFO - Processing chunk 376
+2025-07-30 14:00:52,352 - INFO - Saved partition ticker=INTC, part 375 to parquet_data/ticker=INTC/part-375.parquet
+2025-07-30 14:00:52,420 - INFO - Processing chunk 377
+2025-07-30 14:00:52,464 - INFO - Saved partition ticker=INTC, part 376 to parquet_data/ticker=INTC/part-376.parquet
+2025-07-30 14:00:52,536 - INFO - Processing chunk 378
+2025-07-30 14:00:52,577 - INFO - Saved partition ticker=INTC, part 377 to parquet_data/ticker=INTC/part-377.parquet
+2025-07-30 14:00:52,645 - INFO - Processing chunk 379
+2025-07-30 14:00:52,691 - INFO - Saved partition ticker=INTC, part 378 to parquet_data/ticker=INTC/part-378.parquet
+2025-07-30 14:00:52,758 - INFO - Processing chunk 380
+2025-07-30 14:00:52,800 - INFO - Saved partition ticker=INTC, part 379 to parquet_data/ticker=INTC/part-379.parquet
+2025-07-30 14:00:52,872 - INFO - Processing chunk 381
+2025-07-30 14:00:52,917 - INFO - Saved partition ticker=INTC, part 380 to parquet_data/ticker=INTC/part-380.parquet
+2025-07-30 14:00:52,992 - INFO - Processing chunk 382
+2025-07-30 14:00:53,046 - INFO - Saved partition ticker=INTC, part 381 to parquet_data/ticker=INTC/part-381.parquet
+2025-07-30 14:00:53,124 - INFO - Processing chunk 383
+2025-07-30 14:00:53,172 - INFO - Saved partition ticker=INTC, part 382 to parquet_data/ticker=INTC/part-382.parquet
+2025-07-30 14:00:53,242 - INFO - Processing chunk 384
+2025-07-30 14:00:53,266 - INFO - Saved partition ticker=FTNT, part 383 to parquet_data/ticker=FTNT/part-383.parquet
+2025-07-30 14:00:53,290 - INFO - Saved partition ticker=INTC, part 383 to parquet_data/ticker=INTC/part-383.parquet
+2025-07-30 14:00:53,358 - INFO - Processing chunk 385
+2025-07-30 14:00:53,398 - INFO - Saved partition ticker=FTNT, part 384 to parquet_data/ticker=FTNT/part-384.parquet
+2025-07-30 14:00:53,468 - INFO - Processing chunk 386
+2025-07-30 14:00:53,510 - INFO - Saved partition ticker=FTNT, part 385 to parquet_data/ticker=FTNT/part-385.parquet
+2025-07-30 14:00:53,577 - INFO - Processing chunk 387
+2025-07-30 14:00:53,616 - INFO - Saved partition ticker=FTNT, part 386 to parquet_data/ticker=FTNT/part-386.parquet
+2025-07-30 14:00:53,685 - INFO - Processing chunk 388
+2025-07-30 14:00:53,725 - INFO - Saved partition ticker=FTNT, part 387 to parquet_data/ticker=FTNT/part-387.parquet
+2025-07-30 14:00:53,799 - INFO - Processing chunk 389
+2025-07-30 14:00:53,840 - INFO - Saved partition ticker=FTNT, part 388 to parquet_data/ticker=FTNT/part-388.parquet
+2025-07-30 14:00:53,911 - INFO - Processing chunk 390
+2025-07-30 14:00:53,953 - INFO - Saved partition ticker=FTNT, part 389 to parquet_data/ticker=FTNT/part-389.parquet
+2025-07-30 14:00:54,023 - INFO - Processing chunk 391
+2025-07-30 14:00:54,069 - INFO - Saved partition ticker=FTNT, part 390 to parquet_data/ticker=FTNT/part-390.parquet
+2025-07-30 14:00:54,137 - INFO - Processing chunk 392
+2025-07-30 14:00:54,183 - INFO - Saved partition ticker=FTNT, part 391 to parquet_data/ticker=FTNT/part-391.parquet
+2025-07-30 14:00:54,253 - INFO - Processing chunk 393
+2025-07-30 14:00:54,298 - INFO - Saved partition ticker=FTNT, part 392 to parquet_data/ticker=FTNT/part-392.parquet
+2025-07-30 14:00:54,364 - INFO - Processing chunk 394
+2025-07-30 14:00:54,399 - INFO - Saved partition ticker=FI, part 393 to parquet_data/ticker=FI/part-393.parquet
+2025-07-30 14:00:54,407 - INFO - Saved partition ticker=FTNT, part 393 to parquet_data/ticker=FTNT/part-393.parquet
+2025-07-30 14:00:54,475 - INFO - Processing chunk 395
+2025-07-30 14:00:54,515 - INFO - Saved partition ticker=FI, part 394 to parquet_data/ticker=FI/part-394.parquet
+2025-07-30 14:00:54,583 - INFO - Processing chunk 396
+2025-07-30 14:00:54,623 - INFO - Saved partition ticker=FI, part 395 to parquet_data/ticker=FI/part-395.parquet
+2025-07-30 14:00:54,695 - INFO - Processing chunk 397
+2025-07-30 14:00:54,739 - INFO - Saved partition ticker=FI, part 396 to parquet_data/ticker=FI/part-396.parquet
+2025-07-30 14:00:54,808 - INFO - Processing chunk 398
+2025-07-30 14:00:54,851 - INFO - Saved partition ticker=FI, part 397 to parquet_data/ticker=FI/part-397.parquet
+2025-07-30 14:00:54,922 - INFO - Processing chunk 399
+2025-07-30 14:00:54,967 - INFO - Saved partition ticker=FI, part 398 to parquet_data/ticker=FI/part-398.parquet
+2025-07-30 14:00:55,039 - INFO - Processing chunk 400
+2025-07-30 14:00:55,085 - INFO - Saved partition ticker=FI, part 399 to parquet_data/ticker=FI/part-399.parquet
+2025-07-30 14:00:55,162 - INFO - Processing chunk 401
+2025-07-30 14:00:55,209 - INFO - Saved partition ticker=FI, part 400 to parquet_data/ticker=FI/part-400.parquet
+2025-07-30 14:00:55,284 - INFO - Processing chunk 402
+2025-07-30 14:00:55,330 - INFO - Saved partition ticker=FI, part 401 to parquet_data/ticker=FI/part-401.parquet
+2025-07-30 14:00:55,410 - INFO - Processing chunk 403
+2025-07-30 14:00:55,441 - INFO - Saved partition ticker=FI, part 402 to parquet_data/ticker=FI/part-402.parquet
+2025-07-30 14:00:55,472 - INFO - Saved partition ticker=SNOW, part 402 to parquet_data/ticker=SNOW/part-402.parquet
+2025-07-30 14:00:55,548 - INFO - Processing chunk 404
+2025-07-30 14:00:55,602 - INFO - Saved partition ticker=SNOW, part 403 to parquet_data/ticker=SNOW/part-403.parquet
+2025-07-30 14:00:55,689 - INFO - Processing chunk 405
+2025-07-30 14:00:55,742 - INFO - Saved partition ticker=SNOW, part 404 to parquet_data/ticker=SNOW/part-404.parquet
+2025-07-30 14:00:55,819 - INFO - Processing chunk 406
+2025-07-30 14:00:55,866 - INFO - Saved partition ticker=SNOW, part 405 to parquet_data/ticker=SNOW/part-405.parquet
+2025-07-30 14:00:55,942 - INFO - Processing chunk 407
+2025-07-30 14:00:55,990 - INFO - Saved partition ticker=SNOW, part 406 to parquet_data/ticker=SNOW/part-406.parquet
+2025-07-30 14:00:56,067 - INFO - Processing chunk 408
+2025-07-30 14:00:56,117 - INFO - Saved partition ticker=SNOW, part 407 to parquet_data/ticker=SNOW/part-407.parquet
+2025-07-30 14:00:56,188 - INFO - Processing chunk 409
+2025-07-30 14:00:56,226 - INFO - Saved partition ticker=MSI, part 408 to parquet_data/ticker=MSI/part-408.parquet
+2025-07-30 14:00:56,240 - INFO - Saved partition ticker=SNOW, part 408 to parquet_data/ticker=SNOW/part-408.parquet
+2025-07-30 14:00:56,311 - INFO - Processing chunk 410
+2025-07-30 14:00:56,354 - INFO - Saved partition ticker=MSI, part 409 to parquet_data/ticker=MSI/part-409.parquet
+2025-07-30 14:00:56,425 - INFO - Processing chunk 411
+2025-07-30 14:00:56,473 - INFO - Saved partition ticker=MSI, part 410 to parquet_data/ticker=MSI/part-410.parquet
+2025-07-30 14:00:56,548 - INFO - Processing chunk 412
+2025-07-30 14:00:56,590 - INFO - Saved partition ticker=MSI, part 411 to parquet_data/ticker=MSI/part-411.parquet
+2025-07-30 14:00:56,663 - INFO - Processing chunk 413
+2025-07-30 14:00:56,711 - INFO - Saved partition ticker=MSI, part 412 to parquet_data/ticker=MSI/part-412.parquet
+2025-07-30 14:00:56,782 - INFO - Processing chunk 414
+2025-07-30 14:00:56,826 - INFO - Saved partition ticker=MSI, part 413 to parquet_data/ticker=MSI/part-413.parquet
+2025-07-30 14:00:56,906 - INFO - Processing chunk 415
+2025-07-30 14:00:56,951 - INFO - Saved partition ticker=MSI, part 414 to parquet_data/ticker=MSI/part-414.parquet
+2025-07-30 14:00:57,022 - INFO - Processing chunk 416
+2025-07-30 14:00:57,068 - INFO - Saved partition ticker=MSI, part 415 to parquet_data/ticker=MSI/part-415.parquet
+2025-07-30 14:00:57,137 - INFO - Processing chunk 417
+2025-07-30 14:00:57,169 - INFO - Saved partition ticker=INFY, part 416 to parquet_data/ticker=INFY/part-416.parquet
+2025-07-30 14:00:57,182 - INFO - Saved partition ticker=MSI, part 416 to parquet_data/ticker=MSI/part-416.parquet
+2025-07-30 14:00:57,253 - INFO - Processing chunk 418
+2025-07-30 14:00:57,293 - INFO - Saved partition ticker=INFY, part 417 to parquet_data/ticker=INFY/part-417.parquet
+2025-07-30 14:00:57,359 - INFO - Processing chunk 419
+2025-07-30 14:00:57,402 - INFO - Saved partition ticker=INFY, part 418 to parquet_data/ticker=INFY/part-418.parquet
+2025-07-30 14:00:57,474 - INFO - Processing chunk 420
+2025-07-30 14:00:57,515 - INFO - Saved partition ticker=INFY, part 419 to parquet_data/ticker=INFY/part-419.parquet
+2025-07-30 14:00:57,579 - INFO - Processing chunk 421
+2025-07-30 14:00:57,621 - INFO - Saved partition ticker=INFY, part 420 to parquet_data/ticker=INFY/part-420.parquet
+2025-07-30 14:00:57,689 - INFO - Processing chunk 422
+2025-07-30 14:00:57,730 - INFO - Saved partition ticker=INFY, part 421 to parquet_data/ticker=INFY/part-421.parquet
+2025-07-30 14:00:57,799 - INFO - Processing chunk 423
+2025-07-30 14:00:57,843 - INFO - Saved partition ticker=INFY, part 422 to parquet_data/ticker=INFY/part-422.parquet
+2025-07-30 14:00:57,916 - INFO - Processing chunk 424
+2025-07-30 14:00:57,959 - INFO - Saved partition ticker=INFY, part 423 to parquet_data/ticker=INFY/part-423.parquet
+2025-07-30 14:00:58,030 - INFO - Processing chunk 425
+2025-07-30 14:00:58,072 - INFO - Saved partition ticker=INFY, part 424 to parquet_data/ticker=INFY/part-424.parquet
+2025-07-30 14:00:58,140 - INFO - Processing chunk 426
+2025-07-30 14:00:58,179 - INFO - Saved partition ticker=INFY, part 425 to parquet_data/ticker=INFY/part-425.parquet
+2025-07-30 14:00:58,186 - INFO - Saved partition ticker=MRVL, part 425 to parquet_data/ticker=MRVL/part-425.parquet
+2025-07-30 14:00:58,255 - INFO - Processing chunk 427
+2025-07-30 14:00:58,297 - INFO - Saved partition ticker=MRVL, part 426 to parquet_data/ticker=MRVL/part-426.parquet
+2025-07-30 14:00:58,365 - INFO - Processing chunk 428
+2025-07-30 14:00:58,410 - INFO - Saved partition ticker=MRVL, part 427 to parquet_data/ticker=MRVL/part-427.parquet
+2025-07-30 14:00:58,478 - INFO - Processing chunk 429
+2025-07-30 14:00:58,521 - INFO - Saved partition ticker=MRVL, part 428 to parquet_data/ticker=MRVL/part-428.parquet
+2025-07-30 14:00:58,589 - INFO - Processing chunk 430
+2025-07-30 14:00:58,629 - INFO - Saved partition ticker=MRVL, part 429 to parquet_data/ticker=MRVL/part-429.parquet
+2025-07-30 14:00:58,696 - INFO - Processing chunk 431
+2025-07-30 14:00:58,737 - INFO - Saved partition ticker=MRVL, part 430 to parquet_data/ticker=MRVL/part-430.parquet
+2025-07-30 14:00:58,805 - INFO - Processing chunk 432
+2025-07-30 14:00:58,848 - INFO - Saved partition ticker=MRVL, part 431 to parquet_data/ticker=MRVL/part-431.parquet
+2025-07-30 14:00:58,915 - INFO - Processing chunk 433
+2025-07-30 14:00:58,958 - INFO - Saved partition ticker=MRVL, part 432 to parquet_data/ticker=MRVL/part-432.parquet
+2025-07-30 14:00:59,027 - INFO - Processing chunk 434
+2025-07-30 14:00:59,069 - INFO - Saved partition ticker=MRVL, part 433 to parquet_data/ticker=MRVL/part-433.parquet
+2025-07-30 14:00:59,139 - INFO - Processing chunk 435
+2025-07-30 14:00:59,180 - INFO - Saved partition ticker=MRVL, part 434 to parquet_data/ticker=MRVL/part-434.parquet
+2025-07-30 14:00:59,247 - INFO - Processing chunk 436
+2025-07-30 14:00:59,290 - INFO - Saved partition ticker=MRVL, part 435 to parquet_data/ticker=MRVL/part-435.parquet
+2025-07-30 14:00:59,360 - INFO - Processing chunk 437
+2025-07-30 14:00:59,387 - INFO - Saved partition ticker=MRVL, part 436 to parquet_data/ticker=MRVL/part-436.parquet
+2025-07-30 14:00:59,410 - INFO - Saved partition ticker=NET, part 436 to parquet_data/ticker=NET/part-436.parquet
+2025-07-30 14:00:59,482 - INFO - Processing chunk 438
+2025-07-30 14:00:59,528 - INFO - Saved partition ticker=NET, part 437 to parquet_data/ticker=NET/part-437.parquet
+2025-07-30 14:00:59,604 - INFO - Processing chunk 439
+2025-07-30 14:00:59,652 - INFO - Saved partition ticker=NET, part 438 to parquet_data/ticker=NET/part-438.parquet
+2025-07-30 14:00:59,727 - INFO - Processing chunk 440
+2025-07-30 14:00:59,774 - INFO - Saved partition ticker=NET, part 439 to parquet_data/ticker=NET/part-439.parquet
+2025-07-30 14:00:59,852 - INFO - Processing chunk 441
+2025-07-30 14:00:59,896 - INFO - Saved partition ticker=NET, part 440 to parquet_data/ticker=NET/part-440.parquet
+2025-07-30 14:00:59,965 - INFO - Processing chunk 442
+2025-07-30 14:01:00,011 - INFO - Saved partition ticker=NET, part 441 to parquet_data/ticker=NET/part-441.parquet
+2025-07-30 14:01:00,087 - INFO - Processing chunk 443
+2025-07-30 14:01:00,105 - INFO - Saved partition ticker=ADSK, part 442 to parquet_data/ticker=ADSK/part-442.parquet
+2025-07-30 14:01:00,142 - INFO - Saved partition ticker=NET, part 442 to parquet_data/ticker=NET/part-442.parquet
+2025-07-30 14:01:00,212 - INFO - Processing chunk 444
+2025-07-30 14:01:00,256 - INFO - Saved partition ticker=ADSK, part 443 to parquet_data/ticker=ADSK/part-443.parquet
+2025-07-30 14:01:00,331 - INFO - Processing chunk 445
+2025-07-30 14:01:00,374 - INFO - Saved partition ticker=ADSK, part 444 to parquet_data/ticker=ADSK/part-444.parquet
+2025-07-30 14:01:00,446 - INFO - Processing chunk 446
+2025-07-30 14:01:00,487 - INFO - Saved partition ticker=ADSK, part 445 to parquet_data/ticker=ADSK/part-445.parquet
+2025-07-30 14:01:00,560 - INFO - Processing chunk 447
+2025-07-30 14:01:00,606 - INFO - Saved partition ticker=ADSK, part 446 to parquet_data/ticker=ADSK/part-446.parquet
+2025-07-30 14:01:00,677 - INFO - Processing chunk 448
+2025-07-30 14:01:00,726 - INFO - Saved partition ticker=ADSK, part 447 to parquet_data/ticker=ADSK/part-447.parquet
+2025-07-30 14:01:00,803 - INFO - Processing chunk 449
+2025-07-30 14:01:00,849 - INFO - Saved partition ticker=ADSK, part 448 to parquet_data/ticker=ADSK/part-448.parquet
+2025-07-30 14:01:00,920 - INFO - Processing chunk 450
+2025-07-30 14:01:00,963 - INFO - Saved partition ticker=ADSK, part 449 to parquet_data/ticker=ADSK/part-449.parquet
+2025-07-30 14:01:01,035 - INFO - Processing chunk 451
+2025-07-30 14:01:01,078 - INFO - Saved partition ticker=ADSK, part 450 to parquet_data/ticker=ADSK/part-450.parquet
+2025-07-30 14:01:01,146 - INFO - Processing chunk 452
+2025-07-30 14:01:01,191 - INFO - Saved partition ticker=ADSK, part 451 to parquet_data/ticker=ADSK/part-451.parquet
+2025-07-30 14:01:01,262 - INFO - Processing chunk 453
+2025-07-30 14:01:01,275 - INFO - Saved partition ticker=ADSK, part 452 to parquet_data/ticker=ADSK/part-452.parquet
+2025-07-30 14:01:01,308 - INFO - Saved partition ticker=WDAY, part 452 to parquet_data/ticker=WDAY/part-452.parquet
+2025-07-30 14:01:01,379 - INFO - Processing chunk 454
+2025-07-30 14:01:01,424 - INFO - Saved partition ticker=WDAY, part 453 to parquet_data/ticker=WDAY/part-453.parquet
+2025-07-30 14:01:01,498 - INFO - Processing chunk 455
+2025-07-30 14:01:01,542 - INFO - Saved partition ticker=WDAY, part 454 to parquet_data/ticker=WDAY/part-454.parquet
+2025-07-30 14:01:01,614 - INFO - Processing chunk 456
+2025-07-30 14:01:01,659 - INFO - Saved partition ticker=WDAY, part 455 to parquet_data/ticker=WDAY/part-455.parquet
+2025-07-30 14:01:01,731 - INFO - Processing chunk 457
+2025-07-30 14:01:01,777 - INFO - Saved partition ticker=WDAY, part 456 to parquet_data/ticker=WDAY/part-456.parquet
+2025-07-30 14:01:01,849 - INFO - Processing chunk 458
+2025-07-30 14:01:01,895 - INFO - Saved partition ticker=WDAY, part 457 to parquet_data/ticker=WDAY/part-457.parquet
+2025-07-30 14:01:01,970 - INFO - Processing chunk 459
+2025-07-30 14:01:02,019 - INFO - Saved partition ticker=WDAY, part 458 to parquet_data/ticker=WDAY/part-458.parquet
+2025-07-30 14:01:02,095 - INFO - Processing chunk 460
+2025-07-30 14:01:02,143 - INFO - Saved partition ticker=WDAY, part 459 to parquet_data/ticker=WDAY/part-459.parquet
+2025-07-30 14:01:02,218 - INFO - Processing chunk 461
+2025-07-30 14:01:02,266 - INFO - Saved partition ticker=WDAY, part 460 to parquet_data/ticker=WDAY/part-460.parquet
+2025-07-30 14:01:02,338 - INFO - Processing chunk 462
+2025-07-30 14:01:02,365 - INFO - Saved partition ticker=TEL, part 461 to parquet_data/ticker=TEL/part-461.parquet
+2025-07-30 14:01:02,384 - INFO - Saved partition ticker=WDAY, part 461 to parquet_data/ticker=WDAY/part-461.parquet
+2025-07-30 14:01:02,453 - INFO - Processing chunk 463
+2025-07-30 14:01:02,494 - INFO - Saved partition ticker=TEL, part 462 to parquet_data/ticker=TEL/part-462.parquet
+2025-07-30 14:01:02,558 - INFO - Processing chunk 464
+2025-07-30 14:01:02,600 - INFO - Saved partition ticker=TEL, part 463 to parquet_data/ticker=TEL/part-463.parquet
+2025-07-30 14:01:02,667 - INFO - Processing chunk 465
+2025-07-30 14:01:02,707 - INFO - Saved partition ticker=TEL, part 464 to parquet_data/ticker=TEL/part-464.parquet
+2025-07-30 14:01:02,777 - INFO - Processing chunk 466
+2025-07-30 14:01:02,819 - INFO - Saved partition ticker=TEL, part 465 to parquet_data/ticker=TEL/part-465.parquet
+2025-07-30 14:01:02,894 - INFO - Processing chunk 467
+2025-07-30 14:01:02,935 - INFO - Saved partition ticker=TEL, part 466 to parquet_data/ticker=TEL/part-466.parquet
+2025-07-30 14:01:03,008 - INFO - Processing chunk 468
+2025-07-30 14:01:03,050 - INFO - Saved partition ticker=TEL, part 467 to parquet_data/ticker=TEL/part-467.parquet
+2025-07-30 14:01:03,124 - INFO - Processing chunk 469
+2025-07-30 14:01:03,167 - INFO - Saved partition ticker=TEL, part 468 to parquet_data/ticker=TEL/part-468.parquet
+2025-07-30 14:01:03,243 - INFO - Processing chunk 470
+2025-07-30 14:01:03,285 - INFO - Saved partition ticker=TEL, part 469 to parquet_data/ticker=TEL/part-469.parquet
+2025-07-30 14:01:03,360 - INFO - Processing chunk 471
+2025-07-30 14:01:03,385 - INFO - Saved partition ticker=ROP, part 470 to parquet_data/ticker=ROP/part-470.parquet
+2025-07-30 14:01:03,406 - INFO - Saved partition ticker=TEL, part 470 to parquet_data/ticker=TEL/part-470.parquet
+2025-07-30 14:01:03,478 - INFO - Processing chunk 472
+2025-07-30 14:01:03,521 - INFO - Saved partition ticker=ROP, part 471 to parquet_data/ticker=ROP/part-471.parquet
+2025-07-30 14:01:03,590 - INFO - Processing chunk 473
+2025-07-30 14:01:03,649 - INFO - Saved partition ticker=ROP, part 472 to parquet_data/ticker=ROP/part-472.parquet
+2025-07-30 14:01:03,720 - INFO - Processing chunk 474
+2025-07-30 14:01:03,768 - INFO - Saved partition ticker=ROP, part 473 to parquet_data/ticker=ROP/part-473.parquet
+2025-07-30 14:01:03,841 - INFO - Processing chunk 475
+2025-07-30 14:01:03,893 - INFO - Saved partition ticker=ROP, part 474 to parquet_data/ticker=ROP/part-474.parquet
+2025-07-30 14:01:03,969 - INFO - Processing chunk 476
+2025-07-30 14:01:04,022 - INFO - Saved partition ticker=ROP, part 475 to parquet_data/ticker=ROP/part-475.parquet
+2025-07-30 14:01:04,098 - INFO - Processing chunk 477
+2025-07-30 14:01:04,158 - INFO - Saved partition ticker=ROP, part 476 to parquet_data/ticker=ROP/part-476.parquet
+2025-07-30 14:01:04,233 - INFO - Processing chunk 478
+2025-07-30 14:01:04,269 - INFO - Saved partition ticker=NXPI, part 477 to parquet_data/ticker=NXPI/part-477.parquet
+2025-07-30 14:01:04,281 - INFO - Saved partition ticker=ROP, part 477 to parquet_data/ticker=ROP/part-477.parquet
+2025-07-30 14:01:04,354 - INFO - Processing chunk 479
+2025-07-30 14:01:04,397 - INFO - Saved partition ticker=NXPI, part 478 to parquet_data/ticker=NXPI/part-478.parquet
+2025-07-30 14:01:04,470 - INFO - Processing chunk 480
+2025-07-30 14:01:04,514 - INFO - Saved partition ticker=NXPI, part 479 to parquet_data/ticker=NXPI/part-479.parquet
+2025-07-30 14:01:04,586 - INFO - Processing chunk 481
+2025-07-30 14:01:04,628 - INFO - Saved partition ticker=NXPI, part 480 to parquet_data/ticker=NXPI/part-480.parquet
+2025-07-30 14:01:04,704 - INFO - Processing chunk 482
+2025-07-30 14:01:04,749 - INFO - Saved partition ticker=NXPI, part 481 to parquet_data/ticker=NXPI/part-481.parquet
+2025-07-30 14:01:04,821 - INFO - Processing chunk 483
+2025-07-30 14:01:04,866 - INFO - Saved partition ticker=NXPI, part 482 to parquet_data/ticker=NXPI/part-482.parquet
+2025-07-30 14:01:04,941 - INFO - Processing chunk 484
+2025-07-30 14:01:04,983 - INFO - Saved partition ticker=NXPI, part 483 to parquet_data/ticker=NXPI/part-483.parquet
+2025-07-30 14:01:05,058 - INFO - Processing chunk 485
+2025-07-30 14:01:05,101 - INFO - Saved partition ticker=NXPI, part 484 to parquet_data/ticker=NXPI/part-484.parquet
+2025-07-30 14:01:05,172 - INFO - Processing chunk 486
+2025-07-30 14:01:05,214 - INFO - Saved partition ticker=NXPI, part 485 to parquet_data/ticker=NXPI/part-485.parquet
+2025-07-30 14:01:05,288 - INFO - Processing chunk 487
+2025-07-30 14:01:05,309 - INFO - Saved partition ticker=GLW, part 486 to parquet_data/ticker=GLW/part-486.parquet
+2025-07-30 14:01:05,342 - INFO - Saved partition ticker=NXPI, part 486 to parquet_data/ticker=NXPI/part-486.parquet
+2025-07-30 14:01:05,416 - INFO - Processing chunk 488
+2025-07-30 14:01:05,462 - INFO - Saved partition ticker=GLW, part 487 to parquet_data/ticker=GLW/part-487.parquet
+2025-07-30 14:01:05,529 - INFO - Processing chunk 489
+2025-07-30 14:01:05,570 - INFO - Saved partition ticker=GLW, part 488 to parquet_data/ticker=GLW/part-488.parquet
+2025-07-30 14:01:05,635 - INFO - Processing chunk 490
+2025-07-30 14:01:05,676 - INFO - Saved partition ticker=GLW, part 489 to parquet_data/ticker=GLW/part-489.parquet
+2025-07-30 14:01:05,743 - INFO - Processing chunk 491
+2025-07-30 14:01:05,786 - INFO - Saved partition ticker=GLW, part 490 to parquet_data/ticker=GLW/part-490.parquet
+2025-07-30 14:01:05,853 - INFO - Processing chunk 492
+2025-07-30 14:01:05,900 - INFO - Saved partition ticker=GLW, part 491 to parquet_data/ticker=GLW/part-491.parquet
+2025-07-30 14:01:05,964 - INFO - Processing chunk 493
+2025-07-30 14:01:06,005 - INFO - Saved partition ticker=GLW, part 492 to parquet_data/ticker=GLW/part-492.parquet
+2025-07-30 14:01:06,074 - INFO - Processing chunk 494
+2025-07-30 14:01:06,116 - INFO - Saved partition ticker=GLW, part 493 to parquet_data/ticker=GLW/part-493.parquet
+2025-07-30 14:01:06,187 - INFO - Processing chunk 495
+2025-07-30 14:01:06,227 - INFO - Saved partition ticker=GLW, part 494 to parquet_data/ticker=GLW/part-494.parquet
+2025-07-30 14:01:06,291 - INFO - Processing chunk 496
+2025-07-30 14:01:06,332 - INFO - Saved partition ticker=GLW, part 495 to parquet_data/ticker=GLW/part-495.parquet
+2025-07-30 14:01:06,400 - INFO - Processing chunk 497
+2025-07-30 14:01:06,424 - INFO - Saved partition ticker=GLW, part 496 to parquet_data/ticker=GLW/part-496.parquet
+2025-07-30 14:01:06,445 - INFO - Saved partition ticker=PAYX, part 496 to parquet_data/ticker=PAYX/part-496.parquet
+2025-07-30 14:01:06,516 - INFO - Processing chunk 498
+2025-07-30 14:01:06,556 - INFO - Saved partition ticker=PAYX, part 497 to parquet_data/ticker=PAYX/part-497.parquet
+2025-07-30 14:01:06,622 - INFO - Processing chunk 499
+2025-07-30 14:01:06,663 - INFO - Saved partition ticker=PAYX, part 498 to parquet_data/ticker=PAYX/part-498.parquet
+2025-07-30 14:01:06,732 - INFO - Processing chunk 500
+2025-07-30 14:01:06,773 - INFO - Saved partition ticker=PAYX, part 499 to parquet_data/ticker=PAYX/part-499.parquet
+2025-07-30 14:01:06,837 - INFO - Processing chunk 501
+2025-07-30 14:01:06,879 - INFO - Saved partition ticker=PAYX, part 500 to parquet_data/ticker=PAYX/part-500.parquet
+2025-07-30 14:01:06,950 - INFO - Processing chunk 502
+2025-07-30 14:01:06,992 - INFO - Saved partition ticker=PAYX, part 501 to parquet_data/ticker=PAYX/part-501.parquet
+2025-07-30 14:01:07,067 - INFO - Processing chunk 503
+2025-07-30 14:01:07,110 - INFO - Saved partition ticker=PAYX, part 502 to parquet_data/ticker=PAYX/part-502.parquet
+2025-07-30 14:01:07,184 - INFO - Processing chunk 504
+2025-07-30 14:01:07,224 - INFO - Saved partition ticker=PAYX, part 503 to parquet_data/ticker=PAYX/part-503.parquet
+2025-07-30 14:01:07,297 - INFO - Processing chunk 505
+2025-07-30 14:01:07,338 - INFO - Saved partition ticker=PAYX, part 504 to parquet_data/ticker=PAYX/part-504.parquet
+2025-07-30 14:01:07,416 - INFO - Processing chunk 506
+2025-07-30 14:01:07,447 - INFO - Saved partition ticker=PAYX, part 505 to parquet_data/ticker=PAYX/part-505.parquet
+2025-07-30 14:01:07,465 - INFO - Saved partition ticker=TEAM, part 505 to parquet_data/ticker=TEAM/part-505.parquet
+2025-07-30 14:01:07,538 - INFO - Processing chunk 507
+2025-07-30 14:01:07,582 - INFO - Saved partition ticker=TEAM, part 506 to parquet_data/ticker=TEAM/part-506.parquet
+2025-07-30 14:01:07,655 - INFO - Processing chunk 508
+2025-07-30 14:01:07,702 - INFO - Saved partition ticker=TEAM, part 507 to parquet_data/ticker=TEAM/part-507.parquet
+2025-07-30 14:01:07,780 - INFO - Processing chunk 509
+2025-07-30 14:01:07,827 - INFO - Saved partition ticker=TEAM, part 508 to parquet_data/ticker=TEAM/part-508.parquet
+2025-07-30 14:01:07,903 - INFO - Processing chunk 510
+2025-07-30 14:01:07,951 - INFO - Saved partition ticker=TEAM, part 509 to parquet_data/ticker=TEAM/part-509.parquet
+2025-07-30 14:01:08,027 - INFO - Processing chunk 511
+2025-07-30 14:01:08,078 - INFO - Saved partition ticker=TEAM, part 510 to parquet_data/ticker=TEAM/part-510.parquet
+2025-07-30 14:01:08,153 - INFO - Processing chunk 512
+2025-07-30 14:01:08,206 - INFO - Saved partition ticker=TEAM, part 511 to parquet_data/ticker=TEAM/part-511.parquet
+2025-07-30 14:01:08,284 - INFO - Processing chunk 513
+2025-07-30 14:01:08,335 - INFO - Saved partition ticker=TEAM, part 512 to parquet_data/ticker=TEAM/part-512.parquet
+2025-07-30 14:01:08,412 - INFO - Processing chunk 514
+2025-07-30 14:01:08,461 - INFO - Saved partition ticker=TEAM, part 513 to parquet_data/ticker=TEAM/part-513.parquet
+2025-07-30 14:01:08,541 - INFO - Processing chunk 515
+2025-07-30 14:01:08,572 - INFO - Saved partition ticker=DDOG, part 514 to parquet_data/ticker=DDOG/part-514.parquet
+2025-07-30 14:01:08,595 - INFO - Saved partition ticker=TEAM, part 514 to parquet_data/ticker=TEAM/part-514.parquet
+2025-07-30 14:01:08,670 - INFO - Processing chunk 516
+2025-07-30 14:01:08,721 - INFO - Saved partition ticker=DDOG, part 515 to parquet_data/ticker=DDOG/part-515.parquet
+2025-07-30 14:01:08,798 - INFO - Processing chunk 517
+2025-07-30 14:01:08,852 - INFO - Saved partition ticker=DDOG, part 516 to parquet_data/ticker=DDOG/part-516.parquet
+2025-07-30 14:01:08,930 - INFO - Processing chunk 518
+2025-07-30 14:01:08,979 - INFO - Saved partition ticker=DDOG, part 517 to parquet_data/ticker=DDOG/part-517.parquet
+2025-07-30 14:01:09,054 - INFO - Processing chunk 519
+2025-07-30 14:01:09,099 - INFO - Saved partition ticker=DDOG, part 518 to parquet_data/ticker=DDOG/part-518.parquet
+2025-07-30 14:01:09,175 - INFO - Processing chunk 520
+2025-07-30 14:01:09,220 - INFO - Saved partition ticker=DDOG, part 519 to parquet_data/ticker=DDOG/part-519.parquet
+2025-07-30 14:01:09,300 - INFO - Processing chunk 521
+2025-07-30 14:01:09,321 - INFO - Saved partition ticker=CRWV, part 520 to parquet_data/ticker=CRWV/part-520.parquet
+2025-07-30 14:01:09,357 - INFO - Saved partition ticker=DDOG, part 520 to parquet_data/ticker=DDOG/part-520.parquet
+2025-07-30 14:01:09,432 - INFO - Processing chunk 522
+2025-07-30 14:01:09,461 - INFO - Saved partition ticker=CRWV, part 521 to parquet_data/ticker=CRWV/part-521.parquet
+2025-07-30 14:01:09,486 - INFO - Saved partition ticker=XYZ, part 521 to parquet_data/ticker=XYZ/part-521.parquet
+2025-07-30 14:01:09,568 - INFO - Processing chunk 523
+2025-07-30 14:01:09,616 - INFO - Saved partition ticker=XYZ, part 522 to parquet_data/ticker=XYZ/part-522.parquet
+2025-07-30 14:01:09,686 - INFO - Processing chunk 524
+2025-07-30 14:01:09,732 - INFO - Saved partition ticker=XYZ, part 523 to parquet_data/ticker=XYZ/part-523.parquet
+2025-07-30 14:01:09,804 - INFO - Processing chunk 525
+2025-07-30 14:01:09,852 - INFO - Saved partition ticker=XYZ, part 524 to parquet_data/ticker=XYZ/part-524.parquet
+2025-07-30 14:01:09,926 - INFO - Processing chunk 526
+2025-07-30 14:01:09,973 - INFO - Saved partition ticker=XYZ, part 525 to parquet_data/ticker=XYZ/part-525.parquet
+2025-07-30 14:01:10,051 - INFO - Processing chunk 527
+2025-07-30 14:01:10,101 - INFO - Saved partition ticker=XYZ, part 526 to parquet_data/ticker=XYZ/part-526.parquet
+2025-07-30 14:01:10,173 - INFO - Processing chunk 528
+2025-07-30 14:01:10,225 - INFO - Saved partition ticker=XYZ, part 527 to parquet_data/ticker=XYZ/part-527.parquet
+2025-07-30 14:01:10,299 - INFO - Processing chunk 529
+2025-07-30 14:01:10,348 - INFO - Saved partition ticker=XYZ, part 528 to parquet_data/ticker=XYZ/part-528.parquet
+2025-07-30 14:01:10,419 - INFO - Processing chunk 530
+2025-07-30 14:01:10,470 - INFO - Saved partition ticker=XYZ, part 529 to parquet_data/ticker=XYZ/part-529.parquet
+2025-07-30 14:01:10,545 - INFO - Processing chunk 531
+2025-07-30 14:01:10,593 - INFO - Saved partition ticker=XYZ, part 530 to parquet_data/ticker=XYZ/part-530.parquet
+2025-07-30 14:01:10,660 - INFO - Processing chunk 532
+2025-07-30 14:01:10,707 - INFO - Saved partition ticker=XYZ, part 531 to parquet_data/ticker=XYZ/part-531.parquet
+2025-07-30 14:01:10,778 - INFO - Processing chunk 533
+2025-07-30 14:01:10,823 - INFO - Saved partition ticker=XYZ, part 532 to parquet_data/ticker=XYZ/part-532.parquet
+2025-07-30 14:01:10,892 - INFO - Processing chunk 534
+2025-07-30 14:01:10,921 - INFO - Saved partition ticker=XYZ, part 533 to parquet_data/ticker=XYZ/part-533.parquet
+2025-07-30 14:01:10,943 - INFO - Saved partition ticker=ZS, part 533 to parquet_data/ticker=ZS/part-533.parquet
+2025-07-30 14:01:11,012 - INFO - Processing chunk 535
+2025-07-30 14:01:11,060 - INFO - Saved partition ticker=ZS, part 534 to parquet_data/ticker=ZS/part-534.parquet
+2025-07-30 14:01:11,131 - INFO - Processing chunk 536
+2025-07-30 14:01:11,178 - INFO - Saved partition ticker=ZS, part 535 to parquet_data/ticker=ZS/part-535.parquet
+2025-07-30 14:01:11,255 - INFO - Processing chunk 537
+2025-07-30 14:01:11,304 - INFO - Saved partition ticker=ZS, part 536 to parquet_data/ticker=ZS/part-536.parquet
+2025-07-30 14:01:11,378 - INFO - Processing chunk 538
+2025-07-30 14:01:11,434 - INFO - Saved partition ticker=ZS, part 537 to parquet_data/ticker=ZS/part-537.parquet
+2025-07-30 14:01:11,507 - INFO - Processing chunk 539
+2025-07-30 14:01:11,551 - INFO - Saved partition ticker=ZS, part 538 to parquet_data/ticker=ZS/part-538.parquet
+2025-07-30 14:01:11,625 - INFO - Processing chunk 540
+2025-07-30 14:01:11,673 - INFO - Saved partition ticker=ZS, part 539 to parquet_data/ticker=ZS/part-539.parquet
+2025-07-30 14:01:11,747 - INFO - Processing chunk 541
+2025-07-30 14:01:11,763 - INFO - Saved partition ticker=GRMN, part 540 to parquet_data/ticker=GRMN/part-540.parquet
+2025-07-30 14:01:11,799 - INFO - Saved partition ticker=ZS, part 540 to parquet_data/ticker=ZS/part-540.parquet
+2025-07-30 14:01:11,867 - INFO - Processing chunk 542
+2025-07-30 14:01:11,909 - INFO - Saved partition ticker=GRMN, part 541 to parquet_data/ticker=GRMN/part-541.parquet
+2025-07-30 14:01:11,976 - INFO - Processing chunk 543
+2025-07-30 14:01:12,017 - INFO - Saved partition ticker=GRMN, part 542 to parquet_data/ticker=GRMN/part-542.parquet
+2025-07-30 14:01:12,082 - INFO - Processing chunk 544
+2025-07-30 14:01:12,123 - INFO - Saved partition ticker=GRMN, part 543 to parquet_data/ticker=GRMN/part-543.parquet
+2025-07-30 14:01:12,186 - INFO - Processing chunk 545
+2025-07-30 14:01:12,224 - INFO - Saved partition ticker=GRMN, part 544 to parquet_data/ticker=GRMN/part-544.parquet
+2025-07-30 14:01:12,297 - INFO - Processing chunk 546
+2025-07-30 14:01:12,336 - INFO - Saved partition ticker=GRMN, part 545 to parquet_data/ticker=GRMN/part-545.parquet
+2025-07-30 14:01:12,404 - INFO - Processing chunk 547
+2025-07-30 14:01:12,446 - INFO - Saved partition ticker=GRMN, part 546 to parquet_data/ticker=GRMN/part-546.parquet
+2025-07-30 14:01:12,516 - INFO - Processing chunk 548
+2025-07-30 14:01:12,556 - INFO - Saved partition ticker=GRMN, part 547 to parquet_data/ticker=GRMN/part-547.parquet
+2025-07-30 14:01:12,624 - INFO - Processing chunk 549
+2025-07-30 14:01:12,666 - INFO - Saved partition ticker=GRMN, part 548 to parquet_data/ticker=GRMN/part-548.parquet
+2025-07-30 14:01:12,737 - INFO - Processing chunk 550
+2025-07-30 14:01:12,774 - INFO - Saved partition ticker=FIS, part 549 to parquet_data/ticker=FIS/part-549.parquet
+2025-07-30 14:01:12,785 - INFO - Saved partition ticker=GRMN, part 549 to parquet_data/ticker=GRMN/part-549.parquet
+2025-07-30 14:01:12,854 - INFO - Processing chunk 551
+2025-07-30 14:01:12,897 - INFO - Saved partition ticker=FIS, part 550 to parquet_data/ticker=FIS/part-550.parquet
+2025-07-30 14:01:12,967 - INFO - Processing chunk 552
+2025-07-30 14:01:13,008 - INFO - Saved partition ticker=FIS, part 551 to parquet_data/ticker=FIS/part-551.parquet
+2025-07-30 14:01:13,075 - INFO - Processing chunk 553
+2025-07-30 14:01:13,118 - INFO - Saved partition ticker=FIS, part 552 to parquet_data/ticker=FIS/part-552.parquet
+2025-07-30 14:01:13,191 - INFO - Processing chunk 554
+2025-07-30 14:01:13,231 - INFO - Saved partition ticker=FIS, part 553 to parquet_data/ticker=FIS/part-553.parquet
+2025-07-30 14:01:13,306 - INFO - Processing chunk 555
+2025-07-30 14:01:13,347 - INFO - Saved partition ticker=FIS, part 554 to parquet_data/ticker=FIS/part-554.parquet
+2025-07-30 14:01:13,419 - INFO - Processing chunk 556
+2025-07-30 14:01:13,465 - INFO - Saved partition ticker=FIS, part 555 to parquet_data/ticker=FIS/part-555.parquet
+2025-07-30 14:01:13,534 - INFO - Processing chunk 557
+2025-07-30 14:01:13,574 - INFO - Saved partition ticker=FIS, part 556 to parquet_data/ticker=FIS/part-556.parquet
+2025-07-30 14:01:13,642 - INFO - Processing chunk 558
+2025-07-30 14:01:13,684 - INFO - Saved partition ticker=FIS, part 557 to parquet_data/ticker=FIS/part-557.parquet
+2025-07-30 14:01:13,755 - INFO - Processing chunk 559
+2025-07-30 14:01:13,784 - INFO - Saved partition ticker=FIS, part 558 to parquet_data/ticker=FIS/part-558.parquet
+2025-07-30 14:01:13,803 - INFO - Saved partition ticker=MCHP, part 558 to parquet_data/ticker=MCHP/part-558.parquet
+2025-07-30 14:01:13,871 - INFO - Processing chunk 560
+2025-07-30 14:01:13,913 - INFO - Saved partition ticker=MCHP, part 559 to parquet_data/ticker=MCHP/part-559.parquet
+2025-07-30 14:01:13,985 - INFO - Processing chunk 561
+2025-07-30 14:01:14,026 - INFO - Saved partition ticker=MCHP, part 560 to parquet_data/ticker=MCHP/part-560.parquet
+2025-07-30 14:01:14,096 - INFO - Processing chunk 562
+2025-07-30 14:01:14,147 - INFO - Saved partition ticker=MCHP, part 561 to parquet_data/ticker=MCHP/part-561.parquet
+2025-07-30 14:01:14,219 - INFO - Processing chunk 563
+2025-07-30 14:01:14,260 - INFO - Saved partition ticker=MCHP, part 562 to parquet_data/ticker=MCHP/part-562.parquet
+2025-07-30 14:01:14,329 - INFO - Processing chunk 564
+2025-07-30 14:01:14,373 - INFO - Saved partition ticker=MCHP, part 563 to parquet_data/ticker=MCHP/part-563.parquet
+2025-07-30 14:01:14,443 - INFO - Processing chunk 565
+2025-07-30 14:01:14,483 - INFO - Saved partition ticker=MCHP, part 564 to parquet_data/ticker=MCHP/part-564.parquet
+2025-07-30 14:01:14,553 - INFO - Processing chunk 566
+2025-07-30 14:01:14,593 - INFO - Saved partition ticker=MCHP, part 565 to parquet_data/ticker=MCHP/part-565.parquet
+2025-07-30 14:01:14,664 - INFO - Processing chunk 567
+2025-07-30 14:01:14,708 - INFO - Saved partition ticker=MCHP, part 566 to parquet_data/ticker=MCHP/part-566.parquet
+2025-07-30 14:01:14,782 - INFO - Processing chunk 568
+2025-07-30 14:01:14,828 - INFO - Saved partition ticker=MCHP, part 567 to parquet_data/ticker=MCHP/part-567.parquet
+2025-07-30 14:01:14,903 - INFO - Processing chunk 569
+2025-07-30 14:01:14,944 - INFO - Saved partition ticker=FICO, part 568 to parquet_data/ticker=FICO/part-568.parquet
+2025-07-30 14:01:14,953 - INFO - Saved partition ticker=MCHP, part 568 to parquet_data/ticker=MCHP/part-568.parquet
+2025-07-30 14:01:15,034 - INFO - Processing chunk 570
+2025-07-30 14:01:15,087 - INFO - Saved partition ticker=FICO, part 569 to parquet_data/ticker=FICO/part-569.parquet
+2025-07-30 14:01:15,164 - INFO - Processing chunk 571
+2025-07-30 14:01:15,221 - INFO - Saved partition ticker=FICO, part 570 to parquet_data/ticker=FICO/part-570.parquet
+2025-07-30 14:01:15,293 - INFO - Processing chunk 572
+2025-07-30 14:01:15,347 - INFO - Saved partition ticker=FICO, part 571 to parquet_data/ticker=FICO/part-571.parquet
+2025-07-30 14:01:15,424 - INFO - Processing chunk 573
+2025-07-30 14:01:15,452 - INFO - Saved partition ticker=CTSH, part 572 to parquet_data/ticker=CTSH/part-572.parquet
+2025-07-30 14:01:15,485 - INFO - Saved partition ticker=FICO, part 572 to parquet_data/ticker=FICO/part-572.parquet
+2025-07-30 14:01:15,558 - INFO - Processing chunk 574
+2025-07-30 14:01:15,605 - INFO - Saved partition ticker=CTSH, part 573 to parquet_data/ticker=CTSH/part-573.parquet
+2025-07-30 14:01:15,677 - INFO - Processing chunk 575
+2025-07-30 14:01:15,719 - INFO - Saved partition ticker=CTSH, part 574 to parquet_data/ticker=CTSH/part-574.parquet
+2025-07-30 14:01:15,789 - INFO - Processing chunk 576
+2025-07-30 14:01:15,832 - INFO - Saved partition ticker=CTSH, part 575 to parquet_data/ticker=CTSH/part-575.parquet
+2025-07-30 14:01:15,909 - INFO - Processing chunk 577
+2025-07-30 14:01:15,953 - INFO - Saved partition ticker=CTSH, part 576 to parquet_data/ticker=CTSH/part-576.parquet
+2025-07-30 14:01:16,023 - INFO - Processing chunk 578
+2025-07-30 14:01:16,065 - INFO - Saved partition ticker=CTSH, part 577 to parquet_data/ticker=CTSH/part-577.parquet
+2025-07-30 14:01:16,138 - INFO - Processing chunk 579
+2025-07-30 14:01:16,183 - INFO - Saved partition ticker=CTSH, part 578 to parquet_data/ticker=CTSH/part-578.parquet
+2025-07-30 14:01:16,257 - INFO - Processing chunk 580
+2025-07-30 14:01:16,297 - INFO - Saved partition ticker=CTSH, part 579 to parquet_data/ticker=CTSH/part-579.parquet
+2025-07-30 14:01:16,366 - INFO - Processing chunk 581
+2025-07-30 14:01:16,406 - INFO - Saved partition ticker=CTSH, part 580 to parquet_data/ticker=CTSH/part-580.parquet
+2025-07-30 14:01:16,477 - INFO - Processing chunk 582
+2025-07-30 14:01:16,519 - INFO - Saved partition ticker=CTSH, part 581 to parquet_data/ticker=CTSH/part-581.parquet
+2025-07-30 14:01:16,587 - INFO - Processing chunk 583
+2025-07-30 14:01:16,598 - INFO - Saved partition ticker=CTSH, part 582 to parquet_data/ticker=CTSH/part-582.parquet
+2025-07-30 14:01:16,630 - INFO - Saved partition ticker=SMCI, part 582 to parquet_data/ticker=SMCI/part-582.parquet
+2025-07-30 14:01:16,707 - INFO - Processing chunk 584
+2025-07-30 14:01:16,752 - INFO - Saved partition ticker=SMCI, part 583 to parquet_data/ticker=SMCI/part-583.parquet
+2025-07-30 14:01:16,823 - INFO - Processing chunk 585
+2025-07-30 14:01:16,868 - INFO - Saved partition ticker=SMCI, part 584 to parquet_data/ticker=SMCI/part-584.parquet
+2025-07-30 14:01:16,941 - INFO - Processing chunk 586
+2025-07-30 14:01:16,982 - INFO - Saved partition ticker=SMCI, part 585 to parquet_data/ticker=SMCI/part-585.parquet
+2025-07-30 14:01:17,051 - INFO - Processing chunk 587
+2025-07-30 14:01:17,092 - INFO - Saved partition ticker=SMCI, part 586 to parquet_data/ticker=SMCI/part-586.parquet
+2025-07-30 14:01:17,161 - INFO - Processing chunk 588
+2025-07-30 14:01:17,204 - INFO - Saved partition ticker=SMCI, part 587 to parquet_data/ticker=SMCI/part-587.parquet
+2025-07-30 14:01:17,274 - INFO - Processing chunk 589
+2025-07-30 14:01:17,320 - INFO - Saved partition ticker=SMCI, part 588 to parquet_data/ticker=SMCI/part-588.parquet
+2025-07-30 14:01:17,386 - INFO - Processing chunk 590
+2025-07-30 14:01:17,413 - INFO - Saved partition ticker=MPWR, part 589 to parquet_data/ticker=MPWR/part-589.parquet
+2025-07-30 14:01:17,437 - INFO - Saved partition ticker=SMCI, part 589 to parquet_data/ticker=SMCI/part-589.parquet
+2025-07-30 14:01:17,510 - INFO - Processing chunk 591
+2025-07-30 14:01:17,553 - INFO - Saved partition ticker=MPWR, part 590 to parquet_data/ticker=MPWR/part-590.parquet
+2025-07-30 14:01:17,624 - INFO - Processing chunk 592
+2025-07-30 14:01:17,663 - INFO - Saved partition ticker=MPWR, part 591 to parquet_data/ticker=MPWR/part-591.parquet
+2025-07-30 14:01:17,732 - INFO - Processing chunk 593
+2025-07-30 14:01:17,775 - INFO - Saved partition ticker=MPWR, part 592 to parquet_data/ticker=MPWR/part-592.parquet
+2025-07-30 14:01:17,843 - INFO - Processing chunk 594
+2025-07-30 14:01:17,886 - INFO - Saved partition ticker=MPWR, part 593 to parquet_data/ticker=MPWR/part-593.parquet
+2025-07-30 14:01:17,956 - INFO - Processing chunk 595
+2025-07-30 14:01:18,004 - INFO - Saved partition ticker=MPWR, part 594 to parquet_data/ticker=MPWR/part-594.parquet
+2025-07-30 14:01:18,070 - INFO - Processing chunk 596
+2025-07-30 14:01:18,115 - INFO - Saved partition ticker=MPWR, part 595 to parquet_data/ticker=MPWR/part-595.parquet
+2025-07-30 14:01:18,123 - INFO - Saved partition ticker=STX, part 595 to parquet_data/ticker=STX/part-595.parquet
+2025-07-30 14:01:18,193 - INFO - Processing chunk 597
+2025-07-30 14:01:18,240 - INFO - Saved partition ticker=STX, part 596 to parquet_data/ticker=STX/part-596.parquet
+2025-07-30 14:01:18,317 - INFO - Processing chunk 598
+2025-07-30 14:01:18,365 - INFO - Saved partition ticker=STX, part 597 to parquet_data/ticker=STX/part-597.parquet
+2025-07-30 14:01:18,438 - INFO - Processing chunk 599
+2025-07-30 14:01:18,480 - INFO - Saved partition ticker=STX, part 598 to parquet_data/ticker=STX/part-598.parquet
+2025-07-30 14:01:18,549 - INFO - Processing chunk 600
+2025-07-30 14:01:18,589 - INFO - Saved partition ticker=STX, part 599 to parquet_data/ticker=STX/part-599.parquet
+2025-07-30 14:01:18,656 - INFO - Processing chunk 601
+2025-07-30 14:01:18,696 - INFO - Saved partition ticker=STX, part 600 to parquet_data/ticker=STX/part-600.parquet
+2025-07-30 14:01:18,762 - INFO - Processing chunk 602
+2025-07-30 14:01:18,804 - INFO - Saved partition ticker=STX, part 601 to parquet_data/ticker=STX/part-601.parquet
+2025-07-30 14:01:18,870 - INFO - Processing chunk 603
+2025-07-30 14:01:18,911 - INFO - Saved partition ticker=STX, part 602 to parquet_data/ticker=STX/part-602.parquet
+2025-07-30 14:01:18,979 - INFO - Processing chunk 604
+2025-07-30 14:01:19,022 - INFO - Saved partition ticker=STX, part 603 to parquet_data/ticker=STX/part-603.parquet
+2025-07-30 14:01:19,095 - INFO - Processing chunk 605
+2025-07-30 14:01:19,137 - INFO - Saved partition ticker=STX, part 604 to parquet_data/ticker=STX/part-604.parquet
+2025-07-30 14:01:19,206 - INFO - Processing chunk 606
+2025-07-30 14:01:19,235 - INFO - Saved partition ticker=STX, part 605 to parquet_data/ticker=STX/part-605.parquet
+2025-07-30 14:01:19,257 - INFO - Saved partition ticker=WIT, part 605 to parquet_data/ticker=WIT/part-605.parquet
+2025-07-30 14:01:19,326 - INFO - Processing chunk 607
+2025-07-30 14:01:19,366 - INFO - Saved partition ticker=WIT, part 606 to parquet_data/ticker=WIT/part-606.parquet
+2025-07-30 14:01:19,434 - INFO - Processing chunk 608
+2025-07-30 14:01:19,475 - INFO - Saved partition ticker=WIT, part 607 to parquet_data/ticker=WIT/part-607.parquet
+2025-07-30 14:01:19,543 - INFO - Processing chunk 609
+2025-07-30 14:01:19,590 - INFO - Saved partition ticker=WIT, part 608 to parquet_data/ticker=WIT/part-608.parquet
+2025-07-30 14:01:19,660 - INFO - Processing chunk 610
+2025-07-30 14:01:19,703 - INFO - Saved partition ticker=WIT, part 609 to parquet_data/ticker=WIT/part-609.parquet
+2025-07-30 14:01:19,773 - INFO - Processing chunk 611
+2025-07-30 14:01:19,814 - INFO - Saved partition ticker=WIT, part 610 to parquet_data/ticker=WIT/part-610.parquet
+2025-07-30 14:01:19,883 - INFO - Processing chunk 612
+2025-07-30 14:01:19,923 - INFO - Saved partition ticker=WIT, part 611 to parquet_data/ticker=WIT/part-611.parquet
+2025-07-30 14:01:19,992 - INFO - Processing chunk 613
+2025-07-30 14:01:20,035 - INFO - Saved partition ticker=WIT, part 612 to parquet_data/ticker=WIT/part-612.parquet
+2025-07-30 14:01:20,110 - INFO - Processing chunk 614
+2025-07-30 14:01:20,136 - INFO - Saved partition ticker=BR, part 613 to parquet_data/ticker=BR/part-613.parquet
+2025-07-30 14:01:20,166 - INFO - Saved partition ticker=WIT, part 613 to parquet_data/ticker=WIT/part-613.parquet
+2025-07-30 14:01:20,237 - INFO - Processing chunk 615
+2025-07-30 14:01:20,299 - INFO - Saved partition ticker=BR, part 614 to parquet_data/ticker=BR/part-614.parquet
+2025-07-30 14:01:20,371 - INFO - Processing chunk 616
+2025-07-30 14:01:20,418 - INFO - Saved partition ticker=BR, part 615 to parquet_data/ticker=BR/part-615.parquet
+2025-07-30 14:01:20,498 - INFO - Processing chunk 617
+2025-07-30 14:01:20,539 - INFO - Saved partition ticker=BR, part 616 to parquet_data/ticker=BR/part-616.parquet
+2025-07-30 14:01:20,613 - INFO - Processing chunk 618
+2025-07-30 14:01:20,659 - INFO - Saved partition ticker=BR, part 617 to parquet_data/ticker=BR/part-617.parquet
+2025-07-30 14:01:20,737 - INFO - Processing chunk 619
+2025-07-30 14:01:20,781 - INFO - Saved partition ticker=BR, part 618 to parquet_data/ticker=BR/part-618.parquet
+2025-07-30 14:01:20,852 - INFO - Processing chunk 620
+2025-07-30 14:01:20,895 - INFO - Saved partition ticker=BR, part 619 to parquet_data/ticker=BR/part-619.parquet
+2025-07-30 14:01:20,970 - INFO - Processing chunk 621
+2025-07-30 14:01:21,011 - INFO - Saved partition ticker=BR, part 620 to parquet_data/ticker=BR/part-620.parquet
+2025-07-30 14:01:21,085 - INFO - Processing chunk 622
+2025-07-30 14:01:21,101 - INFO - Saved partition ticker=BR, part 621 to parquet_data/ticker=BR/part-621.parquet
+2025-07-30 14:01:21,135 - INFO - Saved partition ticker=KEYS, part 621 to parquet_data/ticker=KEYS/part-621.parquet
+2025-07-30 14:01:21,210 - INFO - Processing chunk 623
+2025-07-30 14:01:21,260 - INFO - Saved partition ticker=KEYS, part 622 to parquet_data/ticker=KEYS/part-622.parquet
+2025-07-30 14:01:21,332 - INFO - Processing chunk 624
+2025-07-30 14:01:21,381 - INFO - Saved partition ticker=KEYS, part 623 to parquet_data/ticker=KEYS/part-623.parquet
+2025-07-30 14:01:21,458 - INFO - Processing chunk 625
+2025-07-30 14:01:21,506 - INFO - Saved partition ticker=KEYS, part 624 to parquet_data/ticker=KEYS/part-624.parquet
+2025-07-30 14:01:21,583 - INFO - Processing chunk 626
+2025-07-30 14:01:21,632 - INFO - Saved partition ticker=KEYS, part 625 to parquet_data/ticker=KEYS/part-625.parquet
+2025-07-30 14:01:21,709 - INFO - Processing chunk 627
+2025-07-30 14:01:21,757 - INFO - Saved partition ticker=KEYS, part 626 to parquet_data/ticker=KEYS/part-626.parquet
+2025-07-30 14:01:21,835 - INFO - Processing chunk 628
+2025-07-30 14:01:21,880 - INFO - Saved partition ticker=KEYS, part 627 to parquet_data/ticker=KEYS/part-627.parquet
+2025-07-30 14:01:21,965 - INFO - Processing chunk 629
+2025-07-30 14:01:22,016 - INFO - Saved partition ticker=KEYS, part 628 to parquet_data/ticker=KEYS/part-628.parquet
+2025-07-30 14:01:22,096 - INFO - Processing chunk 630
+2025-07-30 14:01:22,122 - INFO - Saved partition ticker=HUBS, part 629 to parquet_data/ticker=HUBS/part-629.parquet
+2025-07-30 14:01:22,149 - INFO - Saved partition ticker=KEYS, part 629 to parquet_data/ticker=KEYS/part-629.parquet
+2025-07-30 14:01:22,229 - INFO - Processing chunk 631
+2025-07-30 14:01:22,274 - INFO - Saved partition ticker=HUBS, part 630 to parquet_data/ticker=HUBS/part-630.parquet
+2025-07-30 14:01:22,351 - INFO - Processing chunk 632
+2025-07-30 14:01:22,395 - INFO - Saved partition ticker=HUBS, part 631 to parquet_data/ticker=HUBS/part-631.parquet
+2025-07-30 14:01:22,470 - INFO - Processing chunk 633
+2025-07-30 14:01:22,514 - INFO - Saved partition ticker=HUBS, part 632 to parquet_data/ticker=HUBS/part-632.parquet
+2025-07-30 14:01:22,589 - INFO - Processing chunk 634
+2025-07-30 14:01:22,640 - INFO - Saved partition ticker=HUBS, part 633 to parquet_data/ticker=HUBS/part-633.parquet
+2025-07-30 14:01:22,714 - INFO - Processing chunk 635
+2025-07-30 14:01:22,766 - INFO - Saved partition ticker=HUBS, part 634 to parquet_data/ticker=HUBS/part-634.parquet
+2025-07-30 14:01:22,836 - INFO - Processing chunk 636
+2025-07-30 14:01:22,891 - INFO - Saved partition ticker=HUBS, part 635 to parquet_data/ticker=HUBS/part-635.parquet
+2025-07-30 14:01:22,960 - INFO - Processing chunk 637
+2025-07-30 14:01:23,005 - INFO - Saved partition ticker=HUBS, part 636 to parquet_data/ticker=HUBS/part-636.parquet
+2025-07-30 14:01:23,015 - INFO - Saved partition ticker=TOST, part 636 to parquet_data/ticker=TOST/part-636.parquet
+2025-07-30 14:01:23,088 - INFO - Processing chunk 638
+2025-07-30 14:01:23,135 - INFO - Saved partition ticker=TOST, part 637 to parquet_data/ticker=TOST/part-637.parquet
+2025-07-30 14:01:23,218 - INFO - Processing chunk 639
+2025-07-30 14:01:23,261 - INFO - Saved partition ticker=TOST, part 638 to parquet_data/ticker=TOST/part-638.parquet
+2025-07-30 14:01:23,336 - INFO - Processing chunk 640
+2025-07-30 14:01:23,379 - INFO - Saved partition ticker=TOST, part 639 to parquet_data/ticker=TOST/part-639.parquet
+2025-07-30 14:01:23,454 - INFO - Processing chunk 641
+2025-07-30 14:01:23,470 - INFO - Saved partition ticker=HPE, part 640 to parquet_data/ticker=HPE/part-640.parquet
+2025-07-30 14:01:23,503 - INFO - Saved partition ticker=TOST, part 640 to parquet_data/ticker=TOST/part-640.parquet
+2025-07-30 14:01:23,576 - INFO - Processing chunk 642
+2025-07-30 14:01:23,618 - INFO - Saved partition ticker=HPE, part 641 to parquet_data/ticker=HPE/part-641.parquet
+2025-07-30 14:01:23,689 - INFO - Processing chunk 643
+2025-07-30 14:01:23,731 - INFO - Saved partition ticker=HPE, part 642 to parquet_data/ticker=HPE/part-642.parquet
+2025-07-30 14:01:23,796 - INFO - Processing chunk 644
+2025-07-30 14:01:23,841 - INFO - Saved partition ticker=HPE, part 643 to parquet_data/ticker=HPE/part-643.parquet
+2025-07-30 14:01:23,910 - INFO - Processing chunk 645
+2025-07-30 14:01:23,950 - INFO - Saved partition ticker=HPE, part 644 to parquet_data/ticker=HPE/part-644.parquet
+2025-07-30 14:01:24,017 - INFO - Processing chunk 646
+2025-07-30 14:01:24,061 - INFO - Saved partition ticker=HPE, part 645 to parquet_data/ticker=HPE/part-645.parquet
+2025-07-30 14:01:24,135 - INFO - Processing chunk 647
+2025-07-30 14:01:24,178 - INFO - Saved partition ticker=HPE, part 646 to parquet_data/ticker=HPE/part-646.parquet
+2025-07-30 14:01:24,249 - INFO - Processing chunk 648
+2025-07-30 14:01:24,297 - INFO - Saved partition ticker=HPE, part 647 to parquet_data/ticker=HPE/part-647.parquet
+2025-07-30 14:01:24,370 - INFO - Processing chunk 649
+2025-07-30 14:01:24,415 - INFO - Saved partition ticker=HPE, part 648 to parquet_data/ticker=HPE/part-648.parquet
+2025-07-30 14:01:24,489 - INFO - Processing chunk 650
+2025-07-30 14:01:24,535 - INFO - Saved partition ticker=HPE, part 649 to parquet_data/ticker=HPE/part-649.parquet
+2025-07-30 14:01:24,604 - INFO - Processing chunk 651
+2025-07-30 14:01:24,647 - INFO - Saved partition ticker=HPE, part 650 to parquet_data/ticker=HPE/part-650.parquet
+2025-07-30 14:01:24,668 - INFO - Saved partition ticker=UI, part 650 to parquet_data/ticker=UI/part-650.parquet
+2025-07-30 14:01:24,740 - INFO - Processing chunk 652
+2025-07-30 14:01:24,783 - INFO - Saved partition ticker=UI, part 651 to parquet_data/ticker=UI/part-651.parquet
+2025-07-30 14:01:24,853 - INFO - Processing chunk 653
+2025-07-30 14:01:24,896 - INFO - Saved partition ticker=UI, part 652 to parquet_data/ticker=UI/part-652.parquet
+2025-07-30 14:01:24,969 - INFO - Processing chunk 654
+2025-07-30 14:01:25,014 - INFO - Saved partition ticker=UI, part 653 to parquet_data/ticker=UI/part-653.parquet
+2025-07-30 14:01:25,086 - INFO - Processing chunk 655
+2025-07-30 14:01:25,099 - INFO - Saved partition ticker=IT, part 654 to parquet_data/ticker=IT/part-654.parquet
+2025-07-30 14:01:25,137 - INFO - Saved partition ticker=UI, part 654 to parquet_data/ticker=UI/part-654.parquet
+2025-07-30 14:01:25,208 - INFO - Processing chunk 656
+2025-07-30 14:01:25,253 - INFO - Saved partition ticker=IT, part 655 to parquet_data/ticker=IT/part-655.parquet
+2025-07-30 14:01:25,326 - INFO - Processing chunk 657
+2025-07-30 14:01:25,370 - INFO - Saved partition ticker=IT, part 656 to parquet_data/ticker=IT/part-656.parquet
+2025-07-30 14:01:25,445 - INFO - Processing chunk 658
+2025-07-30 14:01:25,490 - INFO - Saved partition ticker=IT, part 657 to parquet_data/ticker=IT/part-657.parquet
+2025-07-30 14:01:25,567 - INFO - Processing chunk 659
+2025-07-30 14:01:25,616 - INFO - Saved partition ticker=IT, part 658 to parquet_data/ticker=IT/part-658.parquet
+2025-07-30 14:01:25,689 - INFO - Processing chunk 660
+2025-07-30 14:01:25,734 - INFO - Saved partition ticker=IT, part 659 to parquet_data/ticker=IT/part-659.parquet
+2025-07-30 14:01:25,804 - INFO - Processing chunk 661
+2025-07-30 14:01:25,854 - INFO - Saved partition ticker=IT, part 660 to parquet_data/ticker=IT/part-660.parquet
+2025-07-30 14:01:25,926 - INFO - Processing chunk 662
+2025-07-30 14:01:25,972 - INFO - Saved partition ticker=IT, part 661 to parquet_data/ticker=IT/part-661.parquet
+2025-07-30 14:01:25,984 - INFO - Saved partition ticker=TDY, part 661 to parquet_data/ticker=TDY/part-661.parquet
+2025-07-30 14:01:26,062 - INFO - Processing chunk 663
+2025-07-30 14:01:26,109 - INFO - Saved partition ticker=TDY, part 662 to parquet_data/ticker=TDY/part-662.parquet
+2025-07-30 14:01:26,180 - INFO - Processing chunk 664
+2025-07-30 14:01:26,229 - INFO - Saved partition ticker=TDY, part 663 to parquet_data/ticker=TDY/part-663.parquet
+2025-07-30 14:01:26,298 - INFO - Processing chunk 665
+2025-07-30 14:01:26,343 - INFO - Saved partition ticker=TDY, part 664 to parquet_data/ticker=TDY/part-664.parquet
+2025-07-30 14:01:26,411 - INFO - Processing chunk 666
+2025-07-30 14:01:26,457 - INFO - Saved partition ticker=TDY, part 665 to parquet_data/ticker=TDY/part-665.parquet
+2025-07-30 14:01:26,529 - INFO - Processing chunk 667
+2025-07-30 14:01:26,567 - INFO - Saved partition ticker=ERIC, part 666 to parquet_data/ticker=ERIC/part-666.parquet
+2025-07-30 14:01:26,580 - INFO - Saved partition ticker=TDY, part 666 to parquet_data/ticker=TDY/part-666.parquet
+2025-07-30 14:01:26,650 - INFO - Processing chunk 668
+2025-07-30 14:01:26,694 - INFO - Saved partition ticker=ERIC, part 667 to parquet_data/ticker=ERIC/part-667.parquet
+2025-07-30 14:01:26,764 - INFO - Processing chunk 669
+2025-07-30 14:01:26,808 - INFO - Saved partition ticker=ERIC, part 668 to parquet_data/ticker=ERIC/part-668.parquet
+2025-07-30 14:01:26,875 - INFO - Processing chunk 670
+2025-07-30 14:01:26,917 - INFO - Saved partition ticker=ERIC, part 669 to parquet_data/ticker=ERIC/part-669.parquet
+2025-07-30 14:01:26,989 - INFO - Processing chunk 671
+2025-07-30 14:01:27,031 - INFO - Saved partition ticker=ERIC, part 670 to parquet_data/ticker=ERIC/part-670.parquet
+2025-07-30 14:01:27,105 - INFO - Processing chunk 672
+2025-07-30 14:01:27,154 - INFO - Saved partition ticker=ERIC, part 671 to parquet_data/ticker=ERIC/part-671.parquet
+2025-07-30 14:01:27,226 - INFO - Processing chunk 673
+2025-07-30 14:01:27,270 - INFO - Saved partition ticker=ERIC, part 672 to parquet_data/ticker=ERIC/part-672.parquet
+2025-07-30 14:01:27,342 - INFO - Processing chunk 674
+2025-07-30 14:01:27,388 - INFO - Saved partition ticker=ERIC, part 673 to parquet_data/ticker=ERIC/part-673.parquet
+2025-07-30 14:01:27,461 - INFO - Processing chunk 675
+2025-07-30 14:01:27,503 - INFO - Saved partition ticker=ERIC, part 674 to parquet_data/ticker=ERIC/part-674.parquet
+2025-07-30 14:01:27,573 - INFO - Processing chunk 676
+2025-07-30 14:01:27,617 - INFO - Saved partition ticker=ERIC, part 675 to parquet_data/ticker=ERIC/part-675.parquet
+2025-07-30 14:01:27,687 - INFO - Processing chunk 677
+2025-07-30 14:01:27,704 - INFO - Saved partition ticker=ERIC, part 676 to parquet_data/ticker=ERIC/part-676.parquet
+2025-07-30 14:01:27,735 - INFO - Saved partition ticker=VRSN, part 676 to parquet_data/ticker=VRSN/part-676.parquet
+2025-07-30 14:01:27,808 - INFO - Processing chunk 678
+2025-07-30 14:01:27,851 - INFO - Saved partition ticker=VRSN, part 677 to parquet_data/ticker=VRSN/part-677.parquet
+2025-07-30 14:01:27,929 - INFO - Processing chunk 679
+2025-07-30 14:01:27,971 - INFO - Saved partition ticker=VRSN, part 678 to parquet_data/ticker=VRSN/part-678.parquet
+2025-07-30 14:01:28,042 - INFO - Processing chunk 680
+2025-07-30 14:01:28,085 - INFO - Saved partition ticker=VRSN, part 679 to parquet_data/ticker=VRSN/part-679.parquet
+2025-07-30 14:01:28,152 - INFO - Processing chunk 681
+2025-07-30 14:01:28,190 - INFO - Saved partition ticker=VRSN, part 680 to parquet_data/ticker=VRSN/part-680.parquet
+2025-07-30 14:01:28,260 - INFO - Processing chunk 682
+2025-07-30 14:01:28,300 - INFO - Saved partition ticker=VRSN, part 681 to parquet_data/ticker=VRSN/part-681.parquet
+2025-07-30 14:01:28,372 - INFO - Processing chunk 683
+2025-07-30 14:01:28,414 - INFO - Saved partition ticker=VRSN, part 682 to parquet_data/ticker=VRSN/part-682.parquet
+2025-07-30 14:01:28,484 - INFO - Processing chunk 684
+2025-07-30 14:01:28,521 - INFO - Saved partition ticker=VRSN, part 683 to parquet_data/ticker=VRSN/part-683.parquet
+2025-07-30 14:01:28,532 - INFO - Saved partition ticker=WDC, part 683 to parquet_data/ticker=WDC/part-683.parquet
+2025-07-30 14:01:28,603 - INFO - Processing chunk 685
+2025-07-30 14:01:28,644 - INFO - Saved partition ticker=WDC, part 684 to parquet_data/ticker=WDC/part-684.parquet
+2025-07-30 14:01:28,710 - INFO - Processing chunk 686
+2025-07-30 14:01:28,752 - INFO - Saved partition ticker=WDC, part 685 to parquet_data/ticker=WDC/part-685.parquet
+2025-07-30 14:01:28,820 - INFO - Processing chunk 687
+2025-07-30 14:01:28,862 - INFO - Saved partition ticker=WDC, part 686 to parquet_data/ticker=WDC/part-686.parquet
+2025-07-30 14:01:28,928 - INFO - Processing chunk 688
+2025-07-30 14:01:28,967 - INFO - Saved partition ticker=WDC, part 687 to parquet_data/ticker=WDC/part-687.parquet
+2025-07-30 14:01:29,033 - INFO - Processing chunk 689
+2025-07-30 14:01:29,075 - INFO - Saved partition ticker=WDC, part 688 to parquet_data/ticker=WDC/part-688.parquet
+2025-07-30 14:01:29,146 - INFO - Processing chunk 690
+2025-07-30 14:01:29,189 - INFO - Saved partition ticker=WDC, part 689 to parquet_data/ticker=WDC/part-689.parquet
+2025-07-30 14:01:29,261 - INFO - Processing chunk 691
+2025-07-30 14:01:29,305 - INFO - Saved partition ticker=WDC, part 690 to parquet_data/ticker=WDC/part-690.parquet
+2025-07-30 14:01:29,381 - INFO - Processing chunk 692
+2025-07-30 14:01:29,425 - INFO - Saved partition ticker=WDC, part 691 to parquet_data/ticker=WDC/part-691.parquet
+2025-07-30 14:01:29,498 - INFO - Processing chunk 693
+2025-07-30 14:01:29,543 - INFO - Saved partition ticker=WDC, part 692 to parquet_data/ticker=WDC/part-692.parquet
+2025-07-30 14:01:29,613 - INFO - Processing chunk 694
+2025-07-30 14:01:29,636 - INFO - Saved partition ticker=JBL, part 693 to parquet_data/ticker=JBL/part-693.parquet
+2025-07-30 14:01:29,667 - INFO - Saved partition ticker=WDC, part 693 to parquet_data/ticker=WDC/part-693.parquet
+2025-07-30 14:01:29,741 - INFO - Processing chunk 695
+2025-07-30 14:01:29,786 - INFO - Saved partition ticker=JBL, part 694 to parquet_data/ticker=JBL/part-694.parquet
+2025-07-30 14:01:29,859 - INFO - Processing chunk 696
+2025-07-30 14:01:29,903 - INFO - Saved partition ticker=JBL, part 695 to parquet_data/ticker=JBL/part-695.parquet
+2025-07-30 14:01:29,976 - INFO - Processing chunk 697
+2025-07-30 14:01:30,020 - INFO - Saved partition ticker=JBL, part 696 to parquet_data/ticker=JBL/part-696.parquet
+2025-07-30 14:01:30,090 - INFO - Processing chunk 698
+2025-07-30 14:01:30,138 - INFO - Saved partition ticker=JBL, part 697 to parquet_data/ticker=JBL/part-697.parquet
+2025-07-30 14:01:30,211 - INFO - Processing chunk 699
+2025-07-30 14:01:30,254 - INFO - Saved partition ticker=JBL, part 698 to parquet_data/ticker=JBL/part-698.parquet
+2025-07-30 14:01:30,324 - INFO - Processing chunk 700
+2025-07-30 14:01:30,363 - INFO - Saved partition ticker=JBL, part 699 to parquet_data/ticker=JBL/part-699.parquet
+2025-07-30 14:01:30,434 - INFO - Processing chunk 701
+2025-07-30 14:01:30,476 - INFO - Saved partition ticker=JBL, part 700 to parquet_data/ticker=JBL/part-700.parquet
+2025-07-30 14:01:30,549 - INFO - Processing chunk 702
+2025-07-30 14:01:30,588 - INFO - Saved partition ticker=JBL, part 701 to parquet_data/ticker=JBL/part-701.parquet
+2025-07-30 14:01:30,660 - INFO - Processing chunk 703
+2025-07-30 14:01:30,694 - INFO - Saved partition ticker=JBL, part 702 to parquet_data/ticker=JBL/part-702.parquet
+2025-07-30 14:01:30,710 - INFO - Saved partition ticker=PTC, part 702 to parquet_data/ticker=PTC/part-702.parquet
+2025-07-30 14:01:30,780 - INFO - Processing chunk 704
+2025-07-30 14:01:30,827 - INFO - Saved partition ticker=PTC, part 703 to parquet_data/ticker=PTC/part-703.parquet
+2025-07-30 14:01:30,896 - INFO - Processing chunk 705
+2025-07-30 14:01:30,941 - INFO - Saved partition ticker=PTC, part 704 to parquet_data/ticker=PTC/part-704.parquet
+2025-07-30 14:01:31,011 - INFO - Processing chunk 706
+2025-07-30 14:01:31,056 - INFO - Saved partition ticker=PTC, part 705 to parquet_data/ticker=PTC/part-705.parquet
+2025-07-30 14:01:31,129 - INFO - Processing chunk 707
+2025-07-30 14:01:31,175 - INFO - Saved partition ticker=PTC, part 706 to parquet_data/ticker=PTC/part-706.parquet
+2025-07-30 14:01:31,253 - INFO - Processing chunk 708
+2025-07-30 14:01:31,300 - INFO - Saved partition ticker=PTC, part 707 to parquet_data/ticker=PTC/part-707.parquet
+2025-07-30 14:01:31,376 - INFO - Processing chunk 709
+2025-07-30 14:01:31,419 - INFO - Saved partition ticker=PTC, part 708 to parquet_data/ticker=PTC/part-708.parquet
+2025-07-30 14:01:31,491 - INFO - Processing chunk 710
+2025-07-30 14:01:31,536 - INFO - Saved partition ticker=PTC, part 709 to parquet_data/ticker=PTC/part-709.parquet
+2025-07-30 14:01:31,610 - INFO - Processing chunk 711
+2025-07-30 14:01:31,628 - INFO - Saved partition ticker=ON, part 710 to parquet_data/ticker=ON/part-710.parquet
+2025-07-30 14:01:31,660 - INFO - Saved partition ticker=PTC, part 710 to parquet_data/ticker=PTC/part-710.parquet
+2025-07-30 14:01:31,733 - INFO - Processing chunk 712
+2025-07-30 14:01:31,775 - INFO - Saved partition ticker=ON, part 711 to parquet_data/ticker=ON/part-711.parquet
+2025-07-30 14:01:31,844 - INFO - Processing chunk 713
+2025-07-30 14:01:31,891 - INFO - Saved partition ticker=ON, part 712 to parquet_data/ticker=ON/part-712.parquet
+2025-07-30 14:01:31,967 - INFO - Processing chunk 714
+2025-07-30 14:01:32,013 - INFO - Saved partition ticker=ON, part 713 to parquet_data/ticker=ON/part-713.parquet
+2025-07-30 14:01:32,087 - INFO - Processing chunk 715
+2025-07-30 14:01:32,132 - INFO - Saved partition ticker=ON, part 714 to parquet_data/ticker=ON/part-714.parquet
+2025-07-30 14:01:32,204 - INFO - Processing chunk 716
+2025-07-30 14:01:32,252 - INFO - Saved partition ticker=ON, part 715 to parquet_data/ticker=ON/part-715.parquet
+2025-07-30 14:01:32,325 - INFO - Processing chunk 717
+2025-07-30 14:01:32,372 - INFO - Saved partition ticker=ON, part 716 to parquet_data/ticker=ON/part-716.parquet
+2025-07-30 14:01:32,447 - INFO - Processing chunk 718
+2025-07-30 14:01:32,492 - INFO - Saved partition ticker=ON, part 717 to parquet_data/ticker=ON/part-717.parquet
+2025-07-30 14:01:32,566 - INFO - Processing chunk 719
+2025-07-30 14:01:32,616 - INFO - Saved partition ticker=ON, part 718 to parquet_data/ticker=ON/part-718.parquet
+2025-07-30 14:01:32,691 - INFO - Processing chunk 720
+2025-07-30 14:01:32,736 - INFO - Saved partition ticker=ON, part 719 to parquet_data/ticker=ON/part-719.parquet
+2025-07-30 14:01:32,808 - INFO - Processing chunk 721
+2025-07-30 14:01:32,828 - INFO - Saved partition ticker=CDW, part 720 to parquet_data/ticker=CDW/part-720.parquet
+2025-07-30 14:01:32,859 - INFO - Saved partition ticker=ON, part 720 to parquet_data/ticker=ON/part-720.parquet
+2025-07-30 14:01:32,935 - INFO - Processing chunk 722
+2025-07-30 14:01:32,981 - INFO - Saved partition ticker=CDW, part 721 to parquet_data/ticker=CDW/part-721.parquet
+2025-07-30 14:01:33,052 - INFO - Processing chunk 723
+2025-07-30 14:01:33,094 - INFO - Saved partition ticker=CDW, part 722 to parquet_data/ticker=CDW/part-722.parquet
+2025-07-30 14:01:33,164 - INFO - Processing chunk 724
+2025-07-30 14:01:33,208 - INFO - Saved partition ticker=CDW, part 723 to parquet_data/ticker=CDW/part-723.parquet
+2025-07-30 14:01:33,282 - INFO - Processing chunk 725
+2025-07-30 14:01:33,323 - INFO - Saved partition ticker=CDW, part 724 to parquet_data/ticker=CDW/part-724.parquet
+2025-07-30 14:01:33,395 - INFO - Processing chunk 726
+2025-07-30 14:01:33,437 - INFO - Saved partition ticker=CDW, part 725 to parquet_data/ticker=CDW/part-725.parquet
+2025-07-30 14:01:33,508 - INFO - Processing chunk 727
+2025-07-30 14:01:33,550 - INFO - Saved partition ticker=CDW, part 726 to parquet_data/ticker=CDW/part-726.parquet
+2025-07-30 14:01:33,622 - INFO - Processing chunk 728
+2025-07-30 14:01:33,666 - INFO - Saved partition ticker=CDW, part 727 to parquet_data/ticker=CDW/part-727.parquet
+2025-07-30 14:01:33,742 - INFO - Processing chunk 729
+2025-07-30 14:01:33,785 - INFO - Saved partition ticker=CDW, part 728 to parquet_data/ticker=CDW/part-728.parquet
+2025-07-30 14:01:33,790 - INFO - Saved partition ticker=TYL, part 728 to parquet_data/ticker=TYL/part-728.parquet
+2025-07-30 14:01:33,870 - INFO - Processing chunk 730
+2025-07-30 14:01:33,916 - INFO - Saved partition ticker=TYL, part 729 to parquet_data/ticker=TYL/part-729.parquet
+2025-07-30 14:01:33,991 - INFO - Processing chunk 731
+2025-07-30 14:01:34,034 - INFO - Saved partition ticker=TYL, part 730 to parquet_data/ticker=TYL/part-730.parquet
+2025-07-30 14:01:34,104 - INFO - Processing chunk 732
+2025-07-30 14:01:34,155 - INFO - Saved partition ticker=TYL, part 731 to parquet_data/ticker=TYL/part-731.parquet
+2025-07-30 14:01:34,224 - INFO - Processing chunk 733
+2025-07-30 14:01:34,272 - INFO - Saved partition ticker=TYL, part 732 to parquet_data/ticker=TYL/part-732.parquet
+2025-07-30 14:01:34,342 - INFO - Processing chunk 734
+2025-07-30 14:01:34,357 - INFO - Saved partition ticker=HPQ, part 733 to parquet_data/ticker=HPQ/part-733.parquet
+2025-07-30 14:01:34,395 - INFO - Saved partition ticker=TYL, part 733 to parquet_data/ticker=TYL/part-733.parquet
+2025-07-30 14:01:34,466 - INFO - Processing chunk 735
+2025-07-30 14:01:34,511 - INFO - Saved partition ticker=HPQ, part 734 to parquet_data/ticker=HPQ/part-734.parquet
+2025-07-30 14:01:34,581 - INFO - Processing chunk 736
+2025-07-30 14:01:34,622 - INFO - Saved partition ticker=HPQ, part 735 to parquet_data/ticker=HPQ/part-735.parquet
+2025-07-30 14:01:34,691 - INFO - Processing chunk 737
+2025-07-30 14:01:34,732 - INFO - Saved partition ticker=HPQ, part 736 to parquet_data/ticker=HPQ/part-736.parquet
+2025-07-30 14:01:34,798 - INFO - Processing chunk 738
+2025-07-30 14:01:34,840 - INFO - Saved partition ticker=HPQ, part 737 to parquet_data/ticker=HPQ/part-737.parquet
+2025-07-30 14:01:34,908 - INFO - Processing chunk 739
+2025-07-30 14:01:34,951 - INFO - Saved partition ticker=HPQ, part 738 to parquet_data/ticker=HPQ/part-738.parquet
+2025-07-30 14:01:35,022 - INFO - Processing chunk 740
+2025-07-30 14:01:35,066 - INFO - Saved partition ticker=HPQ, part 739 to parquet_data/ticker=HPQ/part-739.parquet
+2025-07-30 14:01:35,133 - INFO - Processing chunk 741
+2025-07-30 14:01:35,179 - INFO - Saved partition ticker=HPQ, part 740 to parquet_data/ticker=HPQ/part-740.parquet
+2025-07-30 14:01:35,252 - INFO - Processing chunk 742
+2025-07-30 14:01:35,293 - INFO - Saved partition ticker=HPQ, part 741 to parquet_data/ticker=HPQ/part-741.parquet
+2025-07-30 14:01:35,361 - INFO - Processing chunk 743
+2025-07-30 14:01:35,402 - INFO - Saved partition ticker=HPQ, part 742 to parquet_data/ticker=HPQ/part-742.parquet
+2025-07-30 14:01:35,476 - INFO - Processing chunk 744
+2025-07-30 14:01:35,511 - INFO - Saved partition ticker=HPQ, part 743 to parquet_data/ticker=HPQ/part-743.parquet
+2025-07-30 14:01:35,528 - INFO - Saved partition ticker=STM, part 743 to parquet_data/ticker=STM/part-743.parquet
+2025-07-30 14:01:35,597 - INFO - Processing chunk 745
+2025-07-30 14:01:35,639 - INFO - Saved partition ticker=STM, part 744 to parquet_data/ticker=STM/part-744.parquet
+2025-07-30 14:01:35,708 - INFO - Processing chunk 746
+2025-07-30 14:01:35,753 - INFO - Saved partition ticker=STM, part 745 to parquet_data/ticker=STM/part-745.parquet
+2025-07-30 14:01:35,823 - INFO - Processing chunk 747
+2025-07-30 14:01:35,861 - INFO - Saved partition ticker=STM, part 746 to parquet_data/ticker=STM/part-746.parquet
+2025-07-30 14:01:35,928 - INFO - Processing chunk 748
+2025-07-30 14:01:35,970 - INFO - Saved partition ticker=STM, part 747 to parquet_data/ticker=STM/part-747.parquet
+2025-07-30 14:01:36,035 - INFO - Processing chunk 749
+2025-07-30 14:01:36,076 - INFO - Saved partition ticker=STM, part 748 to parquet_data/ticker=STM/part-748.parquet
+2025-07-30 14:01:36,142 - INFO - Processing chunk 750
+2025-07-30 14:01:36,182 - INFO - Saved partition ticker=STM, part 749 to parquet_data/ticker=STM/part-749.parquet
+2025-07-30 14:01:36,248 - INFO - Processing chunk 751
+2025-07-30 14:01:36,292 - INFO - Saved partition ticker=STM, part 750 to parquet_data/ticker=STM/part-750.parquet
+2025-07-30 14:01:36,358 - INFO - Processing chunk 752
+2025-07-30 14:01:36,401 - INFO - Saved partition ticker=STM, part 751 to parquet_data/ticker=STM/part-751.parquet
+2025-07-30 14:01:36,469 - INFO - Processing chunk 753
+2025-07-30 14:01:36,509 - INFO - Saved partition ticker=STM, part 752 to parquet_data/ticker=STM/part-752.parquet
+2025-07-30 14:01:36,578 - INFO - Processing chunk 754
+2025-07-30 14:01:36,594 - INFO - Saved partition ticker=CPAY, part 753 to parquet_data/ticker=CPAY/part-753.parquet
+2025-07-30 14:01:36,625 - INFO - Saved partition ticker=STM, part 753 to parquet_data/ticker=STM/part-753.parquet
+2025-07-30 14:01:36,700 - INFO - Processing chunk 755
+2025-07-30 14:01:36,745 - INFO - Saved partition ticker=CPAY, part 754 to parquet_data/ticker=CPAY/part-754.parquet
+2025-07-30 14:01:36,815 - INFO - Processing chunk 756
+2025-07-30 14:01:36,858 - INFO - Saved partition ticker=CPAY, part 755 to parquet_data/ticker=CPAY/part-755.parquet
+2025-07-30 14:01:36,931 - INFO - Processing chunk 757
+2025-07-30 14:01:36,979 - INFO - Saved partition ticker=CPAY, part 756 to parquet_data/ticker=CPAY/part-756.parquet
+2025-07-30 14:01:37,050 - INFO - Processing chunk 758
+2025-07-30 14:01:37,096 - INFO - Saved partition ticker=CPAY, part 757 to parquet_data/ticker=CPAY/part-757.parquet
+2025-07-30 14:01:37,171 - INFO - Processing chunk 759
+2025-07-30 14:01:37,216 - INFO - Saved partition ticker=CPAY, part 758 to parquet_data/ticker=CPAY/part-758.parquet
+2025-07-30 14:01:37,285 - INFO - Processing chunk 760
+2025-07-30 14:01:37,330 - INFO - Saved partition ticker=CPAY, part 759 to parquet_data/ticker=CPAY/part-759.parquet
+2025-07-30 14:01:37,403 - INFO - Processing chunk 761
+2025-07-30 14:01:37,453 - INFO - Saved partition ticker=CPAY, part 760 to parquet_data/ticker=CPAY/part-760.parquet
+2025-07-30 14:01:37,522 - INFO - Processing chunk 762
+2025-07-30 14:01:37,543 - INFO - Saved partition ticker=CPAY, part 761 to parquet_data/ticker=CPAY/part-761.parquet
+2025-07-30 14:01:37,575 - INFO - Saved partition ticker=GDDY, part 761 to parquet_data/ticker=GDDY/part-761.parquet
+2025-07-30 14:01:37,654 - INFO - Processing chunk 763
+2025-07-30 14:01:37,695 - INFO - Saved partition ticker=GDDY, part 762 to parquet_data/ticker=GDDY/part-762.parquet
+2025-07-30 14:01:37,766 - INFO - Processing chunk 764
+2025-07-30 14:01:37,809 - INFO - Saved partition ticker=GDDY, part 763 to parquet_data/ticker=GDDY/part-763.parquet
+2025-07-30 14:01:37,879 - INFO - Processing chunk 765
+2025-07-30 14:01:37,920 - INFO - Saved partition ticker=GDDY, part 764 to parquet_data/ticker=GDDY/part-764.parquet
+2025-07-30 14:01:37,988 - INFO - Processing chunk 766
+2025-07-30 14:01:38,031 - INFO - Saved partition ticker=GDDY, part 765 to parquet_data/ticker=GDDY/part-765.parquet
+2025-07-30 14:01:38,104 - INFO - Processing chunk 767
+2025-07-30 14:01:38,153 - INFO - Saved partition ticker=GDDY, part 766 to parquet_data/ticker=GDDY/part-766.parquet
+2025-07-30 14:01:38,226 - INFO - Processing chunk 768
+2025-07-30 14:01:38,270 - INFO - Saved partition ticker=GDDY, part 767 to parquet_data/ticker=GDDY/part-767.parquet
+2025-07-30 14:01:38,347 - INFO - Processing chunk 769
+2025-07-30 14:01:38,393 - INFO - Saved partition ticker=GDDY, part 768 to parquet_data/ticker=GDDY/part-768.parquet
+2025-07-30 14:01:38,467 - INFO - Processing chunk 770
+2025-07-30 14:01:38,511 - INFO - Saved partition ticker=GDDY, part 769 to parquet_data/ticker=GDDY/part-769.parquet
+2025-07-30 14:01:38,517 - INFO - Saved partition ticker=ZM, part 769 to parquet_data/ticker=ZM/part-769.parquet
+2025-07-30 14:01:38,595 - INFO - Processing chunk 771
+2025-07-30 14:01:38,643 - INFO - Saved partition ticker=ZM, part 770 to parquet_data/ticker=ZM/part-770.parquet
+2025-07-30 14:01:38,715 - INFO - Processing chunk 772
+2025-07-30 14:01:38,766 - INFO - Saved partition ticker=ZM, part 771 to parquet_data/ticker=ZM/part-771.parquet
+2025-07-30 14:01:38,839 - INFO - Processing chunk 773
+2025-07-30 14:01:38,888 - INFO - Saved partition ticker=ZM, part 772 to parquet_data/ticker=ZM/part-772.parquet
+2025-07-30 14:01:38,960 - INFO - Processing chunk 774
+2025-07-30 14:01:39,008 - INFO - Saved partition ticker=ZM, part 773 to parquet_data/ticker=ZM/part-773.parquet
+2025-07-30 14:01:39,083 - INFO - Processing chunk 775
+2025-07-30 14:01:39,126 - INFO - Saved partition ticker=ZM, part 774 to parquet_data/ticker=ZM/part-774.parquet
+2025-07-30 14:01:39,196 - INFO - Processing chunk 776
+2025-07-30 14:01:39,239 - INFO - Saved partition ticker=ZM, part 775 to parquet_data/ticker=ZM/part-775.parquet
+2025-07-30 14:01:39,307 - INFO - Processing chunk 777
+2025-07-30 14:01:39,316 - INFO - Saved partition ticker=IOT, part 776 to parquet_data/ticker=IOT/part-776.parquet
+2025-07-30 14:01:39,352 - INFO - Saved partition ticker=ZM, part 776 to parquet_data/ticker=ZM/part-776.parquet
+2025-07-30 14:01:39,424 - INFO - Processing chunk 778
+2025-07-30 14:01:39,467 - INFO - Saved partition ticker=IOT, part 777 to parquet_data/ticker=IOT/part-777.parquet
+2025-07-30 14:01:39,537 - INFO - Processing chunk 779
+2025-07-30 14:01:39,582 - INFO - Saved partition ticker=IOT, part 778 to parquet_data/ticker=IOT/part-778.parquet
+2025-07-30 14:01:39,651 - INFO - Processing chunk 780
+2025-07-30 14:01:39,696 - INFO - Saved partition ticker=IOT, part 779 to parquet_data/ticker=IOT/part-779.parquet
+2025-07-30 14:01:39,762 - INFO - Processing chunk 781
+2025-07-30 14:01:39,786 - INFO - Saved partition ticker=ASX, part 780 to parquet_data/ticker=ASX/part-780.parquet
+2025-07-30 14:01:39,808 - INFO - Saved partition ticker=IOT, part 780 to parquet_data/ticker=IOT/part-780.parquet
+2025-07-30 14:01:39,876 - INFO - Processing chunk 782
+2025-07-30 14:01:39,917 - INFO - Saved partition ticker=ASX, part 781 to parquet_data/ticker=ASX/part-781.parquet
+2025-07-30 14:01:39,983 - INFO - Processing chunk 783
+2025-07-30 14:01:40,023 - INFO - Saved partition ticker=ASX, part 782 to parquet_data/ticker=ASX/part-782.parquet
+2025-07-30 14:01:40,094 - INFO - Processing chunk 784
+2025-07-30 14:01:40,134 - INFO - Saved partition ticker=ASX, part 783 to parquet_data/ticker=ASX/part-783.parquet
+2025-07-30 14:01:40,201 - INFO - Processing chunk 785
+2025-07-30 14:01:40,242 - INFO - Saved partition ticker=ASX, part 784 to parquet_data/ticker=ASX/part-784.parquet
+2025-07-30 14:01:40,313 - INFO - Processing chunk 786
+2025-07-30 14:01:40,365 - INFO - Saved partition ticker=ASX, part 785 to parquet_data/ticker=ASX/part-785.parquet
+2025-07-30 14:01:40,434 - INFO - Processing chunk 787
+2025-07-30 14:01:40,481 - INFO - Saved partition ticker=ASX, part 786 to parquet_data/ticker=ASX/part-786.parquet
+2025-07-30 14:01:40,558 - INFO - Processing chunk 788
+2025-07-30 14:01:40,607 - INFO - Saved partition ticker=ASX, part 787 to parquet_data/ticker=ASX/part-787.parquet
+2025-07-30 14:01:40,678 - INFO - Processing chunk 789
+2025-07-30 14:01:40,724 - INFO - Saved partition ticker=ASX, part 788 to parquet_data/ticker=ASX/part-788.parquet
+2025-07-30 14:01:40,728 - INFO - Saved partition ticker=GIB, part 788 to parquet_data/ticker=GIB/part-788.parquet
+2025-07-30 14:01:40,801 - INFO - Processing chunk 790
+2025-07-30 14:01:40,846 - INFO - Saved partition ticker=GIB, part 789 to parquet_data/ticker=GIB/part-789.parquet
+2025-07-30 14:01:40,916 - INFO - Processing chunk 791
+2025-07-30 14:01:40,964 - INFO - Saved partition ticker=GIB, part 790 to parquet_data/ticker=GIB/part-790.parquet
+2025-07-30 14:01:41,034 - INFO - Processing chunk 792
+2025-07-30 14:01:41,079 - INFO - Saved partition ticker=GIB, part 791 to parquet_data/ticker=GIB/part-791.parquet
+2025-07-30 14:01:41,150 - INFO - Processing chunk 793
+2025-07-30 14:01:41,192 - INFO - Saved partition ticker=GIB, part 792 to parquet_data/ticker=GIB/part-792.parquet
+2025-07-30 14:01:41,263 - INFO - Processing chunk 794
+2025-07-30 14:01:41,306 - INFO - Saved partition ticker=GIB, part 793 to parquet_data/ticker=GIB/part-793.parquet
+2025-07-30 14:01:41,382 - INFO - Processing chunk 795
+2025-07-30 14:01:41,417 - INFO - Saved partition ticker=AFRM, part 794 to parquet_data/ticker=AFRM/part-794.parquet
+2025-07-30 14:01:41,435 - INFO - Saved partition ticker=GIB, part 794 to parquet_data/ticker=GIB/part-794.parquet
+2025-07-30 14:01:41,514 - INFO - Processing chunk 796
+2025-07-30 14:01:41,567 - INFO - Saved partition ticker=AFRM, part 795 to parquet_data/ticker=AFRM/part-795.parquet
+2025-07-30 14:01:41,641 - INFO - Processing chunk 797
+2025-07-30 14:01:41,690 - INFO - Saved partition ticker=AFRM, part 796 to parquet_data/ticker=AFRM/part-796.parquet
+2025-07-30 14:01:41,769 - INFO - Processing chunk 798
+2025-07-30 14:01:41,815 - INFO - Saved partition ticker=AFRM, part 797 to parquet_data/ticker=AFRM/part-797.parquet
+2025-07-30 14:01:41,893 - INFO - Processing chunk 799
+2025-07-30 14:01:41,942 - INFO - Saved partition ticker=AFRM, part 798 to parquet_data/ticker=AFRM/part-798.parquet
+2025-07-30 14:01:42,014 - INFO - Processing chunk 800
+2025-07-30 14:01:42,063 - INFO - Saved partition ticker=AFRM, part 799 to parquet_data/ticker=AFRM/part-799.parquet
+2025-07-30 14:01:42,139 - INFO - Processing chunk 801
+2025-07-30 14:01:42,167 - INFO - Saved partition ticker=AFRM, part 800 to parquet_data/ticker=AFRM/part-800.parquet
+2025-07-30 14:01:42,195 - INFO - Saved partition ticker=GFS, part 800 to parquet_data/ticker=GFS/part-800.parquet
+2025-07-30 14:01:42,267 - INFO - Processing chunk 802
+2025-07-30 14:01:42,312 - INFO - Saved partition ticker=GFS, part 801 to parquet_data/ticker=GFS/part-801.parquet
+2025-07-30 14:01:42,385 - INFO - Processing chunk 803
+2025-07-30 14:01:42,429 - INFO - Saved partition ticker=GFS, part 802 to parquet_data/ticker=GFS/part-802.parquet
+2025-07-30 14:01:42,502 - INFO - Processing chunk 804
+2025-07-30 14:01:42,547 - INFO - Saved partition ticker=GFS, part 803 to parquet_data/ticker=GFS/part-803.parquet
+2025-07-30 14:01:42,622 - INFO - Processing chunk 805
+2025-07-30 14:01:42,673 - INFO - Saved partition ticker=CYBR, part 804 to parquet_data/ticker=CYBR/part-804.parquet
+2025-07-30 14:01:42,678 - INFO - Saved partition ticker=GFS, part 804 to parquet_data/ticker=GFS/part-804.parquet
+2025-07-30 14:01:42,749 - INFO - Processing chunk 806
+2025-07-30 14:01:42,794 - INFO - Saved partition ticker=CYBR, part 805 to parquet_data/ticker=CYBR/part-805.parquet
+2025-07-30 14:01:42,869 - INFO - Processing chunk 807
+2025-07-30 14:01:42,921 - INFO - Saved partition ticker=CYBR, part 806 to parquet_data/ticker=CYBR/part-806.parquet
+2025-07-30 14:01:42,998 - INFO - Processing chunk 808
+2025-07-30 14:01:43,043 - INFO - Saved partition ticker=CYBR, part 807 to parquet_data/ticker=CYBR/part-807.parquet
+2025-07-30 14:01:43,116 - INFO - Processing chunk 809
+2025-07-30 14:01:43,161 - INFO - Saved partition ticker=CYBR, part 808 to parquet_data/ticker=CYBR/part-808.parquet
+2025-07-30 14:01:43,234 - INFO - Processing chunk 810
+2025-07-30 14:01:43,277 - INFO - Saved partition ticker=CYBR, part 809 to parquet_data/ticker=CYBR/part-809.parquet
+2025-07-30 14:01:43,350 - INFO - Processing chunk 811
+2025-07-30 14:01:43,400 - INFO - Saved partition ticker=CYBR, part 810 to parquet_data/ticker=CYBR/part-810.parquet
+2025-07-30 14:01:43,475 - INFO - Processing chunk 812
+2025-07-30 14:01:43,503 - INFO - Saved partition ticker=CYBR, part 811 to parquet_data/ticker=CYBR/part-811.parquet
+2025-07-30 14:01:43,529 - INFO - Saved partition ticker=GRAB, part 811 to parquet_data/ticker=GRAB/part-811.parquet
+2025-07-30 14:01:43,603 - INFO - Processing chunk 813
+2025-07-30 14:01:43,651 - INFO - Saved partition ticker=GRAB, part 812 to parquet_data/ticker=GRAB/part-812.parquet
+2025-07-30 14:01:43,725 - INFO - Processing chunk 814
+2025-07-30 14:01:43,770 - INFO - Saved partition ticker=GRAB, part 813 to parquet_data/ticker=GRAB/part-813.parquet
+2025-07-30 14:01:43,841 - INFO - Processing chunk 815
+2025-07-30 14:01:43,886 - INFO - Saved partition ticker=GRAB, part 814 to parquet_data/ticker=GRAB/part-814.parquet
+2025-07-30 14:01:43,956 - INFO - Processing chunk 816
+2025-07-30 14:01:44,004 - INFO - Saved partition ticker=GRAB, part 815 to parquet_data/ticker=GRAB/part-815.parquet
+2025-07-30 14:01:44,077 - INFO - Processing chunk 817
+2025-07-30 14:01:44,113 - INFO - Saved partition ticker=GRAB, part 816 to parquet_data/ticker=GRAB/part-816.parquet
+2025-07-30 14:01:44,129 - INFO - Saved partition ticker=NOK, part 816 to parquet_data/ticker=NOK/part-816.parquet
+2025-07-30 14:01:44,198 - INFO - Processing chunk 818
+2025-07-30 14:01:44,248 - INFO - Saved partition ticker=NOK, part 817 to parquet_data/ticker=NOK/part-817.parquet
+2025-07-30 14:01:44,313 - INFO - Processing chunk 819
+2025-07-30 14:01:44,358 - INFO - Saved partition ticker=NOK, part 818 to parquet_data/ticker=NOK/part-818.parquet
+2025-07-30 14:01:44,445 - INFO - Processing chunk 820
+2025-07-30 14:01:44,506 - INFO - Saved partition ticker=NOK, part 819 to parquet_data/ticker=NOK/part-819.parquet
+2025-07-30 14:01:44,900 - INFO - Processing chunk 821
+2025-07-30 14:01:44,967 - INFO - Saved partition ticker=NOK, part 820 to parquet_data/ticker=NOK/part-820.parquet
+2025-07-30 14:01:45,039 - INFO - Processing chunk 822
+2025-07-30 14:01:45,085 - INFO - Saved partition ticker=NOK, part 821 to parquet_data/ticker=NOK/part-821.parquet
+2025-07-30 14:01:45,152 - INFO - Processing chunk 823
+2025-07-30 14:01:45,196 - INFO - Saved partition ticker=NOK, part 822 to parquet_data/ticker=NOK/part-822.parquet
+2025-07-30 14:01:45,267 - INFO - Processing chunk 824
+2025-07-30 14:01:45,312 - INFO - Saved partition ticker=NOK, part 823 to parquet_data/ticker=NOK/part-823.parquet
+2025-07-30 14:01:45,384 - INFO - Processing chunk 825
+2025-07-30 14:01:45,459 - INFO - Saved partition ticker=NOK, part 824 to parquet_data/ticker=NOK/part-824.parquet
+2025-07-30 14:01:45,529 - INFO - Processing chunk 826
+2025-07-30 14:01:45,572 - INFO - Saved partition ticker=NOK, part 825 to parquet_data/ticker=NOK/part-825.parquet
+2025-07-30 14:01:45,645 - INFO - Processing chunk 827
+2025-07-30 14:01:45,726 - INFO - Saved partition ticker=NOK, part 826 to parquet_data/ticker=NOK/part-826.parquet
+2025-07-30 14:01:45,815 - INFO - Processing chunk 828
+2025-07-30 14:01:45,857 - INFO - Saved partition ticker=NOK, part 827 to parquet_data/ticker=NOK/part-827.parquet
+2025-07-30 14:01:45,928 - INFO - Processing chunk 829
+2025-07-30 14:01:45,953 - INFO - Saved partition ticker=NOK, part 828 to parquet_data/ticker=NOK/part-828.parquet
+2025-07-30 14:01:45,978 - INFO - Saved partition ticker=NTAP, part 828 to parquet_data/ticker=NTAP/part-828.parquet
+2025-07-30 14:01:46,051 - INFO - Processing chunk 830
+2025-07-30 14:01:46,094 - INFO - Saved partition ticker=NTAP, part 829 to parquet_data/ticker=NTAP/part-829.parquet
+2025-07-30 14:01:46,165 - INFO - Processing chunk 831
+2025-07-30 14:01:46,208 - INFO - Saved partition ticker=NTAP, part 830 to parquet_data/ticker=NTAP/part-830.parquet
+2025-07-30 14:01:46,277 - INFO - Processing chunk 832
+2025-07-30 14:01:46,318 - INFO - Saved partition ticker=NTAP, part 831 to parquet_data/ticker=NTAP/part-831.parquet
+2025-07-30 14:01:46,389 - INFO - Processing chunk 833
+2025-07-30 14:01:46,432 - INFO - Saved partition ticker=NTAP, part 832 to parquet_data/ticker=NTAP/part-832.parquet
+2025-07-30 14:01:46,503 - INFO - Processing chunk 834
+2025-07-30 14:01:46,545 - INFO - Saved partition ticker=NTAP, part 833 to parquet_data/ticker=NTAP/part-833.parquet
+2025-07-30 14:01:46,619 - INFO - Processing chunk 835
+2025-07-30 14:01:46,661 - INFO - Saved partition ticker=NTAP, part 834 to parquet_data/ticker=NTAP/part-834.parquet
+2025-07-30 14:01:46,732 - INFO - Processing chunk 836
+2025-07-30 14:01:46,771 - INFO - Saved partition ticker=NTAP, part 835 to parquet_data/ticker=NTAP/part-835.parquet
+2025-07-30 14:01:46,840 - INFO - Processing chunk 837
+2025-07-30 14:01:46,879 - INFO - Saved partition ticker=NTAP, part 836 to parquet_data/ticker=NTAP/part-836.parquet
+2025-07-30 14:01:46,954 - INFO - Processing chunk 838
+2025-07-30 14:01:46,973 - INFO - Saved partition ticker=ALAB, part 837 to parquet_data/ticker=ALAB/part-837.parquet
+2025-07-30 14:01:46,999 - INFO - Saved partition ticker=NTAP, part 837 to parquet_data/ticker=NTAP/part-837.parquet
+2025-07-30 14:01:47,072 - INFO - Processing chunk 839
+2025-07-30 14:01:47,119 - INFO - Saved partition ticker=ALAB, part 838 to parquet_data/ticker=ALAB/part-838.parquet
+2025-07-30 14:01:47,186 - INFO - Processing chunk 840
+2025-07-30 14:01:47,209 - INFO - Saved partition ticker=ALAB, part 839 to parquet_data/ticker=ALAB/part-839.parquet
+2025-07-30 14:01:47,233 - INFO - Saved partition ticker=SSNC, part 839 to parquet_data/ticker=SSNC/part-839.parquet
+2025-07-30 14:01:47,305 - INFO - Processing chunk 841
+2025-07-30 14:01:47,346 - INFO - Saved partition ticker=SSNC, part 840 to parquet_data/ticker=SSNC/part-840.parquet
+2025-07-30 14:01:47,415 - INFO - Processing chunk 842
+2025-07-30 14:01:47,455 - INFO - Saved partition ticker=SSNC, part 841 to parquet_data/ticker=SSNC/part-841.parquet
+2025-07-30 14:01:47,527 - INFO - Processing chunk 843
+2025-07-30 14:01:47,567 - INFO - Saved partition ticker=SSNC, part 842 to parquet_data/ticker=SSNC/part-842.parquet
+2025-07-30 14:01:47,637 - INFO - Processing chunk 844
+2025-07-30 14:01:47,676 - INFO - Saved partition ticker=SSNC, part 843 to parquet_data/ticker=SSNC/part-843.parquet
+2025-07-30 14:01:47,744 - INFO - Processing chunk 845
+2025-07-30 14:01:47,784 - INFO - Saved partition ticker=SSNC, part 844 to parquet_data/ticker=SSNC/part-844.parquet
+2025-07-30 14:01:47,852 - INFO - Processing chunk 846
+2025-07-30 14:01:47,891 - INFO - Saved partition ticker=SSNC, part 845 to parquet_data/ticker=SSNC/part-845.parquet
+2025-07-30 14:01:47,957 - INFO - Processing chunk 847
+2025-07-30 14:01:47,997 - INFO - Saved partition ticker=SSNC, part 846 to parquet_data/ticker=SSNC/part-846.parquet
+2025-07-30 14:01:48,065 - INFO - Processing chunk 848
+2025-07-30 14:01:48,106 - INFO - Saved partition ticker=SSNC, part 847 to parquet_data/ticker=SSNC/part-847.parquet
+2025-07-30 14:01:48,177 - INFO - Processing chunk 849
+2025-07-30 14:01:48,220 - INFO - Saved partition ticker=CHKP, part 848 to parquet_data/ticker=CHKP/part-848.parquet
+2025-07-30 14:01:48,222 - INFO - Saved partition ticker=SSNC, part 848 to parquet_data/ticker=SSNC/part-848.parquet
+2025-07-30 14:01:48,299 - INFO - Processing chunk 850
+2025-07-30 14:01:48,351 - INFO - Saved partition ticker=CHKP, part 849 to parquet_data/ticker=CHKP/part-849.parquet
+2025-07-30 14:01:48,427 - INFO - Processing chunk 851
+2025-07-30 14:01:48,472 - INFO - Saved partition ticker=CHKP, part 850 to parquet_data/ticker=CHKP/part-850.parquet
+2025-07-30 14:01:48,552 - INFO - Processing chunk 852
+2025-07-30 14:01:48,598 - INFO - Saved partition ticker=CHKP, part 851 to parquet_data/ticker=CHKP/part-851.parquet
+2025-07-30 14:01:48,674 - INFO - Processing chunk 853
+2025-07-30 14:01:48,718 - INFO - Saved partition ticker=CHKP, part 852 to parquet_data/ticker=CHKP/part-852.parquet
+2025-07-30 14:01:48,795 - INFO - Processing chunk 854
+2025-07-30 14:01:48,839 - INFO - Saved partition ticker=CHKP, part 853 to parquet_data/ticker=CHKP/part-853.parquet
+2025-07-30 14:01:48,913 - INFO - Processing chunk 855
+2025-07-30 14:01:48,957 - INFO - Saved partition ticker=CHKP, part 854 to parquet_data/ticker=CHKP/part-854.parquet
+2025-07-30 14:01:49,033 - INFO - Processing chunk 856
+2025-07-30 14:01:49,079 - INFO - Saved partition ticker=CHKP, part 855 to parquet_data/ticker=CHKP/part-855.parquet
+2025-07-30 14:01:49,150 - INFO - Processing chunk 857
+2025-07-30 14:01:49,184 - INFO - Saved partition ticker=CHKP, part 856 to parquet_data/ticker=CHKP/part-856.parquet
+2025-07-30 14:01:49,201 - INFO - Saved partition ticker=LDOS, part 856 to parquet_data/ticker=LDOS/part-856.parquet
+2025-07-30 14:01:49,275 - INFO - Processing chunk 858
+2025-07-30 14:01:49,319 - INFO - Saved partition ticker=LDOS, part 857 to parquet_data/ticker=LDOS/part-857.parquet
+2025-07-30 14:01:49,390 - INFO - Processing chunk 859
+2025-07-30 14:01:49,431 - INFO - Saved partition ticker=LDOS, part 858 to parquet_data/ticker=LDOS/part-858.parquet
+2025-07-30 14:01:49,505 - INFO - Processing chunk 860
+2025-07-30 14:01:49,544 - INFO - Saved partition ticker=LDOS, part 859 to parquet_data/ticker=LDOS/part-859.parquet
+2025-07-30 14:01:49,609 - INFO - Processing chunk 861
+2025-07-30 14:01:49,649 - INFO - Saved partition ticker=LDOS, part 860 to parquet_data/ticker=LDOS/part-860.parquet
+2025-07-30 14:01:49,718 - INFO - Processing chunk 862
+2025-07-30 14:01:49,757 - INFO - Saved partition ticker=LDOS, part 861 to parquet_data/ticker=LDOS/part-861.parquet
+2025-07-30 14:01:49,825 - INFO - Processing chunk 863
+2025-07-30 14:01:49,866 - INFO - Saved partition ticker=LDOS, part 862 to parquet_data/ticker=LDOS/part-862.parquet
+2025-07-30 14:01:49,947 - INFO - Processing chunk 864
+2025-07-30 14:01:49,997 - INFO - Saved partition ticker=LDOS, part 863 to parquet_data/ticker=LDOS/part-863.parquet
+2025-07-30 14:01:50,064 - INFO - Processing chunk 865
+2025-07-30 14:01:50,108 - INFO - Saved partition ticker=LDOS, part 864 to parquet_data/ticker=LDOS/part-864.parquet
+2025-07-30 14:01:50,108 - INFO - Conversion completed successfully
+2025-07-30 14:01:50,110 - INFO - Verifying Parquet data
+2025-07-30 14:01:52,256 - ERROR - Error reading Parquet data: Unable to merge: Field ticker has incompatible types: string vs dictionary<values=string, indices=int32, ordered=0>
