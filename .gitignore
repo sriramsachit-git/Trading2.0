@@ -1,0 +1,23 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all TXT files
+*.txt
+
+# Ignore config file
+config.py
+
+# Specific files (in case they don't match patterns above)
+all_pairs_trading_results.csv
+high_corr_cointegrated_pairs.csv
+
+high_corr_stocks.csv
+
+HS_3650_Minute_All.csv
+
+HS_3650_Minute.csv
+combined_pairs_results.csv
+HS.CSV
+requirments.txt  # Assuming this is a typo for requirements.txt; change if needed
+
+ # Assuming this is a typo for save_to_parquet.py; change if needed
